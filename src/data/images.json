@@ -1,0 +1,44 @@
+{
+  "sucha-bela": {
+    "cover": "images/sucha-bela/cover.jpg",
+    "images": [
+      "images/sucha-bela/0.jpg",
+      "images/sucha-bela/1.jpg"
+    ]
+  },
+  "hernad-tamasfalvi-kolostor": {
+    "cover": "images/hernad-tamasfalvi-kolostor/cover.jpg",
+    "images": [
+      "images/hernad-tamasfalvi-kolostor/0.jpg",
+      "images/hernad-tamasfalvi-kolostor/1.jpg"
+    ]
+  },
+  "zejmar-geravy": {
+    "cover": "images/zejmar-geravy/cover.jpg",
+    "images": [
+      "images/zejmar-geravy/0.jpg",
+      "images/zejmar-geravy/1.jpg"
+    ]
+  },
+  "voroskolostor-klastorska": {
+    "cover": "images/voroskolostor-klastorska/cover.jpg",
+    "images": [
+      "images/voroskolostor-klastorska/0.jpg",
+      "images/voroskolostor-klastorska/1.jpg"
+    ]
+  },
+  "velky-kysel": {
+    "cover": "images/velky-kysel/cover.jpg",
+    "images": [
+      "images/velky-kysel/0.jpg",
+      "images/velky-kysel/1.jpg"
+    ]
+  },
+  "piecky": {
+    "cover": "images/piecky/cover.jpg",
+    "images": [
+      "images/piecky/0.jpg",
+      "images/piecky/1.jpg"
+    ]
+  }
+}

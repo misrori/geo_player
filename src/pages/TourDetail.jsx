@@ -1,5 +1,5 @@
 import { useEffect, useState } from 'react'
-import { useNavigate, useParams, Link } from 'react-router-dom'
+import { useNavigate, useParams, useLocation, Link } from 'react-router-dom'
 import { getTourById } from '../data/tours'
 import { fetchGpx, trackStats } from '../utils/gpx'
 import ElevationChart from '../components/ElevationChart'
@@ -8,6 +8,9 @@ export default function TourDetail() {
   const { id } = useParams()
   const tour = getTourById(id)
   const nav = useNavigate()
+  const location = useLocation()
+  // Vissza a listára a szűrőkkel együtt (ha onnan jöttünk), különben a főoldalra.
+  const back = () => location.key !== 'default' ? nav(-1) : nav('/')
   const [gpx, setGpx] = useState(null)
   const [gpxError, setGpxError] = useState(null)
   const [lightbox, setLightbox] = useState(null)
@@ -26,7 +29,7 @@ export default function TourDetail() {
     return (
       <>
         <header className="topbar">
-          <button className="back" onClick={() => nav('/')}>←</button>
+          <button className="back" onClick={back}>←</button>
           <h1>Nem található</h1>
         </header>
         <div className="error">Ez a túra nem található.</div>
@@ -52,7 +55,7 @@ export default function TourDetail() {
   return (
     <div className="detail">
       <header className="topbar">
-        <button className="back" onClick={() => nav('/')}>←</button>
+        <button className="back" onClick={back}>←</button>
         <h1 style={{ fontSize: '0.95rem' }}>{tour.title}</h1>
       </header>
 
@@ -70,7 +73,7 @@ export default function TourDetail() {
           <div className="stat__label">km</div>
         </div>
         <div className="stat">
-          <div className="stat__value">{tour.stats.distKm && Math.round(tour.stats.distKm / 3.5 * 10) / 10 || '~'}</div>
+          <div className="stat__value">{tour.stats.distKm && Math.round(tour.stats.distKm / (tour.type === 'bike' ? 15 : 3.5) * 10) / 10 || '~'}</div>
           <div className="stat__label">~ óra</div>
         </div>
         <div className="stat">
@@ -103,31 +106,42 @@ export default function TourDetail() {
         <p>{tour.description}</p>
       </div>
 
-      <div className="section">
-        <h2>Látnivalók</h2>
-        <ul>
-          {tour.highlights.map(h => <li key={h}>{h}</li>)}
-        </ul>
-      </div>
+      {tour.character && (
+        <div className="section">
+          <h2>A túra jellege</h2>
+          <p>{tour.character}</p>
+        </div>
+      )}
+
+      {tour.highlights.length > 0 && (
+        <div className="section">
+          <h2>Látnivalók</h2>
+          <ul>
+            {tour.highlights.map(h => <li key={h}>{h}</li>)}
+          </ul>
+        </div>
+      )}
 
       <div className="section">
-        <h2>Parkoló</h2>
+        <h2>{tour.parking.name === 'Kiindulópont' ? 'Kiindulópont' : 'Parkoló'}</h2>
       </div>
       <div className="parking-box">
         <h3>🅿️ {tour.parking.name}</h3>
-        <p>{tour.parking.note}</p>
+        {tour.parking.note && <p>{tour.parking.note}</p>}
         {parkingLat != null && (
           <div className="coord">GPS: {parkingLat.toFixed(5)}, {parkingLon.toFixed(5)}</div>
         )}
         {gpxError && !gpx && <div className="error" style={{ margin: '8px 0 0' }}>GPX hiba: {gpxError}</div>}
       </div>
 
-      <div className="section">
-        <h2>Felszerelés</h2>
-        <ul>
-          {tour.equipment.map(e => <li key={e}>{e}</li>)}
-        </ul>
-      </div>
+      {tour.equipment.length > 0 && (
+        <div className="section">
+          <h2>Felszerelés</h2>
+          <ul>
+            {tour.equipment.map(e => <li key={e}>{e}</li>)}
+          </ul>
+        </div>
+      )}
 
       <div className="section">
         <h2>Képek</h2>
@@ -152,7 +166,7 @@ export default function TourDetail() {
           onClick={openGoogleMaps}
           disabled={parkingLat == null}
         >
-          🧭 Navigáció parkolóhoz
+          🧭 Navigáció a starthoz
         </button>
         <Link to={`/tour/${tour.id}/play`} className="btn btn--primary">
           ▶ Túra indítása

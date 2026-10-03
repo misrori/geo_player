@@ -24,6 +24,38 @@ a { color: inherit; text-decoration: none; }
   width: 36px; height: 36px; border-radius: 50%; display: grid; place-items: center; cursor: pointer; }
 .topbar .spacer { flex: 1; }
 
+.topbar--home { flex-direction: column; align-items: stretch; gap: 10px; padding-bottom: 0; }
+.topbar__row { display: flex; align-items: center; gap: 12px; }
+.topbar__action { background: rgba(255,255,255,0.16); padding: 6px 12px; border-radius: 999px;
+  font-size: 0.82rem; font-weight: 600; white-space: nowrap; }
+.region-tabs { display: flex; gap: 4px; overflow-x: auto; scrollbar-width: none; margin: 0 -16px; padding: 0 12px; }
+.region-tabs::-webkit-scrollbar { display: none; }
+.region-tab {
+  flex: 0 0 auto; background: none; border: 0; color: rgba(255,255,255,0.75);
+  font: inherit; font-size: 0.9rem; font-weight: 600; padding: 8px 10px 10px; cursor: pointer;
+  border-bottom: 3px solid transparent; display: flex; align-items: center; gap: 6px;
+}
+.region-tab.active { color: #fff; border-bottom-color: #fff; }
+.region-tab__count { font-size: 0.72rem; background: rgba(255,255,255,0.2); border-radius: 999px; padding: 1px 7px; }
+
+.filters { padding: 12px 12px 0; display: grid; gap: 8px; max-width: 900px; margin: 0 auto; }
+.filters__search {
+  width: 100%; font: inherit; font-size: 16px; padding: 10px 14px;
+  border: 1px solid #dcdfe3; border-radius: 12px; background: #fff;
+}
+.filters__row { display: flex; gap: 6px; overflow-x: auto; scrollbar-width: none; }
+.filters__row::-webkit-scrollbar { display: none; }
+.filter-chip {
+  flex: 0 0 auto; font: inherit; font-size: 0.82rem; font-weight: 600; cursor: pointer;
+  padding: 6px 12px; border-radius: 999px; border: 1px solid #c8e6c9; background: #fff; color: #1b5e20;
+}
+.filter-chip.active { background: #2e7d32; border-color: #2e7d32; color: #fff; }
+.filters__clear { flex: 0 0 auto; font: inherit; font-size: 0.82rem; background: none; border: 0;
+  color: #c62828; cursor: pointer; padding: 6px 4px; }
+.filters__count { font-size: 0.78rem; color: #777; }
+.empty { padding: 30px 16px; text-align: center; color: #777; }
+.chip--bike { background: #e3f2fd; color: #1565c0; }
+
 .list { padding: 12px; display: grid; gap: 12px; }
 .card {
   background: #fff; border-radius: 14px; overflow: hidden;

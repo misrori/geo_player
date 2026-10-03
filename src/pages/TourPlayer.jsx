@@ -137,6 +137,7 @@ export default function TourPlayer({ custom = false }) {
         userPos={userPos}
         heading={heading}
         follow={follow}
+        onUserPan={() => setFollow(false)}
       />
 
       <div className="hud">

@@ -10,7 +10,7 @@ export default defineConfig({
       registerType: 'autoUpdate',
       includeAssets: ['favicon.svg', 'robots.txt', 'icons/*.png'],
       manifest: {
-        name: 'Szlovák Paradicsom Túra Player',
+        name: 'Túra Player',
         short_name: 'GeoPlayer',
         description: 'Túraútvonalak lejátszása élő GPS navigációval',
         theme_color: '#1b5e20',
@@ -26,7 +26,8 @@ export default defineConfig({
         ]
       },
       workbox: {
-        globPatterns: ['**/*.{js,css,html,png,jpg,jpeg,svg,gpx,json,webp}'],
+        // A túraképek (public/images) nem kerülnek előcache-be, csak megnyitáskor (runtime cache).
+        globPatterns: ['**/*.{js,css,html,png,svg,gpx,json,webp}'],
         maximumFileSizeToCacheInBytes: 5 * 1024 * 1024,
         runtimeCaching: [
           {
@@ -35,6 +36,14 @@ export default defineConfig({
             options: {
               cacheName: 'osm-tiles',
               expiration: { maxEntries: 500, maxAgeSeconds: 60 * 60 * 24 * 30 }
+            }
+          },
+          {
+            urlPattern: ({ url }) => url.pathname.includes('/images/') && /\.jpe?g$/i.test(url.pathname),
+            handler: 'CacheFirst',
+            options: {
+              cacheName: 'local-tour-images',
+              expiration: { maxEntries: 400, maxAgeSeconds: 60 * 60 * 24 * 90 }
             }
           },
           {

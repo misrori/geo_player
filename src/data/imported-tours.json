@@ -1,0 +1,2269 @@
+[
+  {
+    "id": "also-jegenye-volgy-paprikas-patak-vizeses-solymari-var",
+    "region": "budapest",
+    "type": "hike",
+    "title": "Alsó-Jegenye-völgy, Paprikás-patak vízesés, Solymári vár",
+    "subtitle": "A Budai-hegység legnagyobb vízesése",
+    "difficulty": "Könnyű",
+    "stats": {
+      "distKm": 5.6,
+      "ascM": 106,
+      "descM": 106,
+      "elevMin": 156,
+      "elevMax": 212
+    },
+    "parking": {
+      "name": "Kiindulópont",
+      "note": ""
+    },
+    "description": "A hangulatos Alsó-Jegenye-völgyben futó Paprikás-patak egy nagy, 4-5 méter magas sziklalépcsőjén találjuk a Budai-hegység legnagyobb vízesését. A patak partján haladó, kifejezetten gyerekbarát, akár babakocsival is végigjárható kényelmes, változatos sétaúton egészen a szép kilátást nyújtó solymári várig megyünk.",
+    "route": null,
+    "character": null,
+    "highlights": [
+      "Alsó-Jegenye-völgy",
+      "Paprikás-patak vízesés",
+      "Solymári vár"
+    ],
+    "equipment": [],
+    "gpx": "gpx/also-jegenye-volgy-paprikas-patak-vizeses-solymari-var.gpx",
+    "sourceUrl": "https://kirandulastippek.hu/budapest/also-jegenye-volgy-paprikas-patak-vizeses-solymari-var",
+    "coverImage": "images/also-jegenye-volgy-paprikas-patak-vizeses-solymari-var/cover.jpg",
+    "images": [
+      "images/also-jegenye-volgy-paprikas-patak-vizeses-solymari-var/0.jpg",
+      "images/also-jegenye-volgy-paprikas-patak-vizeses-solymari-var/1.jpg"
+    ]
+  },
+  {
+    "id": "remete-szurdok-mariaremete",
+    "region": "budapest",
+    "type": "hike",
+    "title": "Remete-szurdok, Máriaremete",
+    "subtitle": "Barlangokkal tűzdelt szurdok, kegytemplom és Örkény egypercesek egyvelege",
+    "difficulty": "Könnyű",
+    "stats": {
+      "distKm": 6,
+      "ascM": 163,
+      "descM": 163,
+      "elevMin": 244,
+      "elevMax": 359
+    },
+    "parking": {
+      "name": "Kiindulópont",
+      "note": ""
+    },
+    "description": "A meredek sziklafalakkal határolt, mély, árnyas Remete-szurdok könnyű megközelíthetőségének és kényelmes sétaútjának köszönhetően népszerű kirándulóhely, főleg kisgyerekes családok részére. A gyönyörű neogótikus Máriaremetei kegytemplomtól indulunk a szurdokba, a völgy kijáratánál Örkény egyperceseivel erőt merítve kerüljük meg a Hosszú-erdő-hegyet, felmászunk az oldalába mart kőfejtők peremére, ahonnan lenyűgöző kilátás nyílik a Budai-hegységre. Végül a szép kilátást nyújtó hegyoldalban ereszkedünk vissza a Remete-szurdok bejáratához.",
+    "route": null,
+    "character": null,
+    "highlights": [
+      "Remete-szurdok",
+      "Máriaremete"
+    ],
+    "equipment": [],
+    "gpx": "gpx/remete-szurdok-mariaremete.gpx",
+    "sourceUrl": "https://kirandulastippek.hu/budapest/remete-szurdok-mariaremete",
+    "coverImage": "images/remete-szurdok-mariaremete/cover.jpg",
+    "images": [
+      "images/remete-szurdok-mariaremete/0.jpg",
+      "images/remete-szurdok-mariaremete/1.jpg"
+    ]
+  },
+  {
+    "id": "janos-hegy-hars-hegy-tunder-szikla",
+    "region": "budapest",
+    "type": "hike",
+    "title": "János-hegy, Hárs-hegy, Tündér-szikla",
+    "subtitle": "Budapest és a Budai-hegység legnépszerűbb és legszebb kilátói, az Erzsébet, a Kaán Károly és a Makovecz Imre-kilátó",
+    "difficulty": "Közepes-nehéz",
+    "stats": {
+      "distKm": 11.1,
+      "ascM": 533,
+      "descM": 535,
+      "elevMin": 215,
+      "elevMax": 517
+    },
+    "parking": {
+      "name": "Kiindulópont",
+      "note": ""
+    },
+    "description": "Zugligetből, a Libegő alsó állomásától indul a Budai-hegység legszebb kilátóit csokorra fűző közepesen nehéz körtúránk. A budai hegyvidék egyik legjellegzetesebb pontja, a Tündér-szikla mellett kapaszkodunk fel Budapest legmagasabb pontjára, a János-hegyre (527 m), majd a Szépjuhászné nyergén át a Nagy-Hárs-hegyre (454 m), hogy a Kis-Hárs-hegy (362 m) különleges kilátótornyát érintve térjünk vissza Zugligetbe.",
+    "route": null,
+    "character": null,
+    "highlights": [
+      "János-hegy",
+      "Hárs-hegy",
+      "Tündér-szikla"
+    ],
+    "equipment": [],
+    "gpx": "gpx/janos-hegy-hars-hegy-tunder-szikla.gpx",
+    "sourceUrl": "https://kirandulastippek.hu/budapest/janos-hegy-hars-hegy-tunder-szikla",
+    "coverImage": "images/janos-hegy-hars-hegy-tunder-szikla/cover.jpg",
+    "images": [
+      "images/janos-hegy-hars-hegy-tunder-szikla/0.jpg",
+      "images/janos-hegy-hars-hegy-tunder-szikla/1.jpg"
+    ]
+  },
+  {
+    "id": "farkas-hegy-sorrento",
+    "region": "budapest",
+    "type": "hike",
+    "title": "Farkas-hegy, Sorrento",
+    "subtitle": "Parádés kirándulás a Budai-hegység déli részén",
+    "difficulty": "Könnyű",
+    "stats": {
+      "distKm": 6.6,
+      "ascM": 220,
+      "descM": 220,
+      "elevMin": 251,
+      "elevMax": 437
+    },
+    "parking": {
+      "name": "Kiindulópont",
+      "note": ""
+    },
+    "description": "Csillebércről induló túránk a Budaörs felett magasodó kopár Csiki-hegyek varázslatos vidékére vezet. A Farkas-hegy bámulatosan szép gyepes mezői, az onnan feltáruló pazar panoráma és a fenyőligetes, vadregényes Sorrento sziklái a csúcspontjai a könnyű kirándulásnak.",
+    "route": null,
+    "character": null,
+    "highlights": [
+      "Farkas-hegy",
+      "Sorrento"
+    ],
+    "equipment": [],
+    "gpx": "gpx/farkas-hegy-sorrento.gpx",
+    "sourceUrl": "https://kirandulastippek.hu/budapest/farkas-hegy-sorrento",
+    "coverImage": "images/farkas-hegy-sorrento/cover.jpg",
+    "images": [
+      "images/farkas-hegy-sorrento/0.jpg",
+      "images/farkas-hegy-sorrento/1.jpg"
+    ]
+  },
+  {
+    "id": "farkas-hegy-sorrento-sziklai-kortura-az-irhas-arokbol",
+    "region": "budapest",
+    "type": "hike",
+    "title": "Farkas-hegy, Sorrento sziklái, körtúra az Irhás-árokból",
+    "subtitle": "A Budaörsi Kopárok csodálatos világa egy kalandos körtúrán",
+    "difficulty": "Közepes",
+    "stats": {
+      "distKm": 10.3,
+      "ascM": 381,
+      "descM": 382,
+      "elevMin": 267,
+      "elevMax": 427
+    },
+    "parking": {
+      "name": "Kiindulópont",
+      "note": ""
+    },
+    "description": "A Budai-hegység déli részén húzódó Budaörsi Kopárok fővárosunk környékének talán legkülönlegesebb tája, a páratlan kilátás, a kissé mediterrán hangulat, a könnyű megközelíthetőség méltán teszi népszerű kirándulóhellyé a változatos formavilágú és növényzetű magaslatokat. A Gazdagrét feletti Irhás-árokból másszuk meg az erdős Frank-hegyet, majd a rejtélyes Piktortégla-üregek mellett érkezünk meg a Farkas-hegy vitorlázórepülő-emlékművel koronázott, mészkősziklákkal pettyezett hullámos platójára. A szomszédos asztal formájú Szekrényes-hegy meghódítása után a vadregényes Sorrento sziklái következnek, a csodaszép, fenyvessel borított gerincen keresztül, majd Csillebérc érintésével, a dzsungelszerű Irhás-árkon érünk vissza kiindulási pontunkra.",
+    "route": null,
+    "character": null,
+    "highlights": [
+      "Farkas-hegy",
+      "Sorrento sziklái"
+    ],
+    "equipment": [],
+    "gpx": "gpx/farkas-hegy-sorrento-sziklai-kortura-az-irhas-arokbol.gpx",
+    "sourceUrl": "https://kirandulastippek.hu/budapest/farkas-hegy-sorrento-sziklai-kortura-az-irhas-arokbol",
+    "coverImage": "images/farkas-hegy-sorrento-sziklai-kortura-az-irhas-arokbol/cover.jpg",
+    "images": [
+      "images/farkas-hegy-sorrento-sziklai-kortura-az-irhas-arokbol/0.jpg",
+      "images/farkas-hegy-sorrento-sziklai-kortura-az-irhas-arokbol/1.jpg"
+    ]
+  },
+  {
+    "id": "naplas-to-cinkotai-kiserdo",
+    "region": "budapest",
+    "type": "hike",
+    "title": "Naplás-tó, Cinkotai-kiserdő",
+    "subtitle": "Kilátótorony, tanösvény, parkerdő, horgásztó Pest szélén",
+    "difficulty": "Könnyű",
+    "stats": {
+      "distKm": 3.9,
+      "ascM": 105,
+      "descM": 105,
+      "elevMin": 140,
+      "elevMax": 176
+    },
+    "parking": {
+      "name": "Kiindulópont",
+      "note": ""
+    },
+    "description": "Budapest egyik legnagyobb állóvize, a helyi védettségű természeti értekként számon tartott Naplás-tó, Pest keleti peremén, a XVI. kerületben, Cinkotától délre fekszik. Az 1970-es években, a Szilas-patak felduzzasztásával létrehozott víztározó és környéke az elmúlt évtizedekben rengeteget fejlődött, az 1997 óta védettséget élvező tó és környéke számos védett és ritka növényfaj otthona, mintegy 200 különböző vízimadárfajt figyeltek meg már itt és nem utolsósorban egyetlen vadon élő teknősfajunk, a mocsári teknős kedvelt élettere is. A jelenleg horgásztóként is üzemelő Naplás-tó a környékbelieken kívül egyre több kirándulót vonz, partján és a mellette fekvő hangulatos Cinkotai kiserdőben gondozott tanösvények futnak, 2021-ben pedig átadták az extravagáns formájú, 21 méter magas kilátótornyot is.",
+    "route": null,
+    "character": null,
+    "highlights": [
+      "Naplás-tó",
+      "Cinkotai-kiserdő"
+    ],
+    "equipment": [],
+    "gpx": "gpx/naplas-to-cinkotai-kiserdo.gpx",
+    "sourceUrl": "https://kirandulastippek.hu/budapest/naplas-to-cinkotai-kiserdo",
+    "coverImage": "images/naplas-to-cinkotai-kiserdo/cover.jpg",
+    "images": [
+      "images/naplas-to-cinkotai-kiserdo/0.jpg",
+      "images/naplas-to-cinkotai-kiserdo/1.jpg"
+    ]
+  },
+  {
+    "id": "merzse-mocsar",
+    "region": "budapest",
+    "type": "hike",
+    "title": "Merzse-mocsár",
+    "subtitle": "Budapest egyetlen igazi mocsara gazdag élővilággal",
+    "difficulty": "Könnyű",
+    "stats": {
+      "distKm": 7.1,
+      "ascM": 35,
+      "descM": 34,
+      "elevMin": 130,
+      "elevMax": 157
+    },
+    "parking": {
+      "name": "Kiindulópont",
+      "note": ""
+    },
+    "description": "Valódi természeti kincset rejt Budapest XVII. kerülete, a Rákosmente, közvetlenül a ferihegyi repülőtér szomszédságában rejtőzik a Merzse-mocsár, fővárosunk egyik legháborítatlanabb vizes élőhelye, a pesti oldalra egykor jellemző mocsaras területek egyik utolsó megmaradt túlélője, hírmondója. A mocsár és környezetének élő- és növényvilágát egy 15 állomásos tanösvény segítségével ismerhetjük meg. Gépkocsival: A XVII. kerületben lévő Rákoskert vasúti megállóhelyet a Rákoskert sugárúton keresztül elérve az út végénél balra fordulva 100 méterre átkelünk a fénysorompóval biztosított síneken, majd a néhol hepehupás földúton 1200 métert haladva egyenesen érünk a tanösvény nyitó állomásához. Csapadékos, nedves időben terjedelmes pocsolyákra számítsunk, ilyenkor csak terepjáróval célszerű menni.",
+    "route": null,
+    "character": null,
+    "highlights": [],
+    "equipment": [],
+    "gpx": "gpx/merzse-mocsar.gpx",
+    "sourceUrl": "https://kirandulastippek.hu/budapest/merzse-mocsar",
+    "coverImage": "images/merzse-mocsar/cover.jpg",
+    "images": [
+      "images/merzse-mocsar/0.jpg",
+      "images/merzse-mocsar/1.jpg"
+    ]
+  },
+  {
+    "id": "budapest-leglatvanyosabb-turistautja-a-budai-zold-sav-a-gellert-hegytol-normafaig",
+    "region": "budapest",
+    "type": "hike",
+    "title": "Budapest leglátványosabb turistaútja, a Budai Zöld sáv a Gellért-hegytől Normafáig",
+    "subtitle": "Fővárosi gyalogtúra – Gellért-hegy, Tabán, Vérmező, Városmajor, Kis-Sváb-hegy, Széchenyi-hegy",
+    "difficulty": "Közepes-nehéz",
+    "stats": {
+      "distKm": 12.7,
+      "ascM": 527,
+      "descM": 168,
+      "elevMin": 112,
+      "elevMax": 470
+    },
+    "parking": {
+      "name": "Kiindulópont",
+      "note": ""
+    },
+    "description": "A Budai Zöld sáv turistaút a Gellért-hegy tövétől egészen Telkiig fűzi láncra a Budai-hegység legszebb részeit. A több mint 40 kilométeres útvonalból az első részét járjuk végig a Gellért-hegytől a Normafáig. Budapest, sőt az egész ország leglátványosabb jelzett turistaútjai közé tartozik a Zöld első szakasza, mely a Gellért-hegy Dunára néző sziklás oldalába vájva tárja fel, különböző perspektívákból a világörökségi panorámát. A jól követhető turistaút végigmegy az ismert budai parkokon, Tabán, Horváth-kert, Vérmező, Városmajor, majd felkapaszkodik a Kis-Sváb-hegyre, ahonnan számos lépcsősoron át emelkedünk egyre magasabbra. A házak között a Jókai-kert és a Széchenyi-emlékmű és kilátó kínál látnivalót, sétánkat a könnyen megközelíthető Normafánál zárjuk.",
+    "route": null,
+    "character": null,
+    "highlights": [],
+    "equipment": [],
+    "gpx": "gpx/budapest-leglatvanyosabb-turistautja-a-budai-zold-sav-a-gellert-hegytol-normafaig.gpx",
+    "sourceUrl": "https://kirandulastippek.hu/budapest/budapest-leglatvanyosabb-turistautja-a-budai-zold-sav-a-gellert-hegytol-normafaig",
+    "coverImage": "images/budapest-leglatvanyosabb-turistautja-a-budai-zold-sav-a-gellert-hegytol-normafaig/cover.jpg",
+    "images": [
+      "images/budapest-leglatvanyosabb-turistautja-a-budai-zold-sav-a-gellert-hegytol-normafaig/0.jpg",
+      "images/budapest-leglatvanyosabb-turistautja-a-budai-zold-sav-a-gellert-hegytol-normafaig/1.jpg"
+    ]
+  },
+  {
+    "id": "remete-barlang-remetehegyi-kofulke-hosszuerdo-hegy-kalvaria-domb-kilatasban-gazdag-kortura-mariaremeterol",
+    "region": "budapest",
+    "type": "hike",
+    "title": "Remete-barlang, Remetehegyi-kőfülke, Hosszúerdő-hegy, Kálvária-domb, kilátásban gazdag körtúra Máriaremetéről",
+    "subtitle": "Pompás, kevéssé ismert kilátóhelyek sora a főváros szélén",
+    "difficulty": "Közepes",
+    "stats": {
+      "distKm": 10.2,
+      "ascM": 356,
+      "descM": 357,
+      "elevMin": 235,
+      "elevMax": 413
+    },
+    "parking": {
+      "name": "Kiindulópont",
+      "note": ""
+    },
+    "description": "A neogótikus Máriaremetei-kegytemplomtól induló körtúránk láncra fűzi a környék legszebb kilátópontjait. A Szentkút érintésével sétálunk el a romantikus Remete-szurdok bejáratáig, majd felmászunk a Hosszúerdő-hegyre, ahonnan a Remeteszőlősi kőbánya szédítő sziklafalainak tetejéről csodáljuk meg a nem mindennapi panorámát. A szurdokba visszatérve felkapaszkodunk a Remete-barlanghoz, majd még feljebb a Remetehegyi-kőfülke látványos bejáratától élvezzük a Budai-hegységre nyíló kilátást. A Remete-hegyet átszelő Országos Kéktúra útvonalán érünk a főleg a Kevélyek vonulatára nyíló remek kilátással bíró Kálvária-dombra. Végül a Felső-Jegenye-völgy meseösvénye után sétálunk vissza Budaligeten keresztül kiindulópontunkra.",
+    "route": null,
+    "character": null,
+    "highlights": [
+      "Remete-barlang",
+      "Remetehegyi-kőfülke",
+      "Hosszúerdő-hegy",
+      "Kálvária-domb"
+    ],
+    "equipment": [],
+    "gpx": "gpx/remete-barlang-remetehegyi-kofulke-hosszuerdo-hegy-kalvaria-domb-kilatasban-gazdag-kortura-mariaremeterol.gpx",
+    "sourceUrl": "https://kirandulastippek.hu/budapest/remete-barlang-remetehegyi-kofulke-hosszuerdo-hegy-kalvaria-domb-kilatasban-gazdag-kortura-mariaremeterol",
+    "coverImage": "images/remete-barlang-remetehegyi-kofulke-hosszuerdo-hegy-kalvaria-domb-kilatasban-gazdag-kortura-mariaremeterol/cover.jpg",
+    "images": [
+      "images/remete-barlang-remetehegyi-kofulke-hosszuerdo-hegy-kalvaria-domb-kilatasban-gazdag-kortura-mariaremeterol/0.jpg",
+      "images/remete-barlang-remetehegyi-kofulke-hosszuerdo-hegy-kalvaria-domb-kilatasban-gazdag-kortura-mariaremeterol/1.jpg"
+    ]
+  },
+  {
+    "id": "pesthidegkutrol-a-harmashatar-hegyen-es-a-lato-hegyen-at-huvosvolgybe",
+    "region": "budapest",
+    "type": "hike",
+    "title": "Pesthidegkútról a Hármashatár-hegyen és a Látó-hegyen át Hűvösvölgybe",
+    "subtitle": "Budapesti Országos Kéktúra a Virágos-nyeregtől Hűvösvölgyig",
+    "difficulty": "Közepes-nehéz",
+    "stats": {
+      "distKm": 14,
+      "ascM": 487,
+      "descM": 517,
+      "elevMin": 210,
+      "elevMax": 488
+    },
+    "parking": {
+      "name": "Kiindulópont",
+      "note": ""
+    },
+    "description": "A Budai-hegység északi hegyeit fedezzük fel Pesthidegkút-Ófaluból induló gyalogtúránkon. A hangulatos Mosbach park után a középkori eredetű Gercsei-templom következik, majd a Hármashatár- és a Csúcs-hegy közti Virágos-nyeregbe megyünk fel. Itt rácsatlakozunk az Országos Kéktúra budapesti útvonalára, melyet egészen Hűvösvölgyig követünk. Először felkapaszkodunk a Vihar-hegyen át a pompás panorámát nyújtó Hármashatár-hegyre, majd a Guckler-kilátótól a légvédelmi bunkerek mellett kezdjük meg hosszú ereszkedésünket az adótornyokkal kidekorált hegyvonulatról. A Fenyőgyöngyétől már a Látó-hegyre szerpentinezünk fel, az Árpád-kilátóból feltáruló panoráma megcsodálása után a Glück Frigyes út kényelmes sétaútján, az Oroszlán-szikla érintésével, a Kecske-hegy sziklái alatt érünk a Határ-nyeregbe. A túra végén még megnézzük a Homok-hegyről feltáruló kilátást, aztán kellemes gyalogúton sétálunk Hűvösvölgybe.",
+    "route": null,
+    "character": null,
+    "highlights": [],
+    "equipment": [],
+    "gpx": "gpx/pesthidegkutrol-a-harmashatar-hegyen-es-a-lato-hegyen-at-huvosvolgybe.gpx",
+    "sourceUrl": "https://kirandulastippek.hu/budapest/pesthidegkutrol-a-harmashatar-hegyen-es-a-lato-hegyen-at-huvosvolgybe",
+    "coverImage": "images/pesthidegkutrol-a-harmashatar-hegyen-es-a-lato-hegyen-at-huvosvolgybe/cover.jpg",
+    "images": [
+      "images/pesthidegkutrol-a-harmashatar-hegyen-es-a-lato-hegyen-at-huvosvolgybe/0.jpg",
+      "images/pesthidegkutrol-a-harmashatar-hegyen-es-a-lato-hegyen-at-huvosvolgybe/1.jpg"
+    ]
+  },
+  {
+    "id": "zugligetbol-a-janos-hegyen-es-a-fazekas-hegyen-at-huvosvolgybe",
+    "region": "budapest",
+    "type": "hike",
+    "title": "Zugligetből a János-hegyen és a Fazekas-hegyen át Hűvösvölgybe",
+    "subtitle": "Változatos gyalogtúra a Budai-hegység ismert és ismeretlen vidékein",
+    "difficulty": "Közepes-nehéz",
+    "stats": {
+      "distKm": 10.6,
+      "ascM": 484,
+      "descM": 495,
+      "elevMin": 210,
+      "elevMax": 520
+    },
+    "parking": {
+      "name": "Kiindulópont",
+      "note": ""
+    },
+    "description": "Kétvégű túránk során a Budai-hegység sokak által ismert, népszerű részeit, mint pl. a János-hegy, Normafa, Nagy-rét, váltogatjuk kevésbé ismert, nyugalmasabb vidékekkel. A tömegközlekedéssel kitűnően megközelíthető Zugligetből indulunk, a Libegő alsó állomásától. Az impozáns Tündér-szikla alatt, a szebb napokat is látott Disznófőt érintve kapaszkodunk fel a Normafa szomszédságában fekvő Szent Anna-rétre, majd tovább Budapest legmagasabb pontjára, a János-hegyre. Az Erzsébet-kilátóból nyíló panoráma megcsodálása után a János-hegyi átjáróbarlangnál ereszkedünk le a Szépjuhásznéhoz, majd a Nagy-Hárs-hegy nyugati oldalában futó kényelmes Hárs-hegyi körúton érünk a Petneházy-rét szélére, ahonnan a Kis-Ördög árok vezet a Hűvösvölgyi Nagy-rét közkedvelt kirándulóhelyéhez. A túra végén még a Fazekas-hegy irdatlan mészkőszikláján trónoló, összegraffitizett bunkerhez is felmászunk a pompás kilátás kedvéért, végül a Hűvösvölgy villamosvégállomásnál fejezzük be változatos gyalogtúránkat.",
+    "route": null,
+    "character": null,
+    "highlights": [],
+    "equipment": [],
+    "gpx": "gpx/zugligetbol-a-janos-hegyen-es-a-fazekas-hegyen-at-huvosvolgybe.gpx",
+    "sourceUrl": "https://kirandulastippek.hu/budapest/zugligetbol-a-janos-hegyen-es-a-fazekas-hegyen-at-huvosvolgybe",
+    "coverImage": "images/zugligetbol-a-janos-hegyen-es-a-fazekas-hegyen-at-huvosvolgybe/cover.jpg",
+    "images": [
+      "images/zugligetbol-a-janos-hegyen-es-a-fazekas-hegyen-at-huvosvolgybe/0.jpg",
+      "images/zugligetbol-a-janos-hegyen-es-a-fazekas-hegyen-at-huvosvolgybe/1.jpg"
+    ]
+  },
+  {
+    "id": "matyas-hegy-arpad-kilato-apathy-szikla-ferenc-hegy",
+    "region": "budapest",
+    "type": "hike",
+    "title": "Mátyás-hegy, Árpád-kilátó, Apáthy-szikla, Ferenc-hegy",
+    "subtitle": "A budai oldal városi kilátóhelyein",
+    "difficulty": "Közepes",
+    "stats": {
+      "distKm": 11.4,
+      "ascM": 375,
+      "descM": 394,
+      "elevMin": 112,
+      "elevMax": 369
+    },
+    "parking": {
+      "name": "Kiindulópont",
+      "note": "Óbudai Egyetem, III., Doberdó u., legközelebbi villamosmegálló a Bécsi úton, az új budai fonódó vonalán, Katinyi mártírok parkja. Autóval a parkolás díjköteles, még az egyetem előtt is, az erdő szélén!!"
+    },
+    "description": "Változatos gyalogtúránk a budai oldal ismert és kevésbé ismert kilátóhelyeit fűzi láncra, a Mátyás-hegyi kőfejtő pereme, a közkedvelt Látó-hegyi Árpád-kilátó, az ikonikus Apáthy-szikla, a házak közt rejtőző Balogh Ádám-szikla, a Ferenc-hegy kellemes erdősávja és a József-hegyi kilátó mind bejárható egy kényelmes kirándulás keretében végig jelzett turistautakon, bár sokszor beépített területen haladva.",
+    "route": null,
+    "character": "Végig jelzett útvonal, a túra második felének nagy részében beépített területen, aszfaltúton haladunk, néhol a házak között ritkásak a jelzések, főleg villanyoszlopokon láthatjuk őket. A Mátyás-hegyre és a Gugger-hegyre közepes kaptató vezet fel. Folyadékot vigyünk, útközben egy nyomós kutat találunk, forrás nincsen, két élelmiszerboltból tankolhatunk fel menet közben.",
+    "highlights": [
+      "Mátyás-hegy",
+      "Árpád-kilátó",
+      "Apáthy-szikla",
+      "Ferenc-hegy"
+    ],
+    "equipment": [],
+    "gpx": "gpx/matyas-hegy-arpad-kilato-apathy-szikla-ferenc-hegy.gpx",
+    "sourceUrl": "https://kirandulastippek.hu/budapest/matyas-hegy-arpad-kilato-apathy-szikla-ferenc-hegy",
+    "coverImage": "images/matyas-hegy-arpad-kilato-apathy-szikla-ferenc-hegy/cover.jpg",
+    "images": [
+      "images/matyas-hegy-arpad-kilato-apathy-szikla-ferenc-hegy/0.jpg",
+      "images/matyas-hegy-arpad-kilato-apathy-szikla-ferenc-hegy/1.jpg"
+    ]
+  },
+  {
+    "id": "ordog-orom-normafa-makkosmaria-frank-hegy-rupp-hegy",
+    "region": "budapest",
+    "type": "hike",
+    "title": "Ördög-orom, Normafa, Makkosmária, Frank-hegy, Rupp-hegy",
+    "subtitle": "Pazar kilátóhelyek a Budai-hegység déli vonulatain",
+    "difficulty": "Közepes-nehéz",
+    "stats": {
+      "distKm": 14,
+      "ascM": 438,
+      "descM": 436,
+      "elevMin": 202,
+      "elevMax": 480
+    },
+    "parking": {
+      "name": "Kiindulópont",
+      "note": ""
+    },
+    "description": "Változatos körtúra a Budai-hegység déli magaslatain az Ördög-oromról a Farkas-völgyön keresztül a Normafára, Makkosmáriáig, majd vissza a Frank-hegyen és a Rupp-hegyen át. Gyalogtúránk csúcspontjai a páratlan kilátóhelyek, az Ördög-orom bizarr sziklaalakzatai, a Normafa meredek lejtője, a Frank-hegy és a Rupp-hegy védett, kopár teteje. Ráadásként megcsodálhatjuk a Makkosmáriai kegytemplom barokk épületét.",
+    "route": null,
+    "character": "Többnyire kényelmes, jelzett gyalogösvényeken, néhol közepes kaptatókkal, de különösebb nehézség nélkül teljesíthető túra. A legfárasztóbb szakasz mindjárt az elején, az Ördög-oromra való lépcsőkön történő felkapaszkodás. A túra végigjárásához a túracipő a legjobb választás, természetsen egy pár, a nedvességet jól elvezető, dörzsölésmentes anyagból készült profi túrazoknival. Az úton nem sok vízvételi lehetőség van, egy kis méretű hátizsákban tökéletesen elférnek egymás mellett a nasik és az innivaló is.",
+    "highlights": [
+      "Ördög-orom",
+      "Normafa",
+      "Makkosmária",
+      "Frank-hegy",
+      "Rupp-hegy"
+    ],
+    "equipment": [],
+    "gpx": "gpx/ordog-orom-normafa-makkosmaria-frank-hegy-rupp-hegy.gpx",
+    "sourceUrl": "https://kirandulastippek.hu/budapest/ordog-orom-normafa-makkosmaria-frank-hegy-rupp-hegy",
+    "coverImage": "images/ordog-orom-normafa-makkosmaria-frank-hegy-rupp-hegy/cover.jpg",
+    "images": [
+      "images/ordog-orom-normafa-makkosmaria-frank-hegy-rupp-hegy/0.jpg",
+      "images/ordog-orom-normafa-makkosmaria-frank-hegy-rupp-hegy/1.jpg"
+    ]
+  },
+  {
+    "id": "harmashatar-hegy-kalvaria-hegy",
+    "region": "budapest",
+    "type": "hike",
+    "title": "Hármashatár-hegy, Kálvária-hegy",
+    "subtitle": "A Budai-hegység északkeleti hegyvonulatán a Hármashatár-hegyről a Csúcs-hegyen át a Kálvária-hegyre",
+    "difficulty": "Közepes-nehéz",
+    "stats": {
+      "distKm": 14.7,
+      "ascM": 493,
+      "descM": 493,
+      "elevMin": 291,
+      "elevMax": 484
+    },
+    "parking": {
+      "name": "Kiindulópont",
+      "note": ""
+    },
+    "description": "Kilátásban gazdag, könnyű, változatos gyalogtúra le-föl hullámozva a Hidegkúti-medencét a Solymári-völggyel elválasztó hegyek gerincén, a népszerű Hármashatár-hegy (495 m) pazar kilátást nyújtó kopár platójától a pesthidegkúti, fantasztikus, teljes körpanorámájú Kálvária-hegyig (384 m) és vissza.",
+    "route": null,
+    "character": null,
+    "highlights": [
+      "Hármashatár-hegy",
+      "Kálvária-hegy"
+    ],
+    "equipment": [],
+    "gpx": "gpx/harmashatar-hegy-kalvaria-hegy.gpx",
+    "sourceUrl": "https://kirandulastippek.hu/budapest/harmashatar-hegy-kalvaria-hegy",
+    "coverImage": "images/harmashatar-hegy-kalvaria-hegy/cover.jpg",
+    "images": [
+      "images/harmashatar-hegy-kalvaria-hegy/0.jpg",
+      "images/harmashatar-hegy-kalvaria-hegy/1.jpg"
+    ]
+  },
+  {
+    "id": "holdvilag-arok",
+    "region": "budapest-kornyeke",
+    "type": "hike",
+    "title": "Holdvilág-árok",
+    "subtitle": "A legendák szurdoka",
+    "difficulty": "Könnyű",
+    "stats": {
+      "distKm": 5.3,
+      "ascM": 216,
+      "descM": 217,
+      "elevMin": 194,
+      "elevMax": 393
+    },
+    "parking": {
+      "name": "Kiindulópont",
+      "note": ""
+    },
+    "description": "A Visegrádi-hegység egyik legszebb, legvadregényesebb, szűk, kanyonszerű szurdoka a kultikus helyként is ismert, misztikus Holdvilág-árok. Az alábbiakban ajánlott útvonal a szurdok leggyorsabb és legrövidebb elérhetőségét vázolja. Volt csikóváraljai turistaház előtti parkoló, megközelíthető a Pomáz-Dobogókő útról, a Csobánkai leágazástól 3-400 méterre jobbra ágazó kis, vékony aszfaltos úton még kb. 500 métert megyünk a parkolóig. (Tábla nem jelzi a leágazást!)",
+    "route": null,
+    "character": null,
+    "highlights": [],
+    "equipment": [],
+    "gpx": "gpx/holdvilag-arok.gpx",
+    "sourceUrl": "https://kirandulastippek.hu/budapest-kornyeke/holdvilag-arok",
+    "coverImage": "images/holdvilag-arok/cover.jpg",
+    "images": [
+      "images/holdvilag-arok/0.jpg",
+      "images/holdvilag-arok/1.jpg"
+    ]
+  },
+  {
+    "id": "pilisszentkereszt-dera-szurdok",
+    "region": "budapest-kornyeke",
+    "type": "hike",
+    "title": "Pilisszentkereszt, Dera-szurdok",
+    "subtitle": "Fantasztikus, mesebeli szurdok",
+    "difficulty": "Könnyű",
+    "stats": {
+      "distKm": 1.8,
+      "ascM": 74,
+      "descM": 74,
+      "elevMin": 256,
+      "elevMax": 317
+    },
+    "parking": {
+      "name": "Kiindulópont",
+      "note": ""
+    },
+    "description": "Legtöbben egyszerűen csak Szurdok néven ismerik a Pilis egyik leghangulatosabb patakvölgyét. Pilisszentkereszttől délkeletre, a falu szélső házaitól nem messze kezdődik a több mint 1 km hosszú, meredek sziklák között kanyargó szurdok. A szoros látványos részén az Országos Kéktúra útvonala vezet át, a szurdok felső, a faluhoz közelebbi végétől egy újonnan kialakított, jelzett panorámaösvényen megyünk vissza, végig a sziklás gerincen, a parkolóig. A túra időtartama: 1 óra, kényelmes tempóban, kisebb pihenőkkel",
+    "route": null,
+    "character": null,
+    "highlights": [
+      "Pilisszentkereszt",
+      "Dera-szurdok"
+    ],
+    "equipment": [],
+    "gpx": "gpx/pilisszentkereszt-dera-szurdok.gpx",
+    "sourceUrl": "https://kirandulastippek.hu/budapest-kornyeke/pilisszentkereszt-dera-szurdok",
+    "coverImage": "images/pilisszentkereszt-dera-szurdok/cover.jpg",
+    "images": [
+      "images/pilisszentkereszt-dera-szurdok/0.jpg",
+      "images/pilisszentkereszt-dera-szurdok/1.jpg"
+    ]
+  },
+  {
+    "id": "dobogoko",
+    "region": "budapest-kornyeke",
+    "type": "hike",
+    "title": "Dobogókő",
+    "subtitle": "Páratlan panoráma, gigászi sziklák közt a Dunakanyar felett",
+    "difficulty": "Közepes",
+    "stats": {
+      "distKm": 7.1,
+      "ascM": 255,
+      "descM": 255,
+      "elevMin": 584,
+      "elevMax": 703
+    },
+    "parking": {
+      "name": "Kiindulópont",
+      "note": ""
+    },
+    "description": "Dobogókő elsősorban kitűnő megközelíthetősége, és nagyszerű panorámát nyújtó kilátóhelyei miatt népszerű célpont, télen, megfelelő hóviszonyok esetén lesiklópályáját is sokan látogatják. A hegy, monumentális sziklákkal teletűzdelt északi oldalában vezető látványos Thirring-körút a hegység egyik legizgalmasabb túraútvonala. A csúcs körül üdülőkből álló települést találunk, amely manapság kissé lehangoló látványt nyújt, bezárt, elhagyatott, gazos szállodákkal, kevésbé gondozott hétvégi házakkal, bár az elmúlt pár évben kissé rendbe hozták a Pilisszentkereszthez tartozó telepet.",
+    "route": null,
+    "character": null,
+    "highlights": [],
+    "equipment": [],
+    "gpx": "gpx/dobogoko.gpx",
+    "sourceUrl": "https://kirandulastippek.hu/budapest-kornyeke/dobogoko",
+    "coverImage": "images/dobogoko/cover.jpg",
+    "images": [
+      "images/dobogoko/0.jpg",
+      "images/dobogoko/1.jpg"
+    ]
+  },
+  {
+    "id": "ko-hegy",
+    "region": "budapest-kornyeke",
+    "type": "hike",
+    "title": "Kő-hegy",
+    "subtitle": "Csodálatos kilátás, vad sziklaalakzatok Szentendre környékén",
+    "difficulty": "Könnyű",
+    "stats": {
+      "distKm": 6.1,
+      "ascM": 208,
+      "descM": 207,
+      "elevMin": 202,
+      "elevMax": 367
+    },
+    "parking": {
+      "name": "Kiindulópont",
+      "note": ""
+    },
+    "description": "Rövid, de változatos kirándulás a Szentendre és Pomáz között magasodó, fantasztikus panorámájú Kő-hegyre. A nem túl magas (366 m) hegycsúcs déli oldala több mint 100 méteres szikla letöréssel néz rá a Duna-menti síkságra, bizarr sziklaformákat és lélegzetelállító kilátást nyújtva az ide látogatóknak. A hegyre menet még a vad Vasas-szakadékot is felfedezhetjük.",
+    "route": null,
+    "character": null,
+    "highlights": [],
+    "equipment": [],
+    "gpx": "gpx/ko-hegy.gpx",
+    "sourceUrl": "https://kirandulastippek.hu/budapest-kornyeke/ko-hegy",
+    "coverImage": "images/ko-hegy/cover.jpg",
+    "images": [
+      "images/ko-hegy/0.jpg",
+      "images/ko-hegy/1.jpg"
+    ]
+  },
+  {
+    "id": "pilisborosjeno-egri-var-romjai-teve-szikla-koves-berc",
+    "region": "budapest-kornyeke",
+    "type": "hike",
+    "title": "Pilisborosjenő, Egri vár romjai, Teve-szikla, Köves-bérc",
+    "subtitle": "Sziklatornyok, impozáns művárromok nyomában a Pilis déli lejtőin",
+    "difficulty": "Közepes",
+    "stats": {
+      "distKm": 10.4,
+      "ascM": 316,
+      "descM": 316,
+      "elevMin": 144,
+      "elevMax": 275
+    },
+    "parking": {
+      "name": "Kiindulópont",
+      "note": ""
+    },
+    "description": "Könnyű, változatos gyalogtúra a Pilisborosjenő környéki hegyekben, a séta csúcspontjai az egri vár romjai, mely a nagysikerű Egri csillagok című film sokak által ismerős díszletéül szolgált és a Teve-szikla bizarr sziklaformációi.",
+    "route": null,
+    "character": null,
+    "highlights": [
+      "Pilisborosjenő",
+      "Egri vár romjai",
+      "Teve-szikla",
+      "Köves-bérc"
+    ],
+    "equipment": [],
+    "gpx": "gpx/pilisborosjeno-egri-var-romjai-teve-szikla-koves-berc.gpx",
+    "sourceUrl": "https://kirandulastippek.hu/budapest-kornyeke/pilisborosjeno-egri-var-romjai-teve-szikla-koves-berc",
+    "coverImage": "images/pilisborosjeno-egri-var-romjai-teve-szikla-koves-berc/cover.jpg",
+    "images": [
+      "images/pilisborosjeno-egri-var-romjai-teve-szikla-koves-berc/0.jpg",
+      "images/pilisborosjeno-egri-var-romjai-teve-szikla-koves-berc/1.jpg"
+    ]
+  },
+  {
+    "id": "lajos-forras-vasas-szakadek-ko-hegy",
+    "region": "budapest-kornyeke",
+    "type": "hike",
+    "title": "Lajos-forrás, Vasas-szakadék, Kő-hegy",
+    "subtitle": "Források, bizarr sziklaalakzatok, pazar panoráma, autentikus turistaház",
+    "difficulty": "Közepes",
+    "stats": {
+      "distKm": 8.1,
+      "ascM": 280,
+      "descM": 293,
+      "elevMin": 240,
+      "elevMax": 455
+    },
+    "parking": {
+      "name": "Kiindulópont",
+      "note": ""
+    },
+    "description": "Népszerű gyalogtúra a bővizű Lajos-forrástól, az elbűvölő környezetben fekvő Csepel-forrás és a Vasas-szakadék érintésével a barátságos turistaházáról és jellegzetes sziklaformációiról híres, megkapó panorámát nyújtó Kő-hegyre.",
+    "route": null,
+    "character": null,
+    "highlights": [
+      "Lajos-forrás",
+      "Vasas-szakadék",
+      "Kő-hegy"
+    ],
+    "equipment": [],
+    "gpx": "gpx/lajos-forras-vasas-szakadek-ko-hegy.gpx",
+    "sourceUrl": "https://kirandulastippek.hu/budapest-kornyeke/lajos-forras-vasas-szakadek-ko-hegy",
+    "coverImage": "images/lajos-forras-vasas-szakadek-ko-hegy/cover.jpg",
+    "images": [
+      "images/lajos-forras-vasas-szakadek-ko-hegy/0.jpg",
+      "images/lajos-forras-vasas-szakadek-ko-hegy/1.jpg"
+    ]
+  },
+  {
+    "id": "jagi-tanosveny",
+    "region": "budapest-kornyeke",
+    "type": "hike",
+    "title": "Jági tanösvény",
+    "subtitle": "Könnyű, változatos tanösvény",
+    "difficulty": "Könnyű",
+    "stats": {
+      "distKm": 4.3,
+      "ascM": 127,
+      "descM": 128,
+      "elevMin": 213,
+      "elevMax": 296
+    },
+    "parking": {
+      "name": "Kiindulópont",
+      "note": ""
+    },
+    "description": "A népszerű, könnyű körtúrával bejárható Jági tanösvény az Európa Diplomás Nagy-Szénási fokozottan védett terület északi részén, Pilisszentiván határában található.",
+    "route": null,
+    "character": null,
+    "highlights": [],
+    "equipment": [],
+    "gpx": "gpx/jagi-tanosveny.gpx",
+    "sourceUrl": "https://kirandulastippek.hu/budapest-kornyeke/jagi-tanosveny",
+    "coverImage": "images/jagi-tanosveny/cover.jpg",
+    "images": [
+      "images/jagi-tanosveny/0.jpg",
+      "images/jagi-tanosveny/1.jpg"
+    ]
+  },
+  {
+    "id": "nyakas-ko-a-budai-hegyseg-legmenobb-sziklaja",
+    "region": "budapest-kornyeke",
+    "type": "hike",
+    "title": "Nyakas-kő, a Budai-hegység legmenőbb sziklája",
+    "subtitle": "Impozáns sziklaalakzatok a főváros közelében",
+    "difficulty": "Könnyű",
+    "stats": {
+      "distKm": 1.7,
+      "ascM": 101,
+      "descM": 99,
+      "elevMin": 133,
+      "elevMax": 219
+    },
+    "parking": {
+      "name": "Kiindulópont",
+      "note": ""
+    },
+    "description": "Biatorbágy déli határában, a Tétényi-fennsík nyugati letörésénél, az erózió lenyűgöző sziklaformációkat alkotott. A jellegzetes alakja után Nyakas-kőnek nevezett szikla geológiai értéke mellett elsőrangú túracélpont, a látványos kő lapos tetejére merészebbek ki is mászhatnak, de kissé feljebb mászva káprázatos kilátás nyílik a mészkősziklákra, a környék településekkel sűrűn átszőtt síkságára. A mellette, hosszan húzódó Madárszirt is igen impozáns, a sziklafal tetején vezető turistautunkról a beszédes nevű Százlépcsőn ereszkedünk le a gyepes, szavanna jellegű, lágyan hullámzó vidékre.",
+    "route": null,
+    "character": null,
+    "highlights": [],
+    "equipment": [],
+    "gpx": "gpx/nyakas-ko-a-budai-hegyseg-legmenobb-sziklaja.gpx",
+    "sourceUrl": "https://kirandulastippek.hu/budapest-kornyeke/nyakas-ko-a-budai-hegyseg-legmenobb-sziklaja",
+    "coverImage": "images/nyakas-ko-a-budai-hegyseg-legmenobb-sziklaja/cover.jpg",
+    "images": [
+      "images/nyakas-ko-a-budai-hegyseg-legmenobb-sziklaja/0.jpg",
+      "images/nyakas-ko-a-budai-hegyseg-legmenobb-sziklaja/1.jpg"
+    ]
+  },
+  {
+    "id": "pilis-teto",
+    "region": "budapest-kornyeke",
+    "type": "hike",
+    "title": "Pilis-tető",
+    "subtitle": "Gyönyörű mészkősziklák, felejthetetlen kilátás",
+    "difficulty": "Közepes-nehéz",
+    "stats": {
+      "distKm": 14.4,
+      "ascM": 450,
+      "descM": 453,
+      "elevMin": 410,
+      "elevMax": 753
+    },
+    "parking": {
+      "name": "Kiindulópont",
+      "note": ""
+    },
+    "description": "Csodálatos kilátást nyújtó, közepes hosszúságú, látványos kirándulás a Pilis-hegység legmagasabb pontjára, a 756 m magas, kilátótoronnyal koronázott Pilis-tetőre.A Pilis-tető kopár platóiról, vakítóan fehér mészkőszirtjeiről feledhetetlen kilátásban lesz részünk e könnyű körtúra során. Útközben a múlt érdekes emlékeivel is találkozhatunk, láthatunk egy hajdani titkos rakétabázist, és egy középkori apátság romjai mellett is elhaladunk. 2014 óta az építészileg is izgalmas Boldog Özséb-kilátóból élvezhetjük a parádés körpanorámát.",
+    "route": null,
+    "character": null,
+    "highlights": [],
+    "equipment": [],
+    "gpx": "gpx/pilis-teto.gpx",
+    "sourceUrl": "https://kirandulastippek.hu/budapest-kornyeke/pilis-teto",
+    "coverImage": "images/pilis-teto/cover.jpg",
+    "images": [
+      "images/pilis-teto/0.jpg",
+      "images/pilis-teto/1.jpg"
+    ]
+  },
+  {
+    "id": "holdvilag-arok-lajos-forras-bolcso-hegy-kortura",
+    "region": "budapest-kornyeke",
+    "type": "hike",
+    "title": "Holdvilág-árok, Lajos-forrás, Bölcső-hegy körtúra",
+    "subtitle": "Kultikus szurdok, mesés kilátóhelyek",
+    "difficulty": "Közepes-nehéz",
+    "stats": {
+      "distKm": 9.9,
+      "ascM": 519,
+      "descM": 523,
+      "elevMin": 206,
+      "elevMax": 574
+    },
+    "parking": {
+      "name": "Kiindulópont",
+      "note": ""
+    },
+    "description": "A Visegrádi-hegység déli részének legszebb látnivalóit fűzzük fel a volt Csikóváraljai turistaháztól induló körtúránkra. Először a hegység kultikus szurdokát, a vadregényes Holdvilág-árkot járjuk végig, felmászunk a félelmetesnek tűnő Meteor-létrán is, majd a környék legnevesebb, legbővebb vizű forrásától, a Lajos-forrástól kaptatunk fel a 2021-ben, a Bölcső-hegy tetején épített kilátótoronyba. Visszaúton végighullámzunk a Csikóvár-hegyeken, és megcsodáljuk a csikóváraljai sziklákról nyíló parádés kilátást is.",
+    "route": null,
+    "character": null,
+    "highlights": [
+      "Holdvilág-árok",
+      "Lajos-forrás"
+    ],
+    "equipment": [],
+    "gpx": "gpx/holdvilag-arok-lajos-forras-bolcso-hegy-kortura.gpx",
+    "sourceUrl": "https://kirandulastippek.hu/budapest-kornyeke/holdvilag-arok-lajos-forras-bolcso-hegy-kortura",
+    "coverImage": "images/holdvilag-arok-lajos-forras-bolcso-hegy-kortura/cover.jpg",
+    "images": [
+      "images/holdvilag-arok-lajos-forras-bolcso-hegy-kortura/0.jpg",
+      "images/holdvilag-arok-lajos-forras-bolcso-hegy-kortura/1.jpg"
+    ]
+  },
+  {
+    "id": "nagy-kopasz-tura-a-budai-hegyseg-legmagasabb-hegyere",
+    "region": "budapest-kornyeke",
+    "type": "hike",
+    "title": "Nagy-Kopasz, túra a Budai-hegység legmagasabb hegyére",
+    "subtitle": "Fantasztikus körpanoráma, varázslatos, kopár hegyoldalak",
+    "difficulty": "Közepes",
+    "stats": {
+      "distKm": 12.2,
+      "ascM": 358,
+      "descM": 359,
+      "elevMin": 299,
+      "elevMax": 556
+    },
+    "parking": {
+      "name": "Kiindulópont",
+      "note": ""
+    },
+    "description": "A Budai-hegység legmagasabb pontja, a Nagy-Kopasz (559 m) tetején álló, óriási vitorlára emlékeztető, modern Csergezán Pál-kilátóból parádés panoráma nyílik a környező tájra. A hegy déli oldalában, a Tarnai pihenőnél pedig elragadóan szép dolomitgyepes környéken csodálhatjuk a meseszép kilátást.",
+    "route": null,
+    "character": null,
+    "highlights": [],
+    "equipment": [],
+    "gpx": "gpx/nagy-kopasz-tura-a-budai-hegyseg-legmagasabb-hegyere.gpx",
+    "sourceUrl": "https://kirandulastippek.hu/budapest-kornyeke/nagy-kopasz-tura-a-budai-hegyseg-legmagasabb-hegyere",
+    "coverImage": "images/nagy-kopasz-tura-a-budai-hegyseg-legmagasabb-hegyere/cover.jpg",
+    "images": [
+      "images/nagy-kopasz-tura-a-budai-hegyseg-legmagasabb-hegyere/0.jpg",
+      "images/nagy-kopasz-tura-a-budai-hegyseg-legmagasabb-hegyere/1.jpg"
+    ]
+  },
+  {
+    "id": "csiki-hegyek-latvanyos-tura-a-budaors-feletti-hegyek-vonulatan",
+    "region": "budapest-kornyeke",
+    "type": "hike",
+    "title": "Csíki-hegyek, látványos túra a Budaörs feletti hegyek vonulatán",
+    "subtitle": "A Budaörsi Kopárok izgalmas világa",
+    "difficulty": "Könnyű",
+    "stats": {
+      "distKm": 7.1,
+      "ascM": 228,
+      "descM": 229,
+      "elevMin": 169,
+      "elevMax": 304
+    },
+    "parking": {
+      "name": "Kiindulópont",
+      "note": "Budaörs, Csíki csárda. A Budaörs központi útját képező Szabadság úton található a már bezárt hajdani csárda épülete, a Törökugrató út és Csíki utca kereszteződésénél. Parkolóhelyek a közelben. Buszmegálló, 88-as BKV járat."
+    },
+    "description": "A Budaörs felett húzódó mészkősziklákkal pettyezett füves dombok, hegyek vonulata, a nevéhez hű Budaörsi Kopárok a Budai-hegység leglátványosabb pontjai közé tartoznak. A hajdani Csíki Csárdától indulva járjuk végig a Csíki-hegyek emblematikus csúcsait, a Huszonnégyökrös-hegy merész sziklaletöréseitől a Szállás-hegy páratlan kilátást nyújtó kúpjain át a szigetszerű Út-hegy intim hangulatú tisztásaiig.",
+    "route": null,
+    "character": "Rövid, közepesen nehéz gyalogtúra beépített területen lévő aszfaltos utcákon, jól jelzett turistautakon és jelzetlen ösvényeken. A túra nehézségét a Szállás-hegyre vezető jelzetlen, meredek csapás adja, ill. a hegyról lefutó morzsalékos, de rövid lejtő, itt óvatosan ereszkedjünk lefelé. A csúcstámadás elhagyható, de az a kirándulás leglátványosabb része. Útközben vízvételi lehetőség nincs. A túra 8 éven felüli gyerekekkel is teljesíthető, rövid, izgalmas, változatos program.",
+    "highlights": [],
+    "equipment": [],
+    "gpx": "gpx/csiki-hegyek-latvanyos-tura-a-budaors-feletti-hegyek-vonulatan.gpx",
+    "sourceUrl": "https://kirandulastippek.hu/budapest-kornyeke/csiki-hegyek-latvanyos-tura-a-budaors-feletti-hegyek-vonulatan",
+    "coverImage": "images/csiki-hegyek-latvanyos-tura-a-budaors-feletti-hegyek-vonulatan/cover.jpg",
+    "images": [
+      "images/csiki-hegyek-latvanyos-tura-a-budaors-feletti-hegyek-vonulatan/0.jpg",
+      "images/csiki-hegyek-latvanyos-tura-a-budaors-feletti-hegyek-vonulatan/1.jpg"
+    ]
+  },
+  {
+    "id": "odvas-hegy-farkas-hegy-kilatasban-gazdag-kortura-a-budaorsi-koparok-legszebb-hegyein-at",
+    "region": "budapest-kornyeke",
+    "type": "hike",
+    "title": "Odvas-hegy, Farkas-hegy, kilátásban gazdag körtúra a Budaörsi kopárok legszebb hegyein át",
+    "subtitle": "Látványos kirándulás a Budaörs feletti kilátóhegyeken",
+    "difficulty": "Közepes",
+    "stats": {
+      "distKm": 7.7,
+      "ascM": 300,
+      "descM": 300,
+      "elevMin": 148,
+      "elevMax": 343
+    },
+    "parking": {
+      "name": "Kiindulópont",
+      "note": "Budaörs, Kálvária-domb. Autóval parkolni a Kálvária téren lehet, a fő útról, a Szabadság útról a Kötő utcára fordulva érjük el a domb alját. Buszmegálló a Kötő utcánál, ahonnan 3-4 perc sétával érjük el a Kálvária-domb alját."
+    },
+    "description": "A Budaörstől északra sorakozó kopasz, sziklás hegyek vonulata mágnesként vonzza a hegyek szerelmeseinek szemét. Változatos gyalogtúránk láncra fűzi a legszebb panorámát nyújtó magaslatokat, gyakran jelöletlen ösvényeken hódítjuk meg a Budaörsi Kopárok mindig más perspektívát kínáló hegycsúcsait. A mediterrán hangulatú Odvas-hegy megmászása után a Farkas-hegy következik, a legmagasabb pont, a Szekrényes-hegy után pedig a Szállás-hegyre kapaszkodunk fel.",
+    "route": null,
+    "character": "Rövid, közepesen nehéz körtúra, sok le-föl hullámzással, néhány fárasztóbb kaptatóval a hegyek tetejére. Az Odvas-hegyen több sziklás szakasz, a Szekrényes-hegyről levezető út is sziklás, morzsalékos ösvény. Kevés árnyék, nyári nagy melegben, tűző nap idején inkább más túrát válasszunk. Útközben vízvételi lehetőség nincs, gondoskodjunk elegendő folyadékról, a kapaszkodók és a kopár környezet miatt megnő a folyadékfogyasztásunk. A túra remekül kiegészíthető a Kálvária és a Kő-hegy meglátogatásával.",
+    "highlights": [
+      "Odvas-hegy",
+      "Farkas-hegy"
+    ],
+    "equipment": [],
+    "gpx": "gpx/odvas-hegy-farkas-hegy-kilatasban-gazdag-kortura-a-budaorsi-koparok-legszebb-hegyein-at.gpx",
+    "sourceUrl": "https://kirandulastippek.hu/budapest-kornyeke/odvas-hegy-farkas-hegy-kilatasban-gazdag-kortura-a-budaorsi-koparok-legszebb-hegyein-at",
+    "coverImage": "images/odvas-hegy-farkas-hegy-kilatasban-gazdag-kortura-a-budaorsi-koparok-legszebb-hegyein-at/cover.jpg",
+    "images": [
+      "images/odvas-hegy-farkas-hegy-kilatasban-gazdag-kortura-a-budaorsi-koparok-legszebb-hegyein-at/0.jpg",
+      "images/odvas-hegy-farkas-hegy-kilatasban-gazdag-kortura-a-budaorsi-koparok-legszebb-hegyein-at/1.jpg"
+    ]
+  },
+  {
+    "id": "biatorbagyi-tura-a-viadukttol-a-ko-hegy-sziklaformacioira-a-kaptarkovekhez",
+    "region": "budapest-kornyeke",
+    "type": "hike",
+    "title": "Biatorbágyi túra, a Viadukttól a Kő-hegy sziklaformációira, a kaptárkövekhez",
+    "subtitle": "Rejtett természeti értékek nyomában Biatorbágy határában",
+    "difficulty": "Könnyű",
+    "stats": {
+      "distKm": 7.6,
+      "ascM": 191,
+      "descM": 195,
+      "elevMin": 151,
+      "elevMax": 292
+    },
+    "parking": {
+      "name": "Kiindulópont",
+      "note": "Biatorbágy, Viadukt. A hídtól északra, a Fő utca mellett, a Füzes-patak mentén van egy szabadon használható parkoló. Buszmegálló: Biatorbágy, völgyhíd."
+    },
+    "description": "A főváros mellett fekvő Biatorbágy elsősorban a történelmünkben is szerepet játszott vasúti viaduktjáról ismert, de környékén is számos természeti szépséget fedezhetünk fel, többek közt a biatorbágyi kaptárkövek világát. A látványos ipari műemléktől indulunk az Iharos-völgyön át az erdőben magányosan megbújó Szily-kápolnáig, majd felmászunk a Kő-hegy sziklaképződményeihez, ahonnan szép kilátást élvezhetünk Biatorbágyra és környékére. Hangulatos erdei gyalogutakon térünk vissza a faluba, a romantikus Forrás-völgyön keresztül, a szebb napokat is látott Madár-forrás érintésével.",
+    "route": null,
+    "character": "Könnyű, rövid gyalogtúra viszonylag jól jelzett turistautakon, ösvényeken, aszfaltos utcákon. A Kő-hegyre vezető kaptató meredek, de rövid. A sziklafalak tetején óvatosan mozogjunk, korlát nincs.",
+    "highlights": [],
+    "equipment": [],
+    "gpx": "gpx/biatorbagyi-tura-a-viadukttol-a-ko-hegy-sziklaformacioira-a-kaptarkovekhez.gpx",
+    "sourceUrl": "https://kirandulastippek.hu/budapest-kornyeke/biatorbagyi-tura-a-viadukttol-a-ko-hegy-sziklaformacioira-a-kaptarkovekhez",
+    "coverImage": "images/biatorbagyi-tura-a-viadukttol-a-ko-hegy-sziklaformacioira-a-kaptarkovekhez/cover.jpg",
+    "images": [
+      "images/biatorbagyi-tura-a-viadukttol-a-ko-hegy-sziklaformacioira-a-kaptarkovekhez/0.jpg",
+      "images/biatorbagyi-tura-a-viadukttol-a-ko-hegy-sziklaformacioira-a-kaptarkovekhez/1.jpg"
+    ]
+  },
+  {
+    "id": "soskuti-kortura-kalvaria-hegy-peca-to",
+    "region": "budapest-kornyeke",
+    "type": "hike",
+    "title": "Sóskúti körtúra, Kálvária-hegy, Peca-tó",
+    "subtitle": "Változatos, látványos, könnyű gyalogtúra Biatorbágy és Sóskút között",
+    "difficulty": "Közepes",
+    "stats": {
+      "distKm": 11.8,
+      "ascM": 232,
+      "descM": 235,
+      "elevMin": 120,
+      "elevMax": 292
+    },
+    "parking": {
+      "name": "Kiindulópont",
+      "note": "Sóskút, Fő utca, a Benta-patak hídja környékén néhány parkolóhely. Megközelíthető Biatorbágy felől, az Érd felé vezető műúton. Az M7 autópályáról Sóskút-Tárnok letérőnél jövünk le, majd Sóskút felé hajtunk. Tömegközlekedéssel Budapest, Kelenföld autóbuszállomásról legegyszerűbb megközelíteni, a 722, 724 és 762 sz. Volánbusz járatokkal, Sóskút, Iskola megállónál szálljunk le, ahonnan a Fő utcán pár perc alatt elérjük a Piros jelzést."
+    },
+    "description": "A budai hegyvidék dombsággá szelídült délnyugati részén, a Tétényi-fennsík és az Etyeki-dombság közti Benta-patak völgyében fekvő Sóskútról indulunk látványos, könnyű gyalogtúránkra. A bálnaként kirajzolódó füves, kopár tetejű Kálvária-hegyet másszuk meg először, a remek panorámát és a különleges tájat csodálva. A Benta-patak széles völgyén át, puhafás ligeterdőkön keresztül jutunk a Biatorbágy határában kialakított, romantikus Peca-tó partjára, majd a völgy túloldalán kapaszkodunk fel a Nyakas-kőnek is otthont adó platóra. Ligetes, fenyőfoltokkal tarkított szavannaszerű fennsíkon, a nagy múltra visszatekintő sóskúti mészkőbánya pereméhez közel ereszkedünk vissza a faluba, a felette álló kettőskereszttől még egy utolsó panorámát kiélvezve.",
+    "route": null,
+    "character": "Könnyű gyalogtúra jól jelzett turistautakon, ösvényeken, visszafelé, Sóskút felett jelzetlen, de jól követhető utakon. Útközben vízvételi lehetőség nincs, tankoljuk fel Sóskúton, több kisbolt, pékség található a faluban. A túra meglehetősen napos, nyári melegben a kevés árnyék miatt megterhelő lehet. UV védelemről gondoskodjunk!",
+    "highlights": [
+      "Kálvária-hegy",
+      "Peca-tó"
+    ],
+    "equipment": [],
+    "gpx": "gpx/soskuti-kortura-kalvaria-hegy-peca-to.gpx",
+    "sourceUrl": "https://kirandulastippek.hu/budapest-kornyeke/soskuti-kortura-kalvaria-hegy-peca-to",
+    "coverImage": "images/soskuti-kortura-kalvaria-hegy-peca-to/cover.jpg",
+    "images": [
+      "images/soskuti-kortura-kalvaria-hegy-peca-to/0.jpg",
+      "images/soskuti-kortura-kalvaria-hegy-peca-to/1.jpg"
+    ]
+  },
+  {
+    "id": "nyakas-ko-madarszirt-kortura-biatorbagy-felett",
+    "region": "budapest-kornyeke",
+    "type": "hike",
+    "title": "Nyakas-kő, Madárszirt, körtúra Biatorbágy felett",
+    "subtitle": "Látványos sziklaformációk a Budai-hegység peremén",
+    "difficulty": "Közepes",
+    "stats": {
+      "distKm": 8,
+      "ascM": 339,
+      "descM": 346,
+      "elevMin": 133,
+      "elevMax": 313
+    },
+    "parking": {
+      "name": "Kiindulópont",
+      "note": ""
+    },
+    "description": "A budai hegyek dombokká szelídült délnyugati szélén, a Biatorbágy felett sorakozó sziklaalakzatok, az erózió formálta, impozáns Nyakas-kő és a hosszan elhúzódó Madárszirt hazánk egyik legkülönösebb vidéke. Körtúránkon felmászunk a Nyakas-kő jellegzetes tornyához, majd a sziklafal tetején sétálunk tovább, végig remek kilátást élvezve. Zártkertes övezet után érünk az erdőben megbújó Szily-kápolnához, ahonnan a hajdani rakéta bázisnak helyet adó Iharos-hegyet megkerülve, az Ürgehegyen át gyalogolunk vissza kiindulási pontunkra.",
+    "route": null,
+    "character": null,
+    "highlights": [
+      "Nyakas-kő",
+      "Madárszirt"
+    ],
+    "equipment": [],
+    "gpx": "gpx/nyakas-ko-madarszirt-kortura-biatorbagy-felett.gpx",
+    "sourceUrl": "https://kirandulastippek.hu/budapest-kornyeke/nyakas-ko-madarszirt-kortura-biatorbagy-felett",
+    "coverImage": "images/nyakas-ko-madarszirt-kortura-biatorbagy-felett/cover.jpg",
+    "images": [
+      "images/nyakas-ko-madarszirt-kortura-biatorbagy-felett/0.jpg",
+      "images/nyakas-ko-madarszirt-kortura-biatorbagy-felett/1.jpg"
+    ]
+  },
+  {
+    "id": "nagy-szenas-pilisszentivani-kortura-a-budai-hegyseg-legszebb-es-legvedettebb-hegycsucsara",
+    "region": "budapest-kornyeke",
+    "type": "hike",
+    "title": "Nagy-Szénás, Pilisszentiváni körtúra a Budai-hegység legszebb és legvédettebb hegycsúcsára",
+    "subtitle": "Túra a Jági-tótól a Szénások fokozottan védett területén át a Nagy-Szénás tetejére",
+    "difficulty": "Közepes",
+    "stats": {
+      "distKm": 10,
+      "ascM": 354,
+      "descM": 354,
+      "elevMin": 220,
+      "elevMax": 540
+    },
+    "parking": {
+      "name": "Kiindulópont",
+      "note": ""
+    },
+    "description": "A Budai-hegység legkülönlegesebb vidéke a Szénások Európa Diplomás Fokozottan Védett Természeti Területe. Az elsősorban jellegzetes flórája, főleg a világon csak itt található pilisi len miatt védett Szénások vidékét kizárólag a jelzett turistautakon fedezhetjük fel. 2025-ben nyílt meg a túrázók előtt a Piros kereszt jelzésű, Pilisszentiván felől közvetlenül a Nagy-Szénásra tartó turistaút, mely nagyban lerövidíti a Jági-tó irányából a csúcsra tartó utat. A falu határából indulva elmegyünk a legtöbbször száraz Jági-tó mellett, majd behatolunk a védett területre az új jelzett ösvényen. A Köves-árokban kapaszkodunk fel egészen a Nagy-Szénás pompás kilátást nyújtó, kereszttel díszített füves tetejére, ahonnan az Országos Kéktúra útvonalán ereszkedünk Nagykovácsi felső szélére. Az Antal-árkon keresztül jövünk le a hegyről és az Ördögtorony sziklatűjéhez közel sétálunk vissza kiindulópontunkhoz.",
+    "route": null,
+    "character": null,
+    "highlights": [],
+    "equipment": [],
+    "gpx": "gpx/nagy-szenas-pilisszentivani-kortura-a-budai-hegyseg-legszebb-es-legvedettebb-hegycsucsara.gpx",
+    "sourceUrl": "https://kirandulastippek.hu/budapest-kornyeke/nagy-szenas-pilisszentivani-kortura-a-budai-hegyseg-legszebb-es-legvedettebb-hegycsucsara",
+    "coverImage": "images/nagy-szenas-pilisszentivani-kortura-a-budai-hegyseg-legszebb-es-legvedettebb-hegycsucsara/cover.jpg",
+    "images": [
+      "images/nagy-szenas-pilisszentivani-kortura-a-budai-hegyseg-legszebb-es-legvedettebb-hegycsucsara/0.jpg",
+      "images/nagy-szenas-pilisszentivani-kortura-a-budai-hegyseg-legszebb-es-legvedettebb-hegycsucsara/1.jpg"
+    ]
+  },
+  {
+    "id": "ocsa-kerekparut-az-arpad-kori-templomtol-a-turjanoson-at-az-oreghegyi-pincekig",
+    "region": "budapest-kornyeke",
+    "type": "bike",
+    "title": "Ócsa, kerékpárút az Árpád-kori templomtól a Turjánoson át az Öreghegyi pincékig",
+    "subtitle": "Az új ócsai bicikliút felfedezése",
+    "difficulty": "Könnyű",
+    "stats": {
+      "distKm": 3,
+      "ascM": 0,
+      "descM": 0,
+      "elevMin": 110,
+      "elevMax": 110
+    },
+    "parking": {
+      "name": "Kiindulópont",
+      "note": ""
+    },
+    "description": "A 2025-ben átadott új ócsai bicikliút az Árpád-kori templom köré épült Öregfalut köti össze a Turjánvidéken keresztül a település déli határában elterülő Öreghegyi pincesor különleges nádfedeles pincéivel. A Turjánvidék szélén végigfutó, murvás burkolattal rendelkező, három pihenőhellyel, bicikliszervizpontokkal és információs táblákkal is ellátott kerékpárút nem csupán sportolási lehetőség, hanem igazi kikapcsolódás is. A fővárostól mintegy félóra autókázással és kitűnő tömegközlekedési lehetőségekkel megközelíthető Ócsa látnivalóit láncra fűző könnyű, változatos kerékpártúra igazi családi kirándulás.",
+    "route": null,
+    "character": null,
+    "highlights": [],
+    "equipment": [],
+    "gpx": "gpx/ocsa-kerekparut-az-arpad-kori-templomtol-a-turjanoson-at-az-oreghegyi-pincekig.gpx",
+    "sourceUrl": "https://kirandulastippek.hu/budapest-kornyeke/ocsa-kerekparut-az-arpad-kori-templomtol-a-turjanoson-at-az-oreghegyi-pincekig",
+    "coverImage": "images/ocsa-kerekparut-az-arpad-kori-templomtol-a-turjanoson-at-az-oreghegyi-pincekig/cover.jpg",
+    "images": [
+      "images/ocsa-kerekparut-az-arpad-kori-templomtol-a-turjanoson-at-az-oreghegyi-pincekig/0.jpg",
+      "images/ocsa-kerekparut-az-arpad-kori-templomtol-a-turjanoson-at-az-oreghegyi-pincekig/1.jpg"
+    ]
+  },
+  {
+    "id": "pomazi-rovid-kortura-delelo-domb-oszoly-csucs-majdan-hegy",
+    "region": "budapest-kornyeke",
+    "type": "hike",
+    "title": "Pomázi rövid körtúra, Delelő-domb, Oszoly-csúcs, Majdán-hegy",
+    "subtitle": "Kilátópontok Pomáz és Csobánka felett",
+    "difficulty": "Közepes",
+    "stats": {
+      "distKm": 8.7,
+      "ascM": 332,
+      "descM": 331,
+      "elevMin": 178,
+      "elevMax": 350
+    },
+    "parking": {
+      "name": "Kiindulópont",
+      "note": ""
+    },
+    "description": "Könnyű, rövid körtúránkon a Pilis keleti szélén, Pomáz és Csobánka között magasló kilátópontokat fűzzük láncra. Első állomásunkon, az Árpád-szobor elől csodáljuk meg a Dera-patak völgyében nyújtózó Pomáz látképét, majd a virágos Majdán-fennsíkon keresztül érünk fel a kissé magasabban fekvő Delelő-dombra, ahonnan a Visegrádi-hegység déli vonulataira esik remek kilátás. Erdei ösvényeken mászunk fel a Csobánka felett magasló, túránk legszebb panorámáját nyújtó, sziklás Oszoly-csúcsra, majd a Csúcs-hegy erdős, keleti oldalában ereszkedünk. Pomáz felé tartó visszautunkon pedig még teszünk egy kis kitérőt a kevesek által látogatott, hangulatos Majdán-hegy kilátópontjára.",
+    "route": null,
+    "character": null,
+    "highlights": [
+      "Delelő-domb",
+      "Oszoly-csúcs",
+      "Majdán-hegy"
+    ],
+    "equipment": [],
+    "gpx": "gpx/pomazi-rovid-kortura-delelo-domb-oszoly-csucs-majdan-hegy.gpx",
+    "sourceUrl": "https://kirandulastippek.hu/budapest-kornyeke/pomazi-rovid-kortura-delelo-domb-oszoly-csucs-majdan-hegy",
+    "coverImage": "images/pomazi-rovid-kortura-delelo-domb-oszoly-csucs-majdan-hegy/cover.jpg",
+    "images": [
+      "images/pomazi-rovid-kortura-delelo-domb-oszoly-csucs-majdan-hegy/0.jpg",
+      "images/pomazi-rovid-kortura-delelo-domb-oszoly-csucs-majdan-hegy/1.jpg"
+    ]
+  },
+  {
+    "id": "a-kevelyek-gerincen-rovid-tura-pilisborosjenorol",
+    "region": "budapest-kornyeke",
+    "type": "hike",
+    "title": "A Kevélyek gerincén, rövid túra Pilisborosjenőről",
+    "subtitle": "Ezüst-Kevély, Nagy-Kevély, Kis-Kevély panorámatúra",
+    "difficulty": "Közepes-nehéz",
+    "stats": {
+      "distKm": 9.6,
+      "ascM": 472,
+      "descM": 472,
+      "elevMin": 219,
+      "elevMax": 532
+    },
+    "parking": {
+      "name": "Kiindulópont",
+      "note": ""
+    },
+    "description": "A Pilis hegység délnyugati részén magasló Kevélyek, a budai hegyvilág egyik legjellegzetesebb alakú hegyvonulata. A Pilisborosjenő felett magasló, hosszan elnyúló gerinc három csúcsból áll, a Kis-Kevély, a Nagy-Kevély és az Ezüst-Kevély magasodik ki a hegyláncból. A faluból kiindulva először az Ezüst-hegynek (413 m) is nevezett legkeletibb csúcsra mászunk fel a felhagyott kőfejtő mellett, majd a fő magaslat, a füves, sziklás tetejű, parádés panorámát nyújtó Nagy-Kevély (534 m) következik. A Kevély-nyeregből még kisétálunk a nyugat felé elképesztő kilátást kínáló Kis-Kevélyre is, majd a nyeregből ereszkedünk vissza Pilisborosjenőre.",
+    "route": null,
+    "character": null,
+    "highlights": [],
+    "equipment": [],
+    "gpx": "gpx/a-kevelyek-gerincen-rovid-tura-pilisborosjenorol.gpx",
+    "sourceUrl": "https://kirandulastippek.hu/budapest-kornyeke/a-kevelyek-gerincen-rovid-tura-pilisborosjenorol",
+    "coverImage": "images/a-kevelyek-gerincen-rovid-tura-pilisborosjenorol/cover.jpg",
+    "images": [
+      "images/a-kevelyek-gerincen-rovid-tura-pilisborosjenorol/0.jpg",
+      "images/a-kevelyek-gerincen-rovid-tura-pilisborosjenorol/1.jpg"
+    ]
+  },
+  {
+    "id": "nagy-kopasz-konnyu-kortura-nagykovacsibol",
+    "region": "budapest-kornyeke",
+    "type": "hike",
+    "title": "Nagy-Kopasz, könnyű körtúra Nagykovácsiból",
+    "subtitle": "A Budai-hegység legmagasabb pontján álló Csergezán Pál-kilátóhoz",
+    "difficulty": "Közepes",
+    "stats": {
+      "distKm": 11.7,
+      "ascM": 255,
+      "descM": 263,
+      "elevMin": 353,
+      "elevMax": 556
+    },
+    "parking": {
+      "name": "Kiindulópont",
+      "note": ""
+    },
+    "description": "A Nagy-Kopasz (559 m) a Budai-hegység legmagasabb hegye, tetejét a kissé futurista kinézetű, vitorlavászonra hajazó, fából épült Csergezán Pál-kilátó koronázza. A Nagykovácsi és Telki között magasló, erdővel borított hegyre Nagykovácsi szélétől, a lankásabb északi oldalon mászunk fel a Sisakvirág tanösvényen. A körpanoráma megcsodálása után kényelmes utakon ereszkedünk a Széna-hegy érintésével a Kutya-hegy alatt futó Fehér útra. A túra végén még kitérőt teszünk az Ördögárok forrásához is, mielőtt visszaérnénk kiindulópontunkra.",
+    "route": null,
+    "character": null,
+    "highlights": [],
+    "equipment": [],
+    "gpx": "gpx/nagy-kopasz-konnyu-kortura-nagykovacsibol.gpx",
+    "sourceUrl": "https://kirandulastippek.hu/budapest-kornyeke/nagy-kopasz-konnyu-kortura-nagykovacsibol",
+    "coverImage": "images/nagy-kopasz-konnyu-kortura-nagykovacsibol/cover.jpg",
+    "images": [
+      "images/nagy-kopasz-konnyu-kortura-nagykovacsibol/0.jpg",
+      "images/nagy-kopasz-konnyu-kortura-nagykovacsibol/1.jpg"
+    ]
+  },
+  {
+    "id": "csevharaszti-borokas-termeszetvedelmi-terulet",
+    "region": "budapest-kornyeke",
+    "type": "hike",
+    "title": "Csévharaszti Borókás Természetvédelmi Terület",
+    "subtitle": "Családi kirándulás a Pótharaszti-sétaerdőben",
+    "difficulty": "Könnyű",
+    "stats": {
+      "distKm": 2.5,
+      "ascM": 13,
+      "descM": 13,
+      "elevMin": 127,
+      "elevMax": 133
+    },
+    "parking": {
+      "name": "Kiindulópont",
+      "note": ""
+    },
+    "description": "Budapesttől délkeletre, Monortól nem messze található az Alföld egyik legnagyobb egybefüggő erdőtömbje, a pótharaszti erdő. Az alföldi mozgó homokbuckákat megszelídítő erdő legszebb része hazánk egyik legrégebbi védett természeti értéke, a csévharaszti borókás. A Csévharaszt határában létrehozott Pótharaszti-sétaerdő mutatja be e különleges táj jellegzetességeit. A három kialakított, jelzett útvonal közül a Buckás-sétakört végigjárva fedezzük fel, információs táblák segítségével a környék legérdekesebb pontjait. A szintemelkedés nélküli, kellemes ösvények ideális családi kirándulásnak számítanak, játszótér, pihenőhely, esőbeálló, tűzrakóhelyek teszik teljessé a képet.",
+    "route": null,
+    "character": null,
+    "highlights": [],
+    "equipment": [],
+    "gpx": "gpx/csevharaszti-borokas-termeszetvedelmi-terulet.gpx",
+    "sourceUrl": "https://kirandulastippek.hu/budapest-kornyeke/csevharaszti-borokas-termeszetvedelmi-terulet",
+    "coverImage": "images/csevharaszti-borokas-termeszetvedelmi-terulet/cover.jpg",
+    "images": [
+      "images/csevharaszti-borokas-termeszetvedelmi-terulet/0.jpg",
+      "images/csevharaszti-borokas-termeszetvedelmi-terulet/1.jpg"
+    ]
+  },
+  {
+    "id": "nagy-pilisi-kortura-a-pilisszantoi-kobanyatol-a-pilis-tetoi-kilatohoz-es-a-csevi-szirtek-alatti-barlangokhoz",
+    "region": "budapest-kornyeke",
+    "type": "hike",
+    "title": "Nagy pilisi körtúra, a pilisszántói kőbányától a Pilis-tetői kilátóhoz és a Csévi-szirtek alatti barlangokhoz",
+    "subtitle": "A Pilis legjava, szakrális helyek, kilátók, barlangok",
+    "difficulty": "Közepes-nehéz",
+    "stats": {
+      "distKm": 16.1,
+      "ascM": 589,
+      "descM": 597,
+      "elevMin": 295,
+      "elevMax": 753
+    },
+    "parking": {
+      "name": "Kiindulópont",
+      "note": ""
+    },
+    "description": "A Pilis legjellemzőbb látnivalóit fűzzük láncra a Pilisszántó feletti kőbánya közeléből indulva hosszú, egész napos körtúránkon. A Pilis délkeleti gerincének sziklás oldalában tátongó Szántói-kőfülke első állomásunk, majd a Grófi út látványos panorámasétányán szerpentinezünk fel a Pilis-tetőn (756 m) magasodó Boldog Özséb-kilátóhoz. A Pilis tömbjének délnyugati peremén haladva, érintve egy pompás kilátóhelyet, egy sziklás árokban ereszkedünk a hegyről a Klastrompuszta feletti Vörös útra, ahonnan felkapaszkodunk hazánk egyik legkiterjedtebb barlangrendszerének, az Ariadnénak két impozáns bejáratú tagjához, a Leány- és a Legény-barlanghoz. Kényelmes erdei úton érünk vissza a pilisszántói felhagyott kőbányába, a hegység fontos szakrális helyére, ahol megcsodálhatjuk a különös formájú Boldogasszony-kápolnát, a Krisztus-szobrot és a Sziklaszínháznak is otthont adó gigantikus bányaudvart.",
+    "route": null,
+    "character": null,
+    "highlights": [],
+    "equipment": [],
+    "gpx": "gpx/nagy-pilisi-kortura-a-pilisszantoi-kobanyatol-a-pilis-tetoi-kilatohoz-es-a-csevi-szirtek-alatti-barlangokhoz.gpx",
+    "sourceUrl": "https://kirandulastippek.hu/budapest-kornyeke/nagy-pilisi-kortura-a-pilisszantoi-kobanyatol-a-pilis-tetoi-kilatohoz-es-a-csevi-szirtek-alatti-barlangokhoz",
+    "coverImage": "images/nagy-pilisi-kortura-a-pilisszantoi-kobanyatol-a-pilis-tetoi-kilatohoz-es-a-csevi-szirtek-alatti-barlangokhoz/cover.jpg",
+    "images": [
+      "images/nagy-pilisi-kortura-a-pilisszantoi-kobanyatol-a-pilis-tetoi-kilatohoz-es-a-csevi-szirtek-alatti-barlangokhoz/0.jpg",
+      "images/nagy-pilisi-kortura-a-pilisszantoi-kobanyatol-a-pilis-tetoi-kilatohoz-es-a-csevi-szirtek-alatti-barlangokhoz/1.jpg"
+    ]
+  },
+  {
+    "id": "csobankai-gyalogtura-macko-barlang-csucs-hegy-oszoly-csucs",
+    "region": "budapest-kornyeke",
+    "type": "hike",
+    "title": "Csobánkai gyalogtúra, Mackó-barlang, Csúcs-hegy, Oszoly-csúcs",
+    "subtitle": "A Pilis egyik leglátványosabb barlangjától a Csobánka feletti kilátóhelyekig",
+    "difficulty": "Közepes",
+    "stats": {
+      "distKm": 7.6,
+      "ascM": 312,
+      "descM": 312,
+      "elevMin": 205,
+      "elevMax": 429
+    },
+    "parking": {
+      "name": "Kiindulópont",
+      "note": ""
+    },
+    "description": "A Pilis hegységre legjellemzőbb természeti formákat járjuk végig rövid, látványos, kilátásban gazdag körtúránkon. A bájos fekvésű Csobánkáról indulunk a Kevélyek hegycsoportja felé, felmászunk a Kis-Kevély északi oldalában tátongó Mackó-barlang terjedelmes nyílásához, majd utunk legmagasabb pontján, a Kevély-nyeregben pihenjük ki a kaptató fáradalmait. Átmegyünk a Csobánka felett húzódó mészkősziklaszirtekkel szegélyezett hegyvonulatra. Először a Csúcs-hegy nyugati oldalából feltáruló pompás panorámát csodáljuk meg, majd átkelünk a sziklamászók kedvelt színhelyére, a kettős kereszttel és nagy lobogóval díszített Oszoly-csúcsra. A hegy északi szélén lévő kilátóhelynél, a Stiasny-pihenőnél ereszkedünk vissza végül a faluba.",
+    "route": null,
+    "character": null,
+    "highlights": [
+      "Mackó-barlang",
+      "Csúcs-hegy",
+      "Oszoly-csúcs"
+    ],
+    "equipment": [],
+    "gpx": "gpx/csobankai-gyalogtura-macko-barlang-csucs-hegy-oszoly-csucs.gpx",
+    "sourceUrl": "https://kirandulastippek.hu/budapest-kornyeke/csobankai-gyalogtura-macko-barlang-csucs-hegy-oszoly-csucs",
+    "coverImage": "images/csobankai-gyalogtura-macko-barlang-csucs-hegy-oszoly-csucs/cover.jpg",
+    "images": [
+      "images/csobankai-gyalogtura-macko-barlang-csucs-hegy-oszoly-csucs/0.jpg",
+      "images/csobankai-gyalogtura-macko-barlang-csucs-hegy-oszoly-csucs/1.jpg"
+    ]
+  },
+  {
+    "id": "ziribar-hegy-jelzetlen-utakon-a-pilis-pompas-kilatohegyere",
+    "region": "budapest-kornyeke",
+    "type": "hike",
+    "title": "Ziribár-hegy, jelzetlen utakon a Pilis pompás kilátóhegyére",
+    "subtitle": "Rövid panorámatúra barlangokkal, hegygerinccel, körkilátással és a Szent-kúttal",
+    "difficulty": "Közepes",
+    "stats": {
+      "distKm": 6.8,
+      "ascM": 266,
+      "descM": 266,
+      "elevMin": 232,
+      "elevMax": 390
+    },
+    "parking": {
+      "name": "Kiindulópont",
+      "note": ""
+    },
+    "description": "A Pilis hegyvonulatához tartozó, szigetszerűen kiemelkedő, jellegzetes kétcsúcsú Ziribár-hegy (410 m) az egyik legtökéletesebb körpanorámát nyújtó csúcs Budapest környékén. Kissé meglepő, hogy jelzett turistaút nem vezet tetejére, de ennek ellenére viszonylag könnyen és egyszerűen megközelíthető Csobánka irányából. A festői fekvésű falutól délre lévő Csobánkai-nyeregből indulunk az Országos Kéktúra útvonalán, majd balra letérve, a Macska-barlang és a Dínó-rejtek meglátogatása után, jelzetlen ösvényen kezdjük meg kapaszkodásunkat a már útközben is csodás kilátást kínáló Ziribári-gerincen. Egy újabb üreg, a Ziribári-barlang után érünk fel a páratlan panorámájú hegytetőre, ahol egy kényelmes hintapad várja a megfáradt kirándulókat. A hegy északi oldalán ereszkedünk le a Ziribár-nyeregbe, ahonnan a Macska-völgy széles útján sétálunk vissza. Amennyiben van kedvünk, tegyünk egy kitérőt a csobánkai Szent-kúthoz, mely mellett egy kápolna és egy pihenőhely is áll.",
+    "route": null,
+    "character": null,
+    "highlights": [],
+    "equipment": [],
+    "gpx": "gpx/ziribar-hegy-jelzetlen-utakon-a-pilis-pompas-kilatohegyere.gpx",
+    "sourceUrl": "https://kirandulastippek.hu/budapest-kornyeke/ziribar-hegy-jelzetlen-utakon-a-pilis-pompas-kilatohegyere",
+    "coverImage": "images/ziribar-hegy-jelzetlen-utakon-a-pilis-pompas-kilatohegyere/cover.jpg",
+    "images": [
+      "images/ziribar-hegy-jelzetlen-utakon-a-pilis-pompas-kilatohegyere/0.jpg",
+      "images/ziribar-hegy-jelzetlen-utakon-a-pilis-pompas-kilatohegyere/1.jpg"
+    ]
+  },
+  {
+    "id": "lajos-forras-bolcso-hegyi-kilato-sikarosi-ret",
+    "region": "budapest-kornyeke",
+    "type": "hike",
+    "title": "Lajos-forrás, Bölcső-hegyi kilátó, Sikárosi-rét",
+    "subtitle": "Változatos körtúra a Visegrádi-hegység déli részén",
+    "difficulty": "Közepes",
+    "stats": {
+      "distKm": 9.5,
+      "ascM": 360,
+      "descM": 370,
+      "elevMin": 300,
+      "elevMax": 573
+    },
+    "parking": {
+      "name": "Kiindulópont",
+      "note": "Lajos-forrás, gépkocsival megközelíthető Szentendre felől, a 11-es útról a Szentlászlói úton, Izbégen keresztül megyünk ki a városból, majd az útjelzőtáblának megfelelően kétszer is balra tartva, egy meglehetősen kátyús, kanyargós aszfaltúton érjük el a Lajos-forrást. Előtte nagy, szabadon használgató parkolóban tehetjük le az autót. Tömegközlekedéssel nem érhető el, Szentendre HÉV végállomása melletti autóbuszállomásról, nyári időszámítás alatt szabad- és munkaszüneti napokon indul Dömörkapura a 868-as járat. Innen mehetünk fel Lajosforráshoz a Zöld háromszög jelzésű úton, visszafelé a Bükkös-patak völgyét kövessük végig a Zöld kereszt jelű úton, mely visszavisz Dömörkapura."
+    },
+    "description": "Családi jellegű, sokszínű gyalogtúránk a gépkocsival egyszerűen megközelíthető, népszerű Lajos-forrástól indul. Felkapaszkodunk a Bölcső-hegy új kilátótornyához, majd az egykori rakétabázisnak otthont adó Lom-hegyet megkerülve ereszkedünk le a festői fekvésű Sikárosi-rétre. A Bükkös-patak romantikus völgyében követjük az Országos Kéktúra útvonalán, és egy utolsó kaptatóval emelkedünk vissza a forráshoz. Lajos-forrás, gépkocsival megközelíthető Szentendre felől, a 11-es útról a Szentlászlói úton, Izbégen keresztül megyünk ki a városból, majd az útjelzőtáblának megfelelően kétszer is balra tartva, egy meglehetősen kátyús, kanyargós aszfaltúton érjük el a Lajos-forrást. Előtte nagy, szabadon használgató parkolóban tehetjük le az autót. Tömegközlekedéssel nem érhető el, Szentendre HÉV végállomása melletti autóbuszállomásról, nyári időszámítás alatt szabad- és munkaszüneti napokon indul Dömörkapura a 868-as járat. Innen mehetünk fel Lajosforráshoz a Zöld háromszög jelzésű úton, visszafelé a Bükkös-patak völgyét kövessük végig a Zöld kereszt jelű úton, mely visszavisz Dömörkapura.",
+    "route": null,
+    "character": "Könnyű, családi jellegű gyalogtúra jól jelzett turistautakon, ösvényeken. A Bölcső-hegyre meredek kaptató vezet fel, a Bükkös-patakot több helyen, gázlón keresztezzük, magas vízállás esetén, mely ritka, az átkelés nehézkes lehet. Vízvételi lehetőség útközben több helyen is adódik, érdemes üres kulaccsal érkezni, a Lajos-forrás bővizű, frissítő vizéből feltankolva indítani a kirándulást. A Sikárosi-rét menti Szilágyi Bernát-forrás vizére is általában lehet számítani, a Bükkös-patak völgyében lévő Kárpát-forrás vize viszont néha elapad.",
+    "highlights": [
+      "Lajos-forrás",
+      "Bölcső-hegyi kilátó",
+      "Sikárosi-rét"
+    ],
+    "equipment": [],
+    "gpx": "gpx/lajos-forras-bolcso-hegyi-kilato-sikarosi-ret.gpx",
+    "sourceUrl": "https://kirandulastippek.hu/budapest-kornyeke/lajos-forras-bolcso-hegyi-kilato-sikarosi-ret",
+    "coverImage": "images/lajos-forras-bolcso-hegyi-kilato-sikarosi-ret/cover.jpg",
+    "images": [
+      "images/lajos-forras-bolcso-hegyi-kilato-sikarosi-ret/0.jpg",
+      "images/lajos-forras-bolcso-hegyi-kilato-sikarosi-ret/1.jpg"
+    ]
+  },
+  {
+    "id": "asztal-ko-kada-csucs-tura-a-szentendre-feletti-nyerges-hegy-korul",
+    "region": "budapest-kornyeke",
+    "type": "hike",
+    "title": "Asztal-kő, Kada-csúcs, túra a Szentendre feletti Nyerges-hegy körül",
+    "subtitle": "Két csodás kilátópont Szentendre és Leányfalu között",
+    "difficulty": "Közepes",
+    "stats": {
+      "distKm": 12,
+      "ascM": 369,
+      "descM": 369,
+      "elevMin": 214,
+      "elevMax": 462
+    },
+    "parking": {
+      "name": "Kiindulópont",
+      "note": "Szentendre, Pismány, Barackos út, a 873-as Volánbusz járat Ösvény utcai végállomása. A helyi járat a Szentendre, Autóbuszállomás megállóból indul, a menetrendet ellenőrizzük indulás előtt, napközben viszonylag ritkán jár. A buszpályaudvar közvetlenül a szentendrei HÉV végállomása mellett van. Autóval az Ösvény utcai buszforduló környékén (a buszforgalmat nem akadályozva) vagy az egy szinttel feljebb futó Cseresznyés úton kereshetünk parkolóhelyet."
+    },
+    "description": "A Visegrádi-hegység, Dunára néző, keleti hegyvonulatának legdélibb tagja, a Szentendrétől északra magasló Nyerges-hegy (558 m). A város, Pismány nevű részéből indulva emelkedünk a Nyerges-hegy déli letörése, az Asztal-kő kopár, sziklás oldalába. Pazar panorámájú, látványos, jelzetlen ösvényünk, túránk legszebb szakasza. Leereszkedünk az Álló-rét fontos turistaút-csomópontjához, majd a Nyerges-hegy keleti oldalában, a Kerek-hegyen át érünk ki Leányfalu felett, a település déli részére. A hegyoldalra magasan felkúszó házak között még vár ránk egy pompás kilátóhely, a Kada-csúcs tetejéről a Naszálytól a Gellért-hegyig terjedő széles panorámában gyönyörködhetünk. A Tyúkosdűlő házai közt, majd a Saskövi-barlang közelében érünk vissza Pismányra.",
+    "route": null,
+    "character": "Könnyű gyalogtúra többnyire jelzett turistautakon, ösvényeken, belterületi, aszfaltos utcákon. Az Asztal-kő oldalában vezető panorámaösvény jelzetlen, de jól követhető, jó tájékozódási készség nem árt, és egy pontos térképes applikáció is megkönnyíti dolgunkat. A túra végén még két kisebb ellenemelkedőre számítsunk, a Kada-csúcsra és a Sztelin-patak völgyében. Útközben vízvételi lehetőség nincs.",
+    "highlights": [
+      "Asztal-kő",
+      "Kada-csúcs"
+    ],
+    "equipment": [],
+    "gpx": "gpx/asztal-ko-kada-csucs-tura-a-szentendre-feletti-nyerges-hegy-korul.gpx",
+    "sourceUrl": "https://kirandulastippek.hu/budapest-kornyeke/asztal-ko-kada-csucs-tura-a-szentendre-feletti-nyerges-hegy-korul",
+    "coverImage": "images/asztal-ko-kada-csucs-tura-a-szentendre-feletti-nyerges-hegy-korul/cover.jpg",
+    "images": [
+      "images/asztal-ko-kada-csucs-tura-a-szentendre-feletti-nyerges-hegy-korul/0.jpg",
+      "images/asztal-ko-kada-csucs-tura-a-szentendre-feletti-nyerges-hegy-korul/1.jpg"
+    ]
+  },
+  {
+    "id": "torokbalint-anna-hegyi-parkerdo",
+    "region": "budapest-kornyeke",
+    "type": "hike",
+    "title": "Törökbálint, Anna-hegyi parkerdő",
+    "subtitle": "Rövid kirándulás az autópálya szorításában álló erdőben",
+    "difficulty": "Könnyű",
+    "stats": {
+      "distKm": 5.5,
+      "ascM": 126,
+      "descM": 132,
+      "elevMin": 168,
+      "elevMax": 264
+    },
+    "parking": {
+      "name": "Kiindulópont",
+      "note": ""
+    },
+    "description": "A Törökbálinttól délre fekvő, helyi jelentőségű természeti értékként védett, alacsony, erdővel borított Anna-hegy legmagasabb pontján karcsú kilátótorony meredezik, a számos pihenő-, piknikező hellyel felszerelt, jól jelzett turistautakkal behálózott parkerdő valóságos oázis az M0 autópálya szomszédságában. Törökbálint bájos Ófalujából indulunk a kirándulóerdő felfedezésére, körtúránkon végigjárjuk a falu felett hullámzó erdős dombok legszebb részeit, felmászunk a csodás panorámájú toronyba, majd a séta végén a központban található Kálvária-dombról még egyszer megcsodáljuk a törökbálinti, no meg a budai hegyekre nyíló kilátást.",
+    "route": null,
+    "character": null,
+    "highlights": [
+      "Törökbálint",
+      "Anna-hegyi parkerdő"
+    ],
+    "equipment": [],
+    "gpx": "gpx/torokbalint-anna-hegyi-parkerdo.gpx",
+    "sourceUrl": "https://kirandulastippek.hu/budapest-kornyeke/torokbalint-anna-hegyi-parkerdo",
+    "coverImage": "images/torokbalint-anna-hegyi-parkerdo/cover.jpg",
+    "images": [
+      "images/torokbalint-anna-hegyi-parkerdo/0.jpg",
+      "images/torokbalint-anna-hegyi-parkerdo/1.jpg"
+    ]
+  },
+  {
+    "id": "nagy-kopasz-panoramatura-a-hidegvolgyi-pihenotol",
+    "region": "budapest-kornyeke",
+    "type": "hike",
+    "title": "Nagy-Kopasz, panorámatúra a Hidegvölgyi pihenőtől",
+    "subtitle": "Kilátásban gazdag körtúra a Budai-hegység tetejére",
+    "difficulty": "Közepes-nehéz",
+    "stats": {
+      "distKm": 13.1,
+      "ascM": 337,
+      "descM": 337,
+      "elevMin": 281,
+      "elevMax": 555
+    },
+    "parking": {
+      "name": "Kiindulópont",
+      "note": "Hidegvölgyi Erdei Pihenőhely és Parkoló, a Budakeszit Telkivel összekötő országút mellett. Az erdészház mögött nagy, szabadon használható parkoló. Tömegközlekedéssel, a Széll Kálmán térről, Telki, Zsámbék felé közlekedő Volánbusz járatról a Hidegvölgyi erdészlak megállónál kell leszállni."
+    },
+    "description": "A Budai-hegység legmagasabb csúcsára, a Nagy-Kopaszra vezető túraútvonalak közül egyértelműen a legszebb, a Hidegvölgyi pihenőtől induló körtúránk. Az extravagáns külsejű, vitorlásra emlékeztető Csergezán Pál-kilátóhoz a hegység egyik legszebb természetes kilátóhelye, a dolomitgyepes Tarnai-pihenő érintésével kapaszkodunk fel. A kilátótoronyból nyíló bámulatos körpanoráma kiélvezése után kellemes, árnyas erdőben folytatjuk kirándulásunkat a Szarvas-árok feletti impozáns sziklafal peremére, majd a mindig szépen rendben tartott katonasírok mellett ereszkedünk vissza.",
+    "route": null,
+    "character": "Közepesen nehéz gyalogtúra jól jelzett turistautakon, széles dózerutakon. A Tarnai-pihenő felé közepes, jól járható kaptató, a Kék kereszt jelű szakasz egyben kerékpárosoknak kijelölt útvonal, itt fokozottan figyeljünk a két keréken közlekedőkre. A kilátótorony szabadon látogatható, viharos, zivataros időben ne másszunk fel! Útközben vízvételi lehetőség nincs, kellő mennyiségű folyadékot vigyünk magunkkal. A Zöld kereszt jelű útról elérhető sziklaszirt, rövid, jelzetlen, de egyértelmű csapáson közelíthető meg. Visszafelé a Zöld Mária út kb. 300 méteren át a forgalmas Telki - Budakeszi országút mellett vezet, nagyon óvatosan gyalogoljunk itt.",
+    "highlights": [],
+    "equipment": [],
+    "gpx": "gpx/nagy-kopasz-panoramatura-a-hidegvolgyi-pihenotol.gpx",
+    "sourceUrl": "https://kirandulastippek.hu/budapest-kornyeke/nagy-kopasz-panoramatura-a-hidegvolgyi-pihenotol",
+    "coverImage": "images/nagy-kopasz-panoramatura-a-hidegvolgyi-pihenotol/cover.jpg",
+    "images": [
+      "images/nagy-kopasz-panoramatura-a-hidegvolgyi-pihenotol/0.jpg",
+      "images/nagy-kopasz-panoramatura-a-hidegvolgyi-pihenotol/1.jpg"
+    ]
+  },
+  {
+    "id": "veresegyhazi-tavak-tanosveny",
+    "region": "budapest-kornyeke",
+    "type": "hike",
+    "title": "Veresegyházi-tavak tanösvény",
+    "subtitle": "Vízi csodavilág Budapest közelében",
+    "difficulty": "Könnyű",
+    "stats": {
+      "distKm": 5.3,
+      "ascM": 25,
+      "descM": 24,
+      "elevMin": 165,
+      "elevMax": 174
+    },
+    "parking": {
+      "name": "Kiindulópont",
+      "note": "Veresegyház, Tóstrand, előtte parkoló. Megközelíthető Gödöllő felől, a faluba beérve, közvetlenül a vasúti átjáró után balra forduljunk az állomás utcán, majd a vasútűállomás előtti körforgalomból, az első utcán (Szabadság utca) térjünk le, mely egyenesen a strandhoz vezet. Vác felől, a Fő útról jobbra, Csomád felé kanyarodjunk a Mogyoródi utcára, majd a termálfürdőnél balra fordulva, a találkozók útja vezet a strand bejáratához. Tömegközlekedéssel is könnyen elérhető, legkönnyebben vonattal mehetünk a Nyugati pályaudvarról, Veresegyház vasútállomáson leszállva, a sárga sávval is jelölt Szabadság utcán 5-600 méter séta a strand bejárata."
+    },
+    "description": "A három tóból álló veresegyházi tórendszer nemcsak a horgászoknak vagy nyáron a strandolóknak tökéletes helyszín, a partjain végigfutó tanösvény bejárása remek lehetőség fővárosunk környékének talán legszebb állóvizeinek felfedezésére. A Sződrákosi-patak felduzzasztásával keletkezett tavak közül a Malom-tó már a középkor óta létezik, kis területe ellenére rendkívül változatos, népszerű homokos strandján élénk fürdőélet zajlik nyáron, nagy kiterjedésű úszólápjai gazdag és védett növény- és állatvilágot rejtenek. A középső, az Ivacsi-tó a horgászok paradicsoma, míg a legdélebbi, festői szépségű Pamut-tó orchideás rétjéről, zsombékosairól és a felette sötétlő fenyvesről ismert.",
+    "route": null,
+    "character": "Könnyű séta a tavak partján futó ösvényeken, gátakon, aszfaltos utcákon. Ősztől tavaszig a veresegyházi tóstrand területe szabadon látogatható, nyáron, strandszezonban, a fő épületet balról tudjuk megkerülni a Sárga sávval is jelzett ösvényen, mely a kis fém gyaloghídra vezet ki. A Malom-tó északi végén, a strandról jövet, a patak kifolyásánál nem tudjuk körbekerülni a tó északi végét, drótkerítéssel zárva van.",
+    "highlights": [],
+    "equipment": [],
+    "gpx": "gpx/veresegyhazi-tavak-tanosveny.gpx",
+    "sourceUrl": "https://kirandulastippek.hu/budapest-kornyeke/veresegyhazi-tavak-tanosveny",
+    "coverImage": "images/veresegyhazi-tavak-tanosveny/cover.jpg",
+    "images": [
+      "images/veresegyhazi-tavak-tanosveny/0.jpg",
+      "images/veresegyhazi-tavak-tanosveny/1.jpg"
+    ]
+  },
+  {
+    "id": "zajnat-hegyek-a-hajdani-pilisvorosvari-koparok-felfedezese",
+    "region": "budapest-kornyeke",
+    "type": "hike",
+    "title": "Zajnát-hegyek, a hajdani Pilisvörösvári Kopárok felfedezése",
+    "subtitle": "Kilátásban gazdag körtúra a fenyvessel fedett, változatos hegyvidéken",
+    "difficulty": "Közepes",
+    "stats": {
+      "distKm": 10.3,
+      "ascM": 382,
+      "descM": 379,
+      "elevMin": 250,
+      "elevMax": 386
+    },
+    "parking": {
+      "name": "Kiindulópont",
+      "note": "Kopár Csárda, a 10-es főút mentén, Pilisvörösvár és Piliscsaba között, szabadon használható parkoló. Tömegközlekedéssel: 800, 815 Volánbusz járat, Budapest, Árpád-híd autóbuszállomástól Esztergom, ill. Süttő felé."
+    },
+    "description": "A Pilis déli részén, Pilisvörösvár és Piliscsaba között fekvő, fenyvesekkel betelepített Zajnát-hegyek festői vidékét fedezzük fel rövid, könnyű körtúránkon a Pilis és a Budai-hegység határán álló Kopár Csárdától kiindulva. Az egykoron Pilisvörösvári Kopárok néven ismert, változatos terepformájú vidék újrafásítása, József főherceg főerdésze, Dévényi Antal nevéhez köthető, aki 1927-ben kezdte meg az eróziótól sújtott hegyek, a sovány talajt jól bíró fenyőfélékkel történő kopárfásítását. Az idilli tájat a Piros körút jelzésű hangulatos útvonalon fedezzük fel, időnként jelzetlen csapásokra kimerészkedve a kopár gerincekről nyíló csodás panoráma kedvéért.",
+    "route": null,
+    "character": "Könnyű gyalogtúra jól jelzett turistautakon, ösvényeken, a kilátópontokra jelzetlen, de jól követhető csapások, ösvények vezetnek. Az Iluska-forrás vizére ne nagyon számítsunk, egyéb vízvételi lehetőség nincs. A Piros körúttal jelzett útvonal még sáros, nedves időben is kitűnően járható, a homokos, sovány talajnak köszönhetően!",
+    "highlights": [],
+    "equipment": [],
+    "gpx": "gpx/zajnat-hegyek-a-hajdani-pilisvorosvari-koparok-felfedezese.gpx",
+    "sourceUrl": "https://kirandulastippek.hu/budapest-kornyeke/zajnat-hegyek-a-hajdani-pilisvorosvari-koparok-felfedezese",
+    "coverImage": "images/zajnat-hegyek-a-hajdani-pilisvorosvari-koparok-felfedezese/cover.jpg",
+    "images": [
+      "images/zajnat-hegyek-a-hajdani-pilisvorosvari-koparok-felfedezese/0.jpg",
+      "images/zajnat-hegyek-a-hajdani-pilisvorosvari-koparok-felfedezese/1.jpg"
+    ]
+  },
+  {
+    "id": "pilisszentlaszlo-sikarosi-ret-bukkos-patak-kortura",
+    "region": "budapest-kornyeke",
+    "type": "hike",
+    "title": "Pilisszentlászló, Sikárosi-rét, Bükkös-patak körtúra",
+    "subtitle": "Könnyű gyalogtúra a Visegrádi-hegység szívében",
+    "difficulty": "Közepes",
+    "stats": {
+      "distKm": 11.3,
+      "ascM": 316,
+      "descM": 317,
+      "elevMin": 308,
+      "elevMax": 570
+    },
+    "parking": {
+      "name": "Kiindulópont",
+      "note": ""
+    },
+    "description": "Körtúránk remek ízelítő a Visegrádi-hegység szépségeiből, hegyek gerincén, vadregényes patakok völgyén át túrázunk a Pilisszentlászló melletti, népszerű Kisrigó vendéglőtől kiindulva. A Tövises-hegy, Akasztó-hegy vonulatán át ereszkedünk le a mélyen bevágódott Király-völgybe, ahol a Király-kutat érintve, a patak medrét követve érünk ki a szépséges Sikárosi-medencébe. Az erdészháztól már az Országos Kéktúra útvonalán járunk, a Bükkös-patak vadregényes völgyében kanyargunk, végül az Öreg-nyílás-völgyön át érünk vissza a vendéglőhöz.",
+    "route": null,
+    "character": null,
+    "highlights": [
+      "Pilisszentlászló",
+      "Sikárosi-rét"
+    ],
+    "equipment": [],
+    "gpx": "gpx/pilisszentlaszlo-sikarosi-ret-bukkos-patak-kortura.gpx",
+    "sourceUrl": "https://kirandulastippek.hu/budapest-kornyeke/pilisszentlaszlo-sikarosi-ret-bukkos-patak-kortura",
+    "coverImage": "images/pilisszentlaszlo-sikarosi-ret-bukkos-patak-kortura/cover.jpg",
+    "images": [
+      "images/pilisszentlaszlo-sikarosi-ret-bukkos-patak-kortura/0.jpg",
+      "images/pilisszentlaszlo-sikarosi-ret-bukkos-patak-kortura/1.jpg"
+    ]
+  },
+  {
+    "id": "budajeno",
+    "region": "budapest-kornyeke",
+    "type": "hike",
+    "title": "Budajenő",
+    "subtitle": "Hangulatos, látnivalókban gazdag falu a Budai-hegység szélén",
+    "difficulty": "Könnyű",
+    "stats": {
+      "distKm": 2.9,
+      "ascM": 101,
+      "descM": 112,
+      "elevMin": 254,
+      "elevMax": 362
+    },
+    "parking": {
+      "name": "Kiindulópont",
+      "note": ""
+    },
+    "description": "A Budai-hegység nyugati lábánál, a Zsámbéki-medence keleti részén elhelyezkedő Budajenő, két domb között futó patak mentén elterülő és ezekre a magaslatokra felnyúló település. Budajenő egynapos kirándulás-, könnyű séta keretén belül, néhány óra alatt kényelmesen körül járható hangulatos kis falu, minimális szintkülönbséggel, számos érdekességgel, látnivalóval és egy családbarát, árnyas tanösvénnyel. Régóta lakott terület, a legkorábbi leletek 3500 évesek. A mai település ősének, Jenőnek neve- mely törzsi névre utal- 1225-ben fordult elő először írásos formában. A török időkben teljesen elpusztult. Az 1800-as években a skót bencések Budajenőt tették központjukká és megkezdték a németajkúak betelepítését. A II. világháborút követően a német lakosság kitelepítése, a székelyek meghonosítása jelentett fordulatot a nemzetiségek megoszlásában. A nemzetiségi múlt nyomai fellelhetők nemcsak a kulturális örökségben, hagyományokban, hanem a településkép is híven szemlélteti védett ófaluja rendezett sváb portáival.",
+    "route": null,
+    "character": null,
+    "highlights": [],
+    "equipment": [],
+    "gpx": "gpx/budajeno.gpx",
+    "sourceUrl": "https://kirandulastippek.hu/budapest-kornyeke/budajeno",
+    "coverImage": "images/budajeno/cover.jpg",
+    "images": [
+      "images/budajeno/0.jpg",
+      "images/budajeno/1.jpg"
+    ]
+  },
+  {
+    "id": "pilisszentkereszti-kortura-fel-a-dobogokore-a-sikarosi-reten-at-vissza",
+    "region": "budapest-kornyeke",
+    "type": "hike",
+    "title": "Pilisszentkereszti körtúra, fel a Dobogókőre, a Sikárosi-réten át vissza",
+    "subtitle": "Klasszikus gyalogtúra pazar kilátóhellyel, idilli fekvésű rétekkel",
+    "difficulty": "Közepes-nehéz",
+    "stats": {
+      "distKm": 16,
+      "ascM": 589,
+      "descM": 594,
+      "elevMin": 339,
+      "elevMax": 694
+    },
+    "parking": {
+      "name": "Kiindulópont",
+      "note": "Pilisszentkereszt, központ. A Dobogókői út és a Fő út (Pilisszántó felé vezető út) kereszteződése, parkolóhely az Emma vendéglő előtti parkolóban, buszmegálló: Pilisszentkereszt, Pilisszántói elágazás."
+    },
+    "description": "A Visegrádi-hegység népszerű kirándulóhelyeit járjuk végig Pilisszentkeresztről indulva hosszú, de könnyen végigjárható túránkon. A közkedvelt, Dunakanyarra nyíló panorámájáról híres Dobogókőre mászunk fel, majd az Országos Kéktúra útvonalán ereszkedünk le a mesés Sikárosi-rétre, ahonnan hangulatos erdei ösvényeken gyalogolunk vissza a Szentkút érintésével a Pilis és a Visegrádi-hegység központi helyén fekvő Pilisszentkeresztre.",
+    "route": null,
+    "character": "Hosszú, de könnyű gyalogtúra kitűnően jelzett turistautakon, ösvényeken. Dobogókő felé közepesen meredek, jól járható utakon, a Bükkös-patak völgyébe és vissza a faluba meredek, de rövid lejtőkön. Vendéglátóhelyek a faluban és Dobogókőn, vízvételi lehetőség a Sikárosi-réten a Szilágyi Bernát-forrásnál (száraz időben mérsékelt vízhozam), ill. a bővizű Szentkúton.",
+    "highlights": [],
+    "equipment": [],
+    "gpx": "gpx/pilisszentkereszti-kortura-fel-a-dobogokore-a-sikarosi-reten-at-vissza.gpx",
+    "sourceUrl": "https://kirandulastippek.hu/budapest-kornyeke/pilisszentkereszti-kortura-fel-a-dobogokore-a-sikarosi-reten-at-vissza",
+    "coverImage": "images/pilisszentkereszti-kortura-fel-a-dobogokore-a-sikarosi-reten-at-vissza/cover.jpg",
+    "images": [
+      "images/pilisszentkereszti-kortura-fel-a-dobogokore-a-sikarosi-reten-at-vissza/0.jpg",
+      "images/pilisszentkereszti-kortura-fel-a-dobogokore-a-sikarosi-reten-at-vissza/1.jpg"
+    ]
+  },
+  {
+    "id": "nagy-kevely-egri-var-pilisborosjenoi-kortura",
+    "region": "budapest-kornyeke",
+    "type": "hike",
+    "title": "Nagy-Kevély, Egri vár, Pilisborosjenői körtúra",
+    "subtitle": "A Kevélyhegyi tanösvényen",
+    "difficulty": "Közepes",
+    "stats": {
+      "distKm": 10.1,
+      "ascM": 426,
+      "descM": 424,
+      "elevMin": 217,
+      "elevMax": 520
+    },
+    "parking": {
+      "name": "Kiindulópont",
+      "note": "Pilisborosjenő, a levendula mező mellett kialakított, kirándulóknak fenntartott parkoló, a Fő utca végén. A faluba beérve végighajtunk a Fő utcán, a parkoló a Mesevölgy óvoda mellett van. Tömegközlekedéssel a Pilisborosjenő, autóbuszfordulótól indulhatunk a központ felé a Fő utcán."
+    },
+    "description": "A Pilis déli részének jellegzetes hegyvonulata, a fővárosból is jól látható Kevélyek csoportjára Pilisborosjenőről indulunk. Végigjárjuk az Ezüst-, a Nagy- és a Kis-Kevély kilátásban gazdag csúcsait, majd az Egri Csillagok című nagysikerű film népszerű forgatási helyszíne, az „Egri Vár” romjait érintve, a Teve-szikla környékének érdekes sziklaformációi mentén sétálunk vissza a faluba.",
+    "route": null,
+    "character": "Közepes nehézségű gyalogtúra jelzett és jelzetlen turistautakon, ösvényeken. A Kevélyek alatti tanösvény hiányosan jelzett, jó tájékozódási képesség fontos, az Egri vár romjai körül is hiányosak a jelzések, könnyen el lehet kavarodni a sok egyforma szekérút között. A Kevélyek tetején, sziklaletörésein lévő kilátóhelyek nem biztosítottak, óvatosan közlekedjünk a meredek sziklákon. Útközben vízvételi lehetőség nincs, vigyünk magunkkal kellő mennyiségű folyadékot, nyári melegben az útvonal meglehetősen izzasztó.",
+    "highlights": [
+      "Nagy-Kevély",
+      "Egri vár"
+    ],
+    "equipment": [],
+    "gpx": "gpx/nagy-kevely-egri-var-pilisborosjenoi-kortura.gpx",
+    "sourceUrl": "https://kirandulastippek.hu/budapest-kornyeke/nagy-kevely-egri-var-pilisborosjenoi-kortura",
+    "coverImage": "images/nagy-kevely-egri-var-pilisborosjenoi-kortura/cover.jpg",
+    "images": [
+      "images/nagy-kevely-egri-var-pilisborosjenoi-kortura/0.jpg",
+      "images/nagy-kevely-egri-var-pilisborosjenoi-kortura/1.jpg"
+    ]
+  },
+  {
+    "id": "tura-a-szentendre-felett-magaslo-nyerges-hegyre-a-sztaravoda-forrastol",
+    "region": "budapest-kornyeke",
+    "type": "hike",
+    "title": "Túra a Szentendre felett magasló Nyerges-hegyre a Sztaravoda-forrástól",
+    "subtitle": "Káprázatos kilátópontokon a Szentendre feletti hegyek vonulatán",
+    "difficulty": "Közepes",
+    "stats": {
+      "distKm": 7,
+      "ascM": 375,
+      "descM": 370,
+      "elevMin": 203,
+      "elevMax": 547
+    },
+    "parking": {
+      "name": "Kiindulópont",
+      "note": "Szentendre, Sztaravoda, Forrás utca végén lévő parkolóhely. Szentendre felől Pilisszentlászló – Visegrád felé kell menni, majd közvetlenül a Skanzen kerítése utáni első úton (Forrás utca) jobbra fordulni és az út legvégén lévő parkolóig menni. Tömegközlekedéssel: autóbusz (Volánbusz 878 járat), a szentendrei autóbuszállomástól, a Szabadság-forrás buszfordulóig, onnan pár perc séta a Sárga + jelű Forrás utcán, majd a Sárga O jelű ösvényen a forrásig."
+    },
+    "description": "A szentendrei skanzen mellett fakadó, hangulatos Sztara Voda-forrástól indulunk a város felett tornyosuló Nyerges-hegyre, utunk leglátványosabb szakasza a hegy délnyugati felén futó, kopár, sziklás oldalában harántoló, parádés kilátású jelzetlen ösvény. A Nyerges-hegy tetejéről roppant meredek lejtőn ereszkedünk a közkedvelt Álló-rétre, ahonnan kényelmes sétával érünk vissza Sztaravodára.",
+    "route": null,
+    "character": "Közepesen nehéz, de rövid gyalogtúra jelzett és jelzetlen turistautakon, ösvényeken. Meredek kaptató a beépült Sztaravoda városrészben aszfaltos utcákon, rendkívül meredek, több helyen morzsalékos talajú lejtő a Nyerges-hegyről lefelé az Álló-rétre.",
+    "highlights": [],
+    "equipment": [],
+    "gpx": "gpx/tura-a-szentendre-felett-magaslo-nyerges-hegyre-a-sztaravoda-forrastol.gpx",
+    "sourceUrl": "https://kirandulastippek.hu/budapest-kornyeke/tura-a-szentendre-felett-magaslo-nyerges-hegyre-a-sztaravoda-forrastol",
+    "coverImage": "images/tura-a-szentendre-felett-magaslo-nyerges-hegyre-a-sztaravoda-forrastol/cover.jpg",
+    "images": [
+      "images/tura-a-szentendre-felett-magaslo-nyerges-hegyre-a-sztaravoda-forrastol/0.jpg",
+      "images/tura-a-szentendre-felett-magaslo-nyerges-hegyre-a-sztaravoda-forrastol/1.jpg"
+    ]
+  },
+  {
+    "id": "zsambeki-kortura-a-nyakas-hegyen",
+    "region": "budapest-kornyeke",
+    "type": "hike",
+    "title": "Zsámbéki körtúra a Nyakas-hegyen",
+    "subtitle": "Könnyű kirándulás a Zsámbék és Tök feletti Nyakas-tetőn",
+    "difficulty": "Közepes",
+    "stats": {
+      "distKm": 9.4,
+      "ascM": 171,
+      "descM": 175,
+      "elevMin": 189,
+      "elevMax": 301
+    },
+    "parking": {
+      "name": "Kiindulópont",
+      "note": "Zsámbék, a romtemplom előtti parkoló. Legközelebbi buszmegálló a település központjában, Zsámbék autóbusz forduló, az M4 kelenföldi végállomásától jó félóra alatt ér ki a Volánbusz menetrend szerinti járata. A megállótól a Szent István tér- Zárdakert – Szent Erzsébet lépcső útvonalon érünk fel a romtemplomhoz a sárga sáv és a Mária-út jelzéseit követve."
+    },
+    "description": "A Gerecse délkeleti peremén, a Zsámbéki-medencére néző Nyakas-hegy vonulatán kellemes gyalogút húzódik, a feketefenyő ligetekkel pettyezett füves hegyhátra a híres zsámbéki romtemplomtól indulunk. Változatos utunkat szavannaszerű rétek, hangulatos fenyvesek, mészkősziklák, kiterjedt szőlők, gyümölcsösök, régi pincesorok, présházak tarkítják.",
+    "route": null,
+    "character": "Könnyű, családi kirándulás jól jelzett turistautakon, gyalogutakon, a szőlők közt gyéren jelzett vagy jelzetlen dűlőutakon. Útközben vízvételi lehetőség nincs.",
+    "highlights": [],
+    "equipment": [],
+    "gpx": "gpx/zsambeki-kortura-a-nyakas-hegyen.gpx",
+    "sourceUrl": "https://kirandulastippek.hu/budapest-kornyeke/zsambeki-kortura-a-nyakas-hegyen",
+    "coverImage": "images/zsambeki-kortura-a-nyakas-hegyen/cover.jpg",
+    "images": [
+      "images/zsambeki-kortura-a-nyakas-hegyen/0.jpg",
+      "images/zsambeki-kortura-a-nyakas-hegyen/1.jpg"
+    ]
+  },
+  {
+    "id": "dera-szurdok-hosszu-hegy",
+    "region": "budapest-kornyeke",
+    "type": "hike",
+    "title": "Dera-szurdok, Hosszú-hegy",
+    "subtitle": "A zsúfolt szurdokból csendes pilisi kilátópontokra",
+    "difficulty": "Közepes-nehéz",
+    "stats": {
+      "distKm": 13.1,
+      "ascM": 414,
+      "descM": 414,
+      "elevMin": 195,
+      "elevMax": 478
+    },
+    "parking": {
+      "name": "Kiindulópont",
+      "note": ""
+    },
+    "description": "A főváros környékének legnépszerűbb kirándulóhelye, a Pilisszentkereszt melletti Dera-szurdok, a könnyen megközelíthető, vadregényes patakvölgy minden évszakban csodálatos. A kissé komolyabb túraélményre vágyóknak ajánljuk a szép kilátással bíró Hosszú-hegy végigjárását, a csobánkai Szent-kúttól pedig az Országos Kéktúra útvonalán térünk vissza a Szurdok bejáratához.",
+    "route": null,
+    "character": null,
+    "highlights": [
+      "Dera-szurdok",
+      "Hosszú-hegy"
+    ],
+    "equipment": [],
+    "gpx": "gpx/dera-szurdok-hosszu-hegy.gpx",
+    "sourceUrl": "https://kirandulastippek.hu/budapest-kornyeke/dera-szurdok-hosszu-hegy",
+    "coverImage": "images/dera-szurdok-hosszu-hegy/cover.jpg",
+    "images": [
+      "images/dera-szurdok-hosszu-hegy/0.jpg",
+      "images/dera-szurdok-hosszu-hegy/1.jpg"
+    ]
+  },
+  {
+    "id": "nagykovacsi-kortura-nagy-szenas-kutya-hegy-meszes-hegy",
+    "region": "budapest-kornyeke",
+    "type": "hike",
+    "title": "Nagykovácsi körtúra, Nagy-Szénás, Kutya-hegy, Meszes-hegy",
+    "subtitle": "Barangolás a Budai-hegység legtávolabbi szegletében",
+    "difficulty": "Közepes-nehéz",
+    "stats": {
+      "distKm": 15.8,
+      "ascM": 489,
+      "descM": 492,
+      "elevMin": 239,
+      "elevMax": 552
+    },
+    "parking": {
+      "name": "Kiindulópont",
+      "note": "Nagykovácsi, községháza, a falu központja, Kossuth Lajos utca. Kocsival az út menti parkolóhelyeken tudunk megállni, nem fizetős. Tömegközlekedés: 63 -as BKV busz, Hűvösvölgyből indul."
+    },
+    "description": "A Budai-hegység kevéssé látogatott, de csodaszép északnyugati szegletét fedezzük fel a Nagykovácsiból induló változatos, kilátásban gazdag körtúránkon. A faluból mászunk fel a hegység legkülönlegesebb és legjobban védett hegyére, a füves tetejű, parádés panorámát nyújtó Nagy-Szénásra. A Kutya-hegyen, mesebeli tisztások során keresztül, a Zajnáti-hegyek kopáros oldalain át ereszkedünk le a Mária-völgybe, ahonnan jelzetlen ösvényen kapaszkodunk fel a Meszes-hegy jellegzetes, kereszttel koronázott tetejére, a Budai-hegység északnyugati őrszemére. Kényelmes utakon vándorlunk vissza a festői fekvésű Nagykovácsiba. Erősen ajánlott túra a szép kilátások, a mesés tisztások, a csendes vidék kedvelőinek.",
+    "route": null,
+    "character": "Közepesen nehéz, viszonylag hosszú gyalogtúra többségében jól jelzett turistautakon, ösvényeken, kocsiutakon. A Meszes-hegyre jelzetlen, meredek kaptató vezet. Jó térkép, GPS fontos! Útközben forrás, vízvételi lehetőség nincs, kellő mennyiségű folyadékot vigyünk magunkkal, nyáron megfelelő napvédelemről gondoskodjunk, az útvonal nagy része napos.",
+    "highlights": [
+      "Nagy-Szénás",
+      "Kutya-hegy",
+      "Meszes-hegy"
+    ],
+    "equipment": [],
+    "gpx": "gpx/nagykovacsi-kortura-nagy-szenas-kutya-hegy-meszes-hegy.gpx",
+    "sourceUrl": "https://kirandulastippek.hu/budapest-kornyeke/nagykovacsi-kortura-nagy-szenas-kutya-hegy-meszes-hegy",
+    "coverImage": "images/nagykovacsi-kortura-nagy-szenas-kutya-hegy-meszes-hegy/cover.jpg",
+    "images": [
+      "images/nagykovacsi-kortura-nagy-szenas-kutya-hegy-meszes-hegy/0.jpg",
+      "images/nagykovacsi-kortura-nagy-szenas-kutya-hegy-meszes-hegy/1.jpg"
+    ]
+  },
+  {
+    "id": "kesztolci-panorama-kortura-a-ketagu-hegy-szirtjeire",
+    "region": "budapest-kornyeke",
+    "type": "hike",
+    "title": "Kesztölci panoráma körtúra a Kétágú-hegy szirtjeire",
+    "subtitle": "Fehér sziklaszirtek, parádés kilátás, varázslatos, vadvirágos rétek",
+    "difficulty": "Közepes",
+    "stats": {
+      "distKm": 9.1,
+      "ascM": 343,
+      "descM": 344,
+      "elevMin": 188,
+      "elevMax": 510
+    },
+    "parking": {
+      "name": "Kiindulópont",
+      "note": "Kesztölc, faluközpont, Szabadság tér. Buszmegálló, megközelíthetőtömegközlekedéssel Budapestről az esztergomi vonattal Leányvárig, onnan busszal, menetrend itt. Sajnos közvetlen járat nincs. Gépkocsival parkolóhelyet a Szabadság téren találunk."
+    },
+    "description": "A Pilis egyik legszebb hegyvonulata, a Kesztölc felett húzódó Kétágú-hegy vakítóan fehér mészkőszirtekkel koronázott lánca. A bájos fekvésű faluból kiindulva rövid, látványos körtúrát teszünk a káprázatos panorámájú Öreg-szirt tetejére, majd a meredek, sziklás Postás úton ereszkedünk vissza a Sziklák alatti dűlő idilli, vadvirágos rétjein keresztül, az Országos Kéktúra útvonalán a szőlőtermesztéséről is híres faluba.",
+    "route": null,
+    "character": "Közepesen nehéz, változatos, kilátásban gazdag, rövid gyalogtúra jól jelzett turistautakon, ösvényeken. A kirándulás nehézségét az Öreg-szirtre történő kaptató, ill. a meredeken lejtő, sziklás Postás-út adja. A korláttal nem védett Öreg-szirt sziklaletörésénél óvatosan közlekedjünk, gyerekekre fokozottan figyeljünk! Útközben vízvételi lehetőség nincs, vigyünk magunkkal kellő mennyiségű folyadékot, az útvonal jó része napos, nyáron kellemetlenül meleg lehet.",
+    "highlights": [],
+    "equipment": [],
+    "gpx": "gpx/kesztolci-panorama-kortura-a-ketagu-hegy-szirtjeire.gpx",
+    "sourceUrl": "https://kirandulastippek.hu/budapest-kornyeke/kesztolci-panorama-kortura-a-ketagu-hegy-szirtjeire",
+    "coverImage": "images/kesztolci-panorama-kortura-a-ketagu-hegy-szirtjeire/cover.jpg",
+    "images": [
+      "images/kesztolci-panorama-kortura-a-ketagu-hegy-szirtjeire/0.jpg",
+      "images/kesztolci-panorama-kortura-a-ketagu-hegy-szirtjeire/1.jpg"
+    ]
+  },
+  {
+    "id": "piliscsevi-kortura-csevi-szirtek-legeny-es-leany-barlang-klastrom-szirtek",
+    "region": "budapest-kornyeke",
+    "type": "hike",
+    "title": "Piliscsévi körtúra, Csévi-szirtek, Legény- és Leány-barlang, Klastrom-szirtek",
+    "subtitle": "A Pilis legszebb sziklaormai, barlangjai",
+    "difficulty": "Közepes-nehéz",
+    "stats": {
+      "distKm": 12.1,
+      "ascM": 573,
+      "descM": 574,
+      "elevMin": 184,
+      "elevMax": 525
+    },
+    "parking": {
+      "name": "Kiindulópont",
+      "note": "Piliscsév, Faluközpont, templom. Megközelíthető az Árpád-hídtól induló 805 -ös távolsági busszal, megálló: Piliscsév, Hősök tere. Autóval vagy a templom környékén tudunk parkolni, vagy pár métert spórolva, tovább megyünk a Szabadság és Basa utca útvonalon és a horgásztó előtt az út szélén hagyjuk a kocsit."
+    },
+    "description": "Piliscsévről indulunk félnapos, rendkívül változatos, kilátásban gazdag, látványos körtúránkra, a Pilis legszebb sziklaormainak felfedezésére. Először a Csévi-barlang sziklafalának tetejére kapaszkodunk fel, majd az Eszperantó-forrás kellemes pihenője után a Csévi-szirtek sziklafalában ásító Legény- és Leány-barlanghoz mászunk fel. A Klastrom-szirtekről nyíló lenyűgöző kilátás pedig minden értelemben túránk csúcspontja. Végül a klastrompusztai pálos kolostor romjait érintve gyalogolunk vissza a faluba.",
+    "route": null,
+    "character": "Közepesen nehéz, nem túl hosszú gyalogtúra jól jelzett turistautakon, ösvényeken. Több ellenemelkedőre készüljünk, a legfárasztóbb szakasz a Legény - és Leány-barlanghoz vivő, nagyon meredek, törmelékes csapás, melyet nedves időben nem ajánlunk! A nehéz szakaszok azonban elkerülhetők, a barlangokhoz kitérők vezetnek a fő útvonalról. Kellő mennyiségű vizet vigyünk magunkkal, sajnos az Eszperantó-forrás vizét ott jártunkkor nem tudtuk megkóstolni, úgy tűnik elapadt a kút. Klastrompusztán nyomós kút van, vize azonban meglehetősen rossz ízű, de iható.",
+    "highlights": [
+      "Csévi-szirtek",
+      "Legény- és Leány-barlang",
+      "Klastrom-szirtek"
+    ],
+    "equipment": [],
+    "gpx": "gpx/piliscsevi-kortura-csevi-szirtek-legeny-es-leany-barlang-klastrom-szirtek.gpx",
+    "sourceUrl": "https://kirandulastippek.hu/budapest-kornyeke/piliscsevi-kortura-csevi-szirtek-legeny-es-leany-barlang-klastrom-szirtek",
+    "coverImage": "images/piliscsevi-kortura-csevi-szirtek-legeny-es-leany-barlang-klastrom-szirtek/cover.jpg",
+    "images": [
+      "images/piliscsevi-kortura-csevi-szirtek-legeny-es-leany-barlang-klastrom-szirtek/0.jpg",
+      "images/piliscsevi-kortura-csevi-szirtek-legeny-es-leany-barlang-klastrom-szirtek/1.jpg"
+    ]
+  },
+  {
+    "id": "bozotmives-tanosveny",
+    "region": "budapest-kornyeke",
+    "type": "hike",
+    "title": "Bozótmíves-tanösvény",
+    "subtitle": "Túlélési praktikák a Gödöllői-dombságban",
+    "difficulty": "Könnyű",
+    "stats": {
+      "distKm": 3.3,
+      "ascM": 84,
+      "descM": 83,
+      "elevMin": 252,
+      "elevMax": 321
+    },
+    "parking": {
+      "name": "Kiindulópont",
+      "note": ""
+    },
+    "description": "A Gödöllői-dombság új, 2017-ben kialakított, rendhagyó tanösvénye a bozótmívesség alapjaival ismerteti meg a természetbarátokat, kirándulókat. A 7 állomásos, 1600 m hosszú Bozótmíves-tanösvény a Kerepes, Mogyoród és Gödöllő közti lankás, erdős területen fekszik, a Gödöllői Tájvédelmi Körzetben. A 3-as úttól induló könnyű körtúrán járhatjuk végig a kitűnően kitáblázott, rendkívül hasznos infókkal tájékoztató, hangulatos tanösvényt.",
+    "route": null,
+    "character": "Könnyű, családi kirándulás, kitűnően jelzett turistautakon, ösvényeken, minden évszakban járható.",
+    "highlights": [],
+    "equipment": [],
+    "gpx": "gpx/bozotmives-tanosveny.gpx",
+    "sourceUrl": "https://kirandulastippek.hu/budapest-kornyeke/bozotmives-tanosveny",
+    "coverImage": "images/bozotmives-tanosveny/cover.jpg",
+    "images": [
+      "images/bozotmives-tanosveny/0.jpg",
+      "images/bozotmives-tanosveny/1.jpg"
+    ]
+  },
+  {
+    "id": "ram-hegy-kortura-dobogokorol",
+    "region": "budapest-kornyeke",
+    "type": "hike",
+    "title": "Rám-hegy, körtúra Dobogókőről",
+    "subtitle": "A Föld szívcsakrája",
+    "difficulty": "Közepes",
+    "stats": {
+      "distKm": 8.4,
+      "ascM": 346,
+      "descM": 346,
+      "elevMin": 407,
+      "elevMax": 699
+    },
+    "parking": {
+      "name": "Kiindulópont",
+      "note": "Dobogókő, nagy, fizetős parkoló (200Ft/óra), autóbusszal megközelíthető a 860-as Volánbusz járattal Pomáz HÉV állomástól."
+    },
+    "description": "A kultikus, nem mellesleg gyönyörű kilátást nyújtó Rám-hegyre legkönnyebben Dobogókőről juthatunk el. A Visegrádi-hegység legmagasabb csúcsának északi oldalában fekvő vadregényes Thirring-szikláktól ereszkedünk le a Ferenczy-sziklával koronázott hegy kopár tetejére, majd a Makó-réti-forrás érintésével megyünk fel a Szakó-nyeregbe, ahonnan a Téry úton térünk vissza Dobogókőre.",
+    "route": null,
+    "character": "Rövid, közepesen nehéz körtúra jól jelzett turistautakon, ösvényeken. A Thirring-szikláknál közepesen meredek lejtő, a Rám-hegy kúpjára meredek, de rövid kapaszkodó.",
+    "highlights": [],
+    "equipment": [],
+    "gpx": "gpx/ram-hegy-kortura-dobogokorol.gpx",
+    "sourceUrl": "https://kirandulastippek.hu/budapest-kornyeke/ram-hegy-kortura-dobogokorol",
+    "coverImage": "images/ram-hegy-kortura-dobogokorol/cover.jpg",
+    "images": [
+      "images/ram-hegy-kortura-dobogokorol/0.jpg",
+      "images/ram-hegy-kortura-dobogokorol/1.jpg"
+    ]
+  },
+  {
+    "id": "nagy-kevely-csillaghegyrol-csobankara",
+    "region": "budapest-kornyeke",
+    "type": "hike",
+    "title": "Nagy-Kevély, Csillaghegyről Csobánkára",
+    "subtitle": "Kilátásban gazdag túra a Kevélyek gerincén át",
+    "difficulty": "Közepes-nehéz",
+    "stats": {
+      "distKm": 13.1,
+      "ascM": 516,
+      "descM": 452,
+      "elevMin": 106,
+      "elevMax": 520
+    },
+    "parking": {
+      "name": "Kiindulópont",
+      "note": "Csillaghegy Hév-megálló"
+    },
+    "description": "A Pilis egyik legjellegzetesebb hegyvonulata a Kevélyek csoportja, a Kis- a Nagy- és az Ezüst-Kevély szinte szigethegységként magaslik ki a környező vidékről. Túránk során keresztülszeljük az egész hegyláncot Csillaghegyről indulva, a különleges Róka-hegyi kőfejtőn át végigvándorlunk a parádés kilátást nyújtó Kevélyek csúcsain, majd a Mackó-barlang sötéten ásító nyílását érintve a festői fekvésű Csobánkán fejezzük be kirándulásunkat.",
+    "route": null,
+    "character": "Egész napos, közepesen nehéz túra jól jelzett turistautakon, ösvényeken. Közepesen meredek emelkedőkkel, lejtőkkel. Kellő mennyiségű folyadékot vigyünk magunkkal, útközben vízvételi lehetőség nincs. A hátnál jól szellőző, kényelmes túrahátizsák nagyban megkönnyíti kirándulásunkat. Az útvonal nagy része napos, UV védelemről gondoskodjunk. Napszemüveget ne felejtsük otthon, és egy nyári sapka vagy kalap is jól jöhet. Nagy melegben nem ajánlott a túra.",
+    "highlights": [
+      "Nagy-Kevély",
+      "Csillaghegyről Csobánkára"
+    ],
+    "equipment": [],
+    "gpx": "gpx/nagy-kevely-csillaghegyrol-csobankara.gpx",
+    "sourceUrl": "https://kirandulastippek.hu/budapest-kornyeke/nagy-kevely-csillaghegyrol-csobankara",
+    "coverImage": "images/nagy-kevely-csillaghegyrol-csobankara/cover.jpg",
+    "images": [
+      "images/nagy-kevely-csillaghegyrol-csobankara/0.jpg",
+      "images/nagy-kevely-csillaghegyrol-csobankara/1.jpg"
+    ]
+  },
+  {
+    "id": "ocsa-selyem-reti-tanosveny",
+    "region": "budapest-kornyeke",
+    "type": "hike",
+    "title": "Ócsa, Selyem-réti tanösvény",
+    "subtitle": "Mesebeli lápvilág",
+    "difficulty": "Könnyű",
+    "stats": {
+      "distKm": 1.8,
+      "ascM": 34,
+      "descM": 35,
+      "elevMin": 103,
+      "elevMax": 118
+    },
+    "parking": {
+      "name": "Kiindulópont",
+      "note": ""
+    },
+    "description": "A Budapesttől délre fekvő Ócsa melletti Nagy-erdőben található Selyem-réti tanösvény hazánk egyik legmesésebb táján kalauzolja végig a látogatókat. Az év minden szakában víz alatt lévő varázslatos láperdőbe kényelmes sétaút vezet be egészen a zölden tündöklő Selyem-rétig. Könnyű séta, jól jelzett útvonalon, széles, jó minőségű földúton. Kisgyerekekkel is tökéletesen jól járható. Kerékpárral, de még kerekesszékkel is végig lehet rajta menni. A selyem-réti pinikezőhelyre érdemes felkészülten mennünk, egy közepes méretű hátizsákba kényelmesen be tudjuk pakolni az enni-, innivalót, még egy-két meleg pulóver is elfér benne. A nedves környezet sajnos vonzza a vérszívó rovarokat is, a szúnyogok, kullancsok ellen védekezzünk professzionális rovarriasztóval.",
+    "route": null,
+    "character": null,
+    "highlights": [
+      "Ócsa",
+      "Selyem-réti tanösvény"
+    ],
+    "equipment": [],
+    "gpx": "gpx/ocsa-selyem-reti-tanosveny.gpx",
+    "sourceUrl": "https://kirandulastippek.hu/budapest-kornyeke/ocsa-selyem-reti-tanosveny",
+    "coverImage": "images/ocsa-selyem-reti-tanosveny/cover.jpg",
+    "images": [
+      "images/ocsa-selyem-reti-tanosveny/0.jpg",
+      "images/ocsa-selyem-reti-tanosveny/1.jpg"
+    ]
+  },
+  {
+    "id": "piliscsaba-gomba-szikla-ordogoltar-szikla",
+    "region": "budapest-kornyeke",
+    "type": "hike",
+    "title": "Piliscsaba, Gomba-szikla, Ördögoltár-szikla",
+    "subtitle": "Különös sziklaképződmények Piliscsaba mellett",
+    "difficulty": "Könnyű",
+    "stats": {
+      "distKm": 3.1,
+      "ascM": 120,
+      "descM": 120,
+      "elevMin": 209,
+      "elevMax": 285
+    },
+    "parking": {
+      "name": "Kiindulópont",
+      "note": "Piliscsaba, Kálvária u.. A 10-es főútról, Piliscsaba Fő útjáról Budapest felől balra fordulunk az Új utcára, mely a Kálvária utcába vezet, itt balra kanyarodva érjük el a Kálvária utca és a Gomba utca kereszteződését."
+    },
+    "description": "Piliscsaba mellett két, különleges sziklaalakzatot is felfedezhetünk könnyű, rövid kirándulásunkon. A Kálvária-dombról először a minden oldaláról különböző alakot mutató jellegzetes Gomba-sziklát, majd kissé messzebb a rejtélyes, sziklamászók által kedvelt Ördögoltár-sziklát keressük fel kényelmes körtúránkon.",
+    "route": null,
+    "character": "Könnyű, rövid erdei séta jól jelzett, kényelmes turistautakon, ösvényeken.",
+    "highlights": [
+      "Piliscsaba",
+      "Gomba-szikla",
+      "Ördögoltár-szikla"
+    ],
+    "equipment": [],
+    "gpx": "gpx/piliscsaba-gomba-szikla-ordogoltar-szikla.gpx",
+    "sourceUrl": "https://kirandulastippek.hu/budapest-kornyeke/piliscsaba-gomba-szikla-ordogoltar-szikla",
+    "coverImage": "images/piliscsaba-gomba-szikla-ordogoltar-szikla/cover.jpg",
+    "images": [
+      "images/piliscsaba-gomba-szikla-ordogoltar-szikla/0.jpg",
+      "images/piliscsaba-gomba-szikla-ordogoltar-szikla/1.jpg"
+    ]
+  },
+  {
+    "id": "nagy-kopasz-devenyi-antal-kilato-piliscsaba",
+    "region": "budapest-kornyeke",
+    "type": "hike",
+    "title": "Nagy-Kopasz, Dévényi Antal-kilátó, Piliscsaba",
+    "subtitle": "Különleges kilátótorony, káprázatos körpanoráma a Pilis hegyeire",
+    "difficulty": "Közepes-nehéz",
+    "stats": {
+      "distKm": 12.5,
+      "ascM": 486,
+      "descM": 486,
+      "elevMin": 241,
+      "elevMax": 445
+    },
+    "parking": {
+      "name": "Kiindulópont",
+      "note": ""
+    },
+    "description": "A Piliscsaba felett magasló, Nagy-Kopasz (447 m) tetején, 2015 óta áll a dzsenga fajátékra hajazó, látványos Dévényi Antal-kilátó, melynek tornyából zavartalan körpanoráma tárul a Pilis és a Budai-hegység vonulataira. A kilátóhoz a legszebb útvonal a 10-es út menti Kopár csárdától kínálkozik, mely a hangulatos, fenyvesfoltokkal tarkított Zajnát-hegyeken keresztül vezet a Nagy-Kopaszra.",
+    "route": null,
+    "character": null,
+    "highlights": [
+      "Nagy-Kopasz",
+      "Dévényi Antal-kilátó",
+      "Piliscsaba"
+    ],
+    "equipment": [],
+    "gpx": "gpx/nagy-kopasz-devenyi-antal-kilato-piliscsaba.gpx",
+    "sourceUrl": "https://kirandulastippek.hu/budapest-kornyeke/nagy-kopasz-devenyi-antal-kilato-piliscsaba",
+    "coverImage": "images/nagy-kopasz-devenyi-antal-kilato-piliscsaba/cover.jpg",
+    "images": [
+      "images/nagy-kopasz-devenyi-antal-kilato-piliscsaba/0.jpg",
+      "images/nagy-kopasz-devenyi-antal-kilato-piliscsaba/1.jpg"
+    ]
+  },
+  {
+    "id": "domorkapu-sikarosi-ret-lajos-forras",
+    "region": "budapest-kornyeke",
+    "type": "hike",
+    "title": "Dömörkapu, Sikárosi-rét, Lajos-forrás",
+    "subtitle": "Vadregényes patak, vízesés, bővizű források, hangulatos tisztások",
+    "difficulty": "Közepes",
+    "stats": {
+      "distKm": 10.8,
+      "ascM": 354,
+      "descM": 358,
+      "elevMin": 251,
+      "elevMax": 518
+    },
+    "parking": {
+      "name": "Kiindulópont",
+      "note": ""
+    },
+    "description": "A Pilis klasszikus, családi túráinak egyike a Dömörkaputól induló, a Bükkös-patak meseszép völgyében az idilli Sikárosi-rétig haladó körtúra, mely a Lajos-forrás érintésével ér vissza a felhagyott kőbánya melletti kiindulópontra. Vízesés, romantikus patak, tágas, vadvirágos tisztások, kulturált pihenő- és piknikező helyek, szép kilátópontok, bővizű, jó ízű források teszik felejthetetlenné könnyű túránkat.",
+    "route": null,
+    "character": null,
+    "highlights": [
+      "Dömörkapu",
+      "Sikárosi-rét",
+      "Lajos-forrás"
+    ],
+    "equipment": [],
+    "gpx": "gpx/domorkapu-sikarosi-ret-lajos-forras.gpx",
+    "sourceUrl": "https://kirandulastippek.hu/budapest-kornyeke/domorkapu-sikarosi-ret-lajos-forras",
+    "coverImage": "images/domorkapu-sikarosi-ret-lajos-forras/cover.jpg",
+    "images": [
+      "images/domorkapu-sikarosi-ret-lajos-forras/0.jpg",
+      "images/domorkapu-sikarosi-ret-lajos-forras/1.jpg"
+    ]
+  },
+  {
+    "id": "pilis-klastrompuszta-fekete-hegy-ketagu-hegy",
+    "region": "budapest-kornyeke",
+    "type": "hike",
+    "title": "Pilis, Klastrompuszta, Fekete-hegy, Kétágú-hegy",
+    "subtitle": "Fehér mészkőszirtek, parádés kilátás, elbűvölő hegyi rétek",
+    "difficulty": "Közepes-nehéz",
+    "stats": {
+      "distKm": 13,
+      "ascM": 547,
+      "descM": 550,
+      "elevMin": 243,
+      "elevMax": 587
+    },
+    "parking": {
+      "name": "Kiindulópont",
+      "note": "Klastrompuszta, Kesztölctől egy meglehetősen kátyús úton 4 km-re. Parkoló a kolostrorrom mellett. Tömegközlekedéssel csak Kesztölcig lehet eljutni."
+    },
+    "description": "A Pilis hegység nyugati részén vezető körtúránk Klastrompusztáról, a hajdani pálos kolostor romjaitól indul a Pilis-nyereg érintésével a nevéhez méltó Sasfészek menedékházig, majd egy fantasztikus, dzsungelszerű erdőt átszelve jutunk ki az eszményi fekvésű, bájos falu, Kesztölc fölé magasodó sziklaszirtekhez. A gyalogtúra utolsó szakasza a Kesztölc feletti lélegzetelállítóan szép hegyi mezőkön, vadvirágos réteken vezet keresztül.",
+    "route": "Klastrompuszta – Vörös út – Klastrom-szirtek – Pilis-nyereg – Sasfészek kulcsosház – Róth út – Kétágú-hegy nyerge – Klastrompuszta",
+    "character": "Könnyű túra, néhol közepesen meredek kaptatókkal, jól jelzett turistautakon, nagyrészt széles, erdei utakon. A Sasfészektől a rövidebb, lefelé vezető út rendkívül meredek és csúszós, de ki lehet kerülni egy alternatív útvonallal. Vízvételi lehetőség nincs útközben.",
+    "highlights": [
+      "Pilis",
+      "Klastrompuszta",
+      "Fekete-hegy",
+      "Kétágú-hegy"
+    ],
+    "equipment": [],
+    "gpx": "gpx/pilis-klastrompuszta-fekete-hegy-ketagu-hegy.gpx",
+    "sourceUrl": "https://kirandulastippek.hu/budapest-kornyeke/pilis-klastrompuszta-fekete-hegy-ketagu-hegy",
+    "coverImage": "images/pilis-klastrompuszta-fekete-hegy-ketagu-hegy/cover.jpg",
+    "images": [
+      "images/pilis-klastrompuszta-fekete-hegy-ketagu-hegy/0.jpg",
+      "images/pilis-klastrompuszta-fekete-hegy-ketagu-hegy/1.jpg"
+    ]
+  },
+  {
+    "id": "budaors-csiki-hegyek-odvas-hegy",
+    "region": "budapest-kornyeke",
+    "type": "hike",
+    "title": "Budaörs, Csíki-hegyek, Odvas-hegy",
+    "subtitle": "Elképesztően szép, kopár sziklabérceken Budaörs felett",
+    "difficulty": "Közepes",
+    "stats": {
+      "distKm": 8.2,
+      "ascM": 267,
+      "descM": 307,
+      "elevMin": 142,
+      "elevMax": 281
+    },
+    "parking": {
+      "name": "Kiindulópont",
+      "note": "Budaörs, Csiki csárda autóbuszmegálló. A városból 88-as busszal közelíthető meg. A túra Budaörs központjában, az Ófaluban végződik."
+    },
+    "description": "A Budai-hegység legdélebbi, ugyanakkor leglátványosabb hegyei a Budaörsöt övező Csíki-hegyek fokozottan védett területe. Kilátásban igen gazdag túránk végigvezet a Huszonnégyökrös-hegytől a Csíki-hegyek déli oldalán át a pazar panorámájú Út-hegyre és az egészen elképesztő, páratlan Odvas-hegyre.",
+    "route": "Budaörs, Csiki csárda – Huszonnégyökrös-hegy – Csík-hegy – Ló-hegy – Út-hegy – Odvas-hegy – Budaörs.",
+    "character": "Nagy része jelzett turistaúton, kényelmes ösvényeken, az Út-hegyre jelzetlen út vezet, az Odvas-hegy megmászása pedig igazi kihívás, jelzetlen, rendkívül meredek csapásokon, szinte magashegységi környezetben, sziklás, morzsalékos utakon tudunk felmászni, de az igazi kihívás a nem veszélytelen leereszkedés a túloldalon. A túrához elengedhetetlen a bokát jól tartó, professzionális talppal ellátott, jó minőségű túrabakancs. A meredek szakaszokon rendkívül jó szolgálatot tehet egy pár profi túrabot, és a könnyű mozgást nem akadályozó, strapabíró túranadrág.",
+    "highlights": [
+      "Budaörs",
+      "Csíki-hegyek",
+      "Odvas-hegy"
+    ],
+    "equipment": [],
+    "gpx": "gpx/budaors-csiki-hegyek-odvas-hegy.gpx",
+    "sourceUrl": "https://kirandulastippek.hu/budapest-kornyeke/budaors-csiki-hegyek-odvas-hegy",
+    "coverImage": "images/budaors-csiki-hegyek-odvas-hegy/cover.jpg",
+    "images": [
+      "images/budaors-csiki-hegyek-odvas-hegy/0.jpg",
+      "images/budaors-csiki-hegyek-odvas-hegy/1.jpg"
+    ]
+  },
+  {
+    "id": "csobankai-kortura-az-oszoly-csucsra",
+    "region": "budapest-kornyeke",
+    "type": "hike",
+    "title": "Csobánkai körtúra az Oszoly-csúcsra",
+    "subtitle": "Gyönyörű kilátóhegy Csobánka felett",
+    "difficulty": "Könnyű",
+    "stats": {
+      "distKm": 4.3,
+      "ascM": 183,
+      "descM": 180,
+      "elevMin": 204,
+      "elevMax": 342
+    },
+    "parking": {
+      "name": "Kiindulópont",
+      "note": ""
+    },
+    "description": "Az idilli fekvésű Csobánka felett magasodó, látványos sziklás hegyek, az Oszoly-csúcs és a Csúcs-hegy könnyen megmászható, népszerű turistacélpontok. Az Oszoly-csúcs vad, vakítóan fehér sziklatornyai a sziklamászók kedvenc gyakorlóhelyei, és a csúcsról feltáruló lenyűgöző panoráma mágnesként vonzza a mezei turistákat is. A könnyű kirándulást végig követik a tanösvény rendkívül informatív és szórakoztató, színvonalas tájékoztató táblái is.",
+    "route": null,
+    "character": null,
+    "highlights": [],
+    "equipment": [],
+    "gpx": "gpx/csobankai-kortura-az-oszoly-csucsra.gpx",
+    "sourceUrl": "https://kirandulastippek.hu/budapest-kornyeke/csobankai-kortura-az-oszoly-csucsra",
+    "coverImage": "images/csobankai-kortura-az-oszoly-csucsra/cover.jpg",
+    "images": [
+      "images/csobankai-kortura-az-oszoly-csucsra/0.jpg",
+      "images/csobankai-kortura-az-oszoly-csucsra/1.jpg"
+    ]
+  },
+  {
+    "id": "szigetszentmiklos-uszolap-tanosveny",
+    "region": "budapest-kornyeke",
+    "type": "hike",
+    "title": "Szigetszentmiklós Úszóláp tanösvény",
+    "subtitle": "Tanösvény az úszólápon",
+    "difficulty": "Könnyű",
+    "stats": {
+      "distKm": 1.3,
+      "ascM": 5,
+      "descM": 4,
+      "elevMin": 93,
+      "elevMax": 97
+    },
+    "parking": {
+      "name": "Kiindulópont",
+      "note": ""
+    },
+    "description": "E urópa második legnagyobb úszólápját találjuk Szigetszentmiklóson, a Ráckevei-Duna ágán, az egyedülálló természetvédelmi értéket testközelből tanulmányozhatjuk a rendkívül hangulatos tanösvényen.",
+    "route": null,
+    "character": null,
+    "highlights": [],
+    "equipment": [],
+    "gpx": "gpx/szigetszentmiklos-uszolap-tanosveny.gpx",
+    "sourceUrl": "https://kirandulastippek.hu/budapest-kornyeke/szigetszentmiklos-uszolap-tanosveny",
+    "coverImage": "images/szigetszentmiklos-uszolap-tanosveny/cover.jpg",
+    "images": [
+      "images/szigetszentmiklos-uszolap-tanosveny/0.jpg",
+      "images/szigetszentmiklos-uszolap-tanosveny/1.jpg"
+    ]
+  },
+  {
+    "id": "nagy-szenas-zsiros-hegy",
+    "region": "budapest-kornyeke",
+    "type": "hike",
+    "title": "Nagy-Szénás, Zsíros-hegy",
+    "subtitle": "A Budai-hegység legszebb kilátást nyújtó hegyei a Nagy-Szénás és az Alsó-Zsíros-hegy",
+    "difficulty": "Közepes-nehéz",
+    "stats": {
+      "distKm": 13.6,
+      "ascM": 429,
+      "descM": 431,
+      "elevMin": 187,
+      "elevMax": 525
+    },
+    "parking": {
+      "name": "Kiindulópont",
+      "note": ""
+    },
+    "description": "Pilisszentiván és Nagykovácsi között találjuk a Budai-hegység két méltán népszerű hegyét, az alpesi jellegű, fenyvessel borított, meredek, sziklás hegyoldalú Alsó-Zsíros-hegyet (424 m), és az Európa Diplomás, fokozottan védett, kopár és kerek kúpokból álló Nagy-Szénást (550 m).",
+    "route": null,
+    "character": null,
+    "highlights": [
+      "Nagy-Szénás",
+      "Zsíros-hegy"
+    ],
+    "equipment": [],
+    "gpx": "gpx/nagy-szenas-zsiros-hegy.gpx",
+    "sourceUrl": "https://kirandulastippek.hu/budapest-kornyeke/nagy-szenas-zsiros-hegy",
+    "coverImage": "images/nagy-szenas-zsiros-hegy/cover.jpg",
+    "images": [
+      "images/nagy-szenas-zsiros-hegy/0.jpg",
+      "images/nagy-szenas-zsiros-hegy/1.jpg"
+    ]
+  },
+  {
+    "id": "nagy-kevely",
+    "region": "budapest-kornyeke",
+    "type": "hike",
+    "title": "Nagy-Kevély",
+    "subtitle": "A Pilis legszebb hegycsúcsa",
+    "difficulty": "Közepes",
+    "stats": {
+      "distKm": 10.2,
+      "ascM": 438,
+      "descM": 441,
+      "elevMin": 218,
+      "elevMax": 520
+    },
+    "parking": {
+      "name": "Kiindulópont",
+      "note": "Pilisborosjenő, buszforduló, megközelítése autóbusszal Budapest, Árpád hídi buszállomástól óránként többszöri járatokkal, autóval legcélszerűbb a templom környékén parkolni."
+    },
+    "description": "A Pilis hegység déli őrszemének meghódítása, a Budai-hegységet átfogó, egyedülálló panorámával jutalmaz minket. Az elbűvölő Pilisborosjenőről kapaszkodunk fel a Kevélyek szubmediterrán világú csúcsaira, majd az „Egri vár” romjait érintve a Teve-szikla mellett érünk vissza a faluba.",
+    "route": null,
+    "character": "Rövid, de az elején meredek kaptatóval, jól jelzett, többnyire széles, kényelmes turistautakon, több, közepesen lejtős, sziklás szakaszon. Az Egri várhoz a kitérő jelzetlen úton. Vízvételi lehetőség nincs, csak a faluban, innivalót vigyünk magunkkal, célszerű egy kis méretű túrahátizsákba pakolni. A meredek részeken jó szolgálatot tehet egy pár profi túrabot, és a sziklás szakaszok leküzdése megfelelő talpú, bokát tartó túrabakancsban a legcélszerűbb.",
+    "highlights": [],
+    "equipment": [],
+    "gpx": "gpx/nagy-kevely.gpx",
+    "sourceUrl": "https://kirandulastippek.hu/budapest-kornyeke/nagy-kevely",
+    "coverImage": "images/nagy-kevely/cover.jpg",
+    "images": [
+      "images/nagy-kevely/0.jpg",
+      "images/nagy-kevely/1.jpg"
+    ]
+  },
+  {
+    "id": "fot",
+    "region": "budapest-kornyeke",
+    "type": "hike",
+    "title": "Fót",
+    "subtitle": "Az egyik legszebb magyar templom",
+    "difficulty": "Könnyű",
+    "stats": {
+      "distKm": 3.2,
+      "ascM": 85,
+      "descM": 93,
+      "elevMin": 192,
+      "elevMax": 283
+    },
+    "parking": {
+      "name": "Kiindulópont",
+      "note": "Fáy-présház, nagy parkolóval"
+    },
+    "description": "A Budapesttől északnyugatra, a Gödöllői-dombság peremén található 19 ezres lakosságú kisváros elsősorban gyönyörű, monumentális római katolikus templomáról ill. kastélyáról ismert. A város jelképe, Magyarország talán legszebb temploma, Ybl Miklós nagyszerű alkotása. 1854-re készült el gróf Károlyi István megbízásából a kis dombon álló, impozáns romantikus stílusú templom, amely a maga nemében egyedülálló az országban. Két oldalról lépcsősoron közelítjük meg a homlokzati bélletes főkaput, felette nyílik a hatalmas rózsaablak, a 45 m magas tornyok közötti részben pedig egy hatalmas Szűz Mária szobor helyezkedik el.",
+    "route": null,
+    "character": null,
+    "highlights": [],
+    "equipment": [],
+    "gpx": "gpx/fot.gpx",
+    "sourceUrl": "https://kirandulastippek.hu/budapest-kornyeke/fot",
+    "coverImage": "images/fot/cover.jpg",
+    "images": [
+      "images/fot/0.jpg",
+      "images/fot/1.jpg"
+    ]
+  }
+]

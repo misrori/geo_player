@@ -22,13 +22,15 @@ const parkingIconHtml = `
   <div style="background:#1b5e20;color:#fff;border-radius:50%;width:32px;height:32px;display:grid;place-items:center;font-weight:700;box-shadow:0 2px 6px rgba(0,0,0,0.3);">P</div>
 `
 
-export default function TrackMap({ trackPoints, userPos, heading, follow, onMapReady }) {
+export default function TrackMap({ trackPoints, userPos, heading, follow, onMapReady, onUserPan }) {
   const ref = useRef(null)
   const mapRef = useRef(null)
   const trackLayerRef = useRef(null)
   const userMarkerRef = useRef(null)
   const parkingMarkerRef = useRef(null)
   const arrowLayerRef = useRef(null)
+  const onUserPanRef = useRef(onUserPan)
+  onUserPanRef.current = onUserPan
 
   useEffect(() => {
     if (!ref.current || mapRef.current) return
@@ -43,6 +45,10 @@ export default function TrackMap({ trackPoints, userPos, heading, follow, onMapR
       maxZoom: 19,
       attribution: '© OpenStreetMap'
     }).addTo(map)
+
+    // Kézi húzásnál jelezzük, hogy a követést ki kell kapcsolni, különben a következő
+    // GPS-frissítés visszarántaná a térképet a pozícióra.
+    map.on('dragstart', () => onUserPanRef.current?.())
 
     mapRef.current = map
     if (onMapReady) onMapReady(map)

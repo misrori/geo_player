@@ -1,8 +1,21 @@
-// Túrák metaadatai (Szlovák Paradicsom, Budai-hegység).
+// Túrák metaadatai.
+// - kézzel szerkesztett túrák: lent, a képek a scripts/download-images.mjs-ből
+// - importált túrák: imported-tours.json (scripts/import-tours.mjs generálja)
 // A parkoló koordinátája és az útvonal statisztikái a GPX fájlból származnak.
-// A képek lokálisan, a public/images/<tour-id>/ alatt (lásd scripts/download-images.mjs).
 
 import images from './images.json';
+import imported from './imported-tours.json';
+
+export const regions = [
+  { id: 'budapest', name: 'Budapest' },
+  { id: 'budapest-kornyeke', name: 'Budapest környéke' },
+  { id: 'szlovak-paradicsom', name: 'Szlovák Paradicsom' }
+];
+
+export const tourTypes = [
+  { id: 'hike', name: 'Gyalogtúra', icon: '🥾' },
+  { id: 'bike', name: 'Kerékpártúra', icon: '🚲' }
+];
 
 const withImgs = (id, meta) => ({
   ...meta,
@@ -10,9 +23,11 @@ const withImgs = (id, meta) => ({
   images: images[id]?.images || []
 });
 
-export const tours = [
+const handcrafted = [
   withImgs('sucha-bela', {
     id: 'sucha-bela',
+    region: 'szlovak-paradicsom',
+    type: 'hike',
     title: 'Suchá Belá szurdok',
     subtitle: 'A Szlovák Paradicsom legnépszerűbb szurdoka',
     difficulty: 'Közepes',
@@ -30,6 +45,8 @@ export const tours = [
   }),
   withImgs('hernad-tamasfalvi-kolostor', {
     id: 'hernad-tamasfalvi-kolostor',
+    region: 'szlovak-paradicsom',
+    type: 'hike',
     title: 'Hernád-áttörés, Tamásfalvi-kilátó, Kolostor-szakadék',
     subtitle: 'A Szlovák Paradicsom legváltozatosabb körtúrája',
     difficulty: 'Nehéz',
@@ -47,6 +64,8 @@ export const tours = [
   }),
   withImgs('zejmar-geravy', {
     id: 'zejmar-geravy',
+    region: 'szlovak-paradicsom',
+    type: 'hike',
     title: 'Zejmár-szakadék, Geravy-fennsík',
     subtitle: 'A legrövidebb szurdok és egy alpesi fennsík',
     difficulty: 'Közepes',
@@ -64,6 +83,8 @@ export const tours = [
   }),
   withImgs('voroskolostor-klastorska', {
     id: 'voroskolostor-klastorska',
+    region: 'szlovak-paradicsom',
+    type: 'hike',
     title: 'Hernád-áttörés nyugati része, Kláštorská roklina',
     subtitle: 'Hernád-torok, függőhíd, Vöröskolostor-szakadék',
     difficulty: 'Nehéz',
@@ -81,6 +102,8 @@ export const tours = [
   }),
   withImgs('velky-kysel', {
     id: 'velky-kysel',
+    region: 'szlovak-paradicsom',
+    type: 'hike',
     title: 'Veľký Kyseľ szurdok',
     subtitle: 'Vad szurdoktúra Podlesokból',
     difficulty: 'Nehéz',
@@ -98,6 +121,8 @@ export const tours = [
   }),
   withImgs('piecky', {
     id: 'piecky',
+    region: 'szlovak-paradicsom',
+    type: 'hike',
     title: 'Piecky szurdok',
     subtitle: 'A legnagyobb függőleges létrával',
     difficulty: 'Közepes-nehéz',
@@ -115,6 +140,8 @@ export const tours = [
   }),
   withImgs('hhh-arpad-kilato', {
     id: 'hhh-arpad-kilato',
+    region: 'budapest',
+    type: 'hike',
     title: 'Árpád-kilátó, Hármashatár-hegy',
     subtitle: 'Könnyű körtúra a Budai-hegység legrégebbi turistaútjain',
     difficulty: 'Könnyű',
@@ -131,6 +158,8 @@ export const tours = [
     sourceUrl: 'https://kirandulastippek.hu/budapest/arpad-kilato-harmashatar-hegy'
   })
 ];
+
+export const tours = [...handcrafted, ...imported];
 
 export function getTourById(id) {
   return tours.find(t => t.id === id);

@@ -40,5 +40,12 @@
       "images/piecky/0.jpg",
       "images/piecky/1.jpg"
     ]
+  },
+  "hhh-arpad-kilato": {
+    "cover": "images/hhh-arpad-kilato/cover.jpg",
+    "images": [
+      "images/hhh-arpad-kilato/0.jpg",
+      "images/hhh-arpad-kilato/1.jpg"
+    ]
   }
 }

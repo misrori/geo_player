@@ -18,7 +18,8 @@ const tours = [
   { id: 'zejmar-geravy', slug: 'zejmar-szakadek-geravy-fennsik', limit: 30 },
   { id: 'voroskolostor-klastorska', slug: 'a-hernad-attores-nyugati-resze-voroskolostor-szakadek-szurdoka-klatorska-roklina', limit: 30 },
   { id: 'velky-kysel', slug: 'velky-kysel-szurdok', limit: 20 },
-  { id: 'piecky', slug: 'piecky-csendes-szurdok-a-szlovak-paradicsom-legnagyobb-fuggoleges-letrajaval', limit: 30 }
+  { id: 'piecky', slug: 'piecky-csendes-szurdok-a-szlovak-paradicsom-legnagyobb-fuggoleges-letrajaval', limit: 30 },
+  { id: 'hhh-arpad-kilato', section: 'budapest', slug: 'arpad-kilato-harmashatar-hegy', limit: 2 }
 ];
 
 function fetchText(url) {
@@ -63,7 +64,7 @@ function extractImages(html) {
 const manifest = {};
 
 for (const tour of tours) {
-  const pageUrl = `https://kirandulastippek.hu/szlovak-paradicsom-szepesseg/${tour.slug}`;
+  const pageUrl = `https://kirandulastippek.hu/${tour.section || 'szlovak-paradicsom-szepesseg'}/${tour.slug}`;
   console.log(`\n[${tour.id}] fetching ${pageUrl}`);
   const html = await fetchText(pageUrl);
   const { cover, gallery } = extractImages(html);

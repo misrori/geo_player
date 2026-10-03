@@ -1,4 +1,4 @@
-// Szlovák Paradicsom túrák metaadatai.
+// Túrák metaadatai (Szlovák Paradicsom, Budai-hegység).
 // A parkoló koordinátája és az útvonal statisztikái a GPX fájlból származnak.
 // A képek lokálisan, a public/images/<tour-id>/ alatt (lásd scripts/download-images.mjs).
 
@@ -112,6 +112,23 @@ export const tours = [
     equipment: ['Bakancs kötelező', 'Túrabot', 'Víz 2 l'],
     gpx: 'gpx/piecky.gpx',
     sourceUrl: 'https://kirandulastippek.hu/szlovak-paradicsom-szepesseg/piecky-csendes-szurdok-a-szlovak-paradicsom-legnagyobb-fuggoleges-letrajaval'
+  }),
+  withImgs('hhh-arpad-kilato', {
+    id: 'hhh-arpad-kilato',
+    title: 'Árpád-kilátó, Hármashatár-hegy',
+    subtitle: 'Könnyű körtúra a Budai-hegység legrégebbi turistaútjain',
+    difficulty: 'Könnyű',
+    stats: { distKm: 10.7, ascM: 358, descM: 361, elevMin: 292, elevMax: 433 },
+    parking: {
+      name: 'Fenyőgyöngye étterem előtti parkoló',
+      feeEur: 0,
+      note: 'Ingyenes parkoló a Szépvölgyi úton. Busszal: 65-ös busz végállomása (Kolosy térről).'
+    },
+    description: 'Panorámában gazdag kirándulás a Szép-völgyből a Látó-hegyre, a székely stílusú Árpád-kilátóhoz, majd a Glück Frigyes úton a Határnyeregbe. Egy rövid, igen meredek kaptató után fel az Újlaki-hegy kopár csúcsára, végül a Guckler Károly úton (Lent és Fent tanösvény) vissza a Fenyőgyöngyéhez. Könnyített változat: a Határnyeregből a sárga gyöngyök jelzésen kikerülhető az Újlaki-hegy.',
+    highlights: ['Árpád-kilátó (Látó-hegy, 1929)', 'Oroszlán-szikla', 'Homok-hegy kilátás (kitérő)', 'Újlaki-hegy (448 m) panoráma', 'Guckler Károly út – Lent és Fent tanösvény'],
+    equipment: ['Kényelmes túracipő', 'Túrabot a meredek szakaszra', 'Víz (forráshiányos terület)'],
+    gpx: 'gpx/hhh-arpad-kilato.gpx',
+    sourceUrl: 'https://kirandulastippek.hu/budapest/arpad-kilato-harmashatar-hegy'
   })
 ];
 

@@ -16,6 +16,10 @@ export default function TourPlayer({ custom = false }) {
   const [heading, setHeading] = useState(0)
   const [permissionError, setPermissionError] = useState(null)
   const [follow, setFollow] = useState(true)
+  // headingUp: a térkép a menetirány szerint forog; egyébként szabadon forgatható két ujjal
+  const [headingUp, setHeadingUp] = useState(false)
+  const [mapBearing, setMapBearing] = useState(0)
+  const mapRef = useRef(null)
   const [showElev, setShowElev] = useState(false)
   const [wakeLock, setWakeLock] = useState(false)
   const wakeLockRef = useRef(null)
@@ -137,7 +141,11 @@ export default function TourPlayer({ custom = false }) {
         userPos={userPos}
         heading={heading}
         follow={follow}
+        rotation={headingUp ? -heading : null}
+        onMapReady={map => { mapRef.current = map }}
         onUserPan={() => setFollow(false)}
+        onUserRotate={() => setHeadingUp(false)}
+        onBearingChange={setMapBearing}
       />
 
       <div className="hud">
@@ -167,6 +175,25 @@ export default function TourPlayer({ custom = false }) {
           title={follow ? 'Követés ki' : 'Követés be'}
         >
           {follow ? '⊙' : '◎'}
+        </button>
+        <button
+          className={`fab ${headingUp ? 'active' : ''}`}
+          onClick={() => {
+            if (headingUp) {
+              setHeadingUp(false)
+              mapRef.current?.setBearing(0)
+            } else {
+              setHeadingUp(true)
+            }
+          }}
+          title={headingUp ? 'Észak fent' : 'Menetirány fent'}
+          aria-label={headingUp ? 'Észak fent' : 'Menetirány fent'}
+        >
+          {/* iránytű: a piros vég mindig északra mutat */}
+          <svg width="26" height="26" viewBox="0 0 26 26" style={{ transform: `rotate(${mapBearing}deg)` }}>
+            <polygon points="13,2 17,13 9,13" fill="#d32f2f" />
+            <polygon points="13,24 17,13 9,13" fill="currentColor" />
+          </svg>
         </button>
         <button
           className={`fab ${showElev ? 'active' : ''}`}

@@ -46,6 +46,10 @@ export default function TourDetail() {
   const parkingLat = gpx?.points[0]?.lat
   const parkingLon = gpx?.points[0]?.lon
 
+  // A forráslink doménje (pl. "kirandulastippek.hu" / "turaprogramok.hu")
+  let sourceHost = 'a forrásoldal'
+  try { sourceHost = new URL(tour.sourceUrl).hostname.replace(/^www\./, '') } catch { /* hibás URL */ }
+
   const openGoogleMaps = () => {
     if (parkingLat == null) return
     const url = `https://www.google.com/maps/dir/?api=1&destination=${parkingLat},${parkingLon}&travelmode=driving`
@@ -60,7 +64,10 @@ export default function TourDetail() {
       </header>
 
       <div className="detail__hero">
-        <img src={tour.coverImage} alt={tour.title} />
+        {tour.coverImage
+          ? <img src={tour.coverImage} alt={tour.title} />
+          : <div className="detail__hero__placeholder">🏔️</div>}
+        {tour.viaFerrata && <span className="hero-badge">🧗 Via ferrata</span>}
         <div className="detail__hero__title">
           <h1>{tour.title}</h1>
           <p>{tour.subtitle}</p>
@@ -157,7 +164,7 @@ export default function TourDetail() {
         target="_blank"
         rel="noopener noreferrer"
       >
-        📷 További képek és teljes leírás a kirandulastippek.hu-n →
+        📷 További képek és teljes leírás a {sourceHost}-n →
       </a>
 
       <div className="cta-dock">

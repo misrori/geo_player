@@ -5,11 +5,13 @@
 
 import images from './images.json';
 import imported from './imported-tours.json';
+import turaprogramok from './turaprogramok-tours.json';
 
 export const regions = [
   { id: 'budapest', name: 'Budapest' },
   { id: 'budapest-kornyeke', name: 'Budapest környéke' },
-  { id: 'szlovak-paradicsom', name: 'Szlovák Paradicsom' }
+  { id: 'szlovak-paradicsom', name: 'Szlovák Paradicsom' },
+  { id: 'turaprogramok-szlovakia', name: 'Túraprogramok Szlovákia' }
 ];
 
 export const tourTypes = [
@@ -159,7 +161,7 @@ const handcrafted = [
   })
 ];
 
-export const tours = [...handcrafted, ...imported];
+export const tours = [...handcrafted, ...imported, ...turaprogramok];
 
 export function getTourById(id) {
   return tours.find(t => t.id === id);

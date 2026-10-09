@@ -106,11 +106,14 @@ export default function Home() {
       <div className="list">
         {visible.map(t => (
           <Link key={t.id} to={`/tour/${t.id}`} className="card">
-            <img src={t.coverImage} alt={t.title} className="card__img" loading="lazy" />
+            {t.coverImage
+              ? <img src={t.coverImage} alt={t.title} className="card__img" loading="lazy" />
+              : <div className="card__img card__img--empty">🏔️</div>}
             <div className="card__body">
               <div className="card__title">{t.title}</div>
               <div className="card__subtitle">{t.subtitle}</div>
               <div className="card__meta">
+                {t.viaFerrata && <span className="chip chip--ferrata">🧗 Via ferrata</span>}
                 {t.type === 'bike' && <span className="chip chip--bike">🚲 Kerékpár</span>}
                 <span className={`chip ${t.difficulty === 'Nehéz' ? 'chip--hard' : t.difficulty.includes('nehéz') ? 'chip--warn' : ''}`}>
                   {t.difficulty}

@@ -1,0 +1,831 @@
+[
+  {
+    "id": "tp-alacsony-tatra-gerinctura-teli",
+    "region": "turaprogramok-szlovakia",
+    "type": "hike",
+    "viaFerrata": false,
+    "title": "Alacsony-Tátra gerinctúra téli",
+    "subtitle": "🇸🇰 Alacsony-Tátra",
+    "difficulty": "Közepes-nehéz",
+    "stats": {
+      "distKm": 10.3,
+      "ascM": 191,
+      "descM": 1101,
+      "elevMin": 1075,
+      "elevMax": 2000
+    },
+    "parking": {
+      "name": "Kiindulópont",
+      "note": "Tájegység: Alacsony-Tátra"
+    },
+    "description": "Az Alacsony-Tátra téli gerinctúrája a Jasná felvonóval elért 2000 méterről indul, a csúcsok helyett a Štefánik házat érintő havas főgerinc végtelen panorámájával. 10,3 km-es táv, hótalp és bot kell a mély hóba, az 1088 m süllyedést pedig gyalogosan küzdjük le",
+    "route": null,
+    "character": null,
+    "highlights": [],
+    "equipment": [],
+    "gpx": "gpx/tp-alacsony-tatra-gerinctura-teli.gpx",
+    "sourceUrl": "https://turaprogramok.hu/tura/alacsony-tatra-gerinctura-teli/",
+    "coverImage": "images/tp-alacsony-tatra-gerinctura-teli/cover.jpg",
+    "images": [
+      "images/tp-alacsony-tatra-gerinctura-teli/0.jpg",
+      "images/tp-alacsony-tatra-gerinctura-teli/1.jpg"
+    ]
+  },
+  {
+    "id": "tp-chleb",
+    "region": "turaprogramok-szlovakia",
+    "type": "hike",
+    "viaFerrata": false,
+    "title": "Chleb-csúcstúra a Vrátna-völgyből",
+    "subtitle": "🇸🇰 Kis-Fátra",
+    "difficulty": "Nehéz",
+    "stats": {
+      "distKm": 8.7,
+      "ascM": 1012,
+      "descM": 246,
+      "elevMin": 730,
+      "elevMax": 1640
+    },
+    "parking": {
+      "name": "Kiindulópont",
+      "note": "Tájegység: Kis-Fátra"
+    },
+    "description": "A Chleb (1646 m) a Malá Fatra koronája! A Vrátna-völgyből gyalog kapaszkodsz fel a főgerincre, visszaúton pedig 8 fős kabinos felvonó hoz le a Snilovské sedlo állomásig. A csúcsról körpanoráma nyílik a Kis-Fátra gerincére és a Tátra távoli vonulataira",
+    "route": null,
+    "character": null,
+    "highlights": [],
+    "equipment": [],
+    "gpx": "gpx/tp-chleb.gpx",
+    "sourceUrl": "https://turaprogramok.hu/tura/chleb/",
+    "coverImage": "images/tp-chleb/cover.jpg",
+    "images": [
+      "images/tp-chleb/0.jpg",
+      "images/tp-chleb/1.jpg"
+    ]
+  },
+  {
+    "id": "tp-diery-szurdok",
+    "region": "turaprogramok-szlovakia",
+    "type": "hike",
+    "viaFerrata": false,
+    "title": "Diery-szurdok",
+    "subtitle": "létrás szurdoktúra vízesések között a Kis-Fátrában",
+    "difficulty": "Könnyű",
+    "stats": {
+      "distKm": 6.9,
+      "ascM": 456,
+      "descM": 456,
+      "elevMin": 572,
+      "elevMax": 918
+    },
+    "parking": {
+      "name": "Kiindulópont",
+      "note": "Tájegység: Kis-Fátra"
+    },
+    "description": "A Diery-szurdokban egymást követik a szűk sziklafalak közé zárt patakvölgyek, vízesések, fahidak, fémlétrák és láncos szakaszok. A Dolné, Nové és Horné Diery egyetlen körútba fűzhető, így rövid távon is sokféle terepet járhatsz végig a Kis-Fátrában.",
+    "route": null,
+    "character": null,
+    "highlights": [],
+    "equipment": [],
+    "gpx": "gpx/tp-diery-szurdok.gpx",
+    "sourceUrl": "https://turaprogramok.hu/tura/diery-szurdok/",
+    "coverImage": "images/tp-diery-szurdok/cover.jpg",
+    "images": [
+      "images/tp-diery-szurdok/0.jpg",
+      "images/tp-diery-szurdok/1.jpg"
+    ]
+  },
+  {
+    "id": "tp-dve-veze-via-ferrata",
+    "region": "turaprogramok-szlovakia",
+    "type": "hike",
+    "viaFerrata": true,
+    "title": "Dve veže",
+    "subtitle": "Via ferrata",
+    "difficulty": "Könnyű",
+    "stats": {
+      "distKm": 1.7,
+      "ascM": 213,
+      "descM": 213,
+      "elevMin": 646,
+      "elevMax": 790
+    },
+    "parking": {
+      "name": "Kiindulópont",
+      "note": "Tájegység: Nagy-Fátra"
+    },
+    "description": "A Dve Veže via ferrata három mészkőtoronyra vezet a szlovákiai Liptóban. A kilenc, B–C/D nehézségű pályán meredek sziklafalak, technikás átkelések és a tornyokat összekötő kötélhidak váltják egymást. A 20–70 méteres mászások rövidek, de intenzívek és látványosak .",
+    "route": null,
+    "character": null,
+    "highlights": [],
+    "equipment": [],
+    "gpx": "gpx/tp-dve-veze-via-ferrata.gpx",
+    "sourceUrl": "https://turaprogramok.hu/tura/dve-veze-via-ferrata/",
+    "coverImage": "images/tp-dve-veze-via-ferrata/cover.jpg",
+    "images": [
+      "images/tp-dve-veze-via-ferrata/0.jpg",
+      "images/tp-dve-veze-via-ferrata/1.jpg"
+    ]
+  },
+  {
+    "id": "tp-elulso-szoliszko-predne-solisko-csucstura",
+    "region": "turaprogramok-szlovakia",
+    "type": "hike",
+    "viaFerrata": false,
+    "title": "Elülső-Szoliszkó (Predné Solisko)",
+    "subtitle": "csúcstúra",
+    "difficulty": "Könnyű",
+    "stats": {
+      "distKm": 1.8,
+      "ascM": 295,
+      "descM": 295,
+      "elevMin": 1820,
+      "elevMax": 2109
+    },
+    "parking": {
+      "name": "Kiindulópont",
+      "note": "Tájegység: Magas-Tátra"
+    },
+    "description": "Az Elülső-Szoliszkó csúcstúra a Solisko Express felső állomásától indul, majd köves, egyre meredekebb ösvényen kapaszkodik fel 2109 méterre. A rövid útért cserébe magashegyi hangulat és széles kilátás jár a Csorba-tóra és a Magas-Tátra csúcsaira körben.",
+    "route": null,
+    "character": null,
+    "highlights": [],
+    "equipment": [],
+    "gpx": "gpx/tp-elulso-szoliszko-predne-solisko-csucstura.gpx",
+    "sourceUrl": "https://turaprogramok.hu/tura/elulso-szoliszko-predne-solisko-csucstura/",
+    "coverImage": "images/tp-elulso-szoliszko-predne-solisko-csucstura/cover.jpg",
+    "images": [
+      "images/tp-elulso-szoliszko-predne-solisko-csucstura/0.jpg",
+      "images/tp-elulso-szoliszko-predne-solisko-csucstura/1.jpg"
+    ]
+  },
+  {
+    "id": "tp-ferrata-hzs-martin-b-via-ferrata",
+    "region": "turaprogramok-szlovakia",
+    "type": "hike",
+    "viaFerrata": true,
+    "title": "Ferrata HZS Martin B",
+    "subtitle": "Via Ferrata",
+    "difficulty": "Könnyű",
+    "stats": {
+      "distKm": 10,
+      "ascM": 803,
+      "descM": 802,
+      "elevMin": 506,
+      "elevMax": 1288
+    },
+    "parking": {
+      "name": "Kiindulópont",
+      "note": "Tájegység: Kis-Fátra"
+    },
+    "description": "A Ferrata HZS Martinské hole a Kis-Fátra egyik izgalmas vasalt útja Sziklás, szurdokos terepen halad, a drótköteles szakaszokhoz teljes felszerelés szükséges, a B besorolás ellenére nem kezdőknek való, fél napos fárasztó túra+ferrata, ősz végét ajánlom",
+    "route": null,
+    "character": null,
+    "highlights": [],
+    "equipment": [],
+    "gpx": "gpx/tp-ferrata-hzs-martin-b-via-ferrata.gpx",
+    "sourceUrl": "https://turaprogramok.hu/tura/ferrata-hzs-martin-b-via-ferrata/",
+    "coverImage": "images/tp-ferrata-hzs-martin-b-via-ferrata/cover.jpg",
+    "images": [
+      "images/tp-ferrata-hzs-martin-b-via-ferrata/0.jpg",
+      "images/tp-ferrata-hzs-martin-b-via-ferrata/1.jpg"
+    ]
+  },
+  {
+    "id": "tp-hzs-c-via-ferrata",
+    "region": "turaprogramok-szlovakia",
+    "type": "hike",
+    "viaFerrata": true,
+    "title": "Ferrata HZS Martin C",
+    "subtitle": "Via Ferrata",
+    "difficulty": "Közepes-nehéz",
+    "stats": {
+      "distKm": 10,
+      "ascM": 829,
+      "descM": 828,
+      "elevMin": 505,
+      "elevMax": 1285
+    },
+    "parking": {
+      "name": "Kiindulópont",
+      "note": "Tájegység: Kis-Fátra"
+    },
+    "description": "A Ferrata HZS Martinské hole a Kis-Fátra egyik legizgalmasabb vasalt útja Változatos sziklás és szurdokos terepen halad, a C nehézségű szakasz miatt gyakorlottabb via ferratásoknak ajánlott, kiváló választás egy fél napos, technikás alpesi kalandhoz .",
+    "route": null,
+    "character": null,
+    "highlights": [],
+    "equipment": [],
+    "gpx": "gpx/tp-hzs-c-via-ferrata.gpx",
+    "sourceUrl": "https://turaprogramok.hu/tura/hzs-c-via-ferrata/",
+    "coverImage": "images/tp-hzs-c-via-ferrata/cover.jpg",
+    "images": [
+      "images/tp-hzs-c-via-ferrata/0.jpg",
+      "images/tp-hzs-c-via-ferrata/1.jpg"
+    ]
+  },
+  {
+    "id": "tp-hernad-attores",
+    "region": "turaprogramok-szlovakia",
+    "type": "hike",
+    "viaFerrata": false,
+    "title": "Hernád-áttörés",
+    "subtitle": "szurdoktúra a Szlovák Paradicsomban",
+    "difficulty": "Nehéz",
+    "stats": {
+      "distKm": 12.4,
+      "ascM": 269,
+      "descM": 269,
+      "elevMin": 516,
+      "elevMax": 650
+    },
+    "parking": {
+      "name": "Kiindulópont",
+      "note": "Tájegység: Szlovák Paradicsom"
+    },
+    "description": "A Hernád-áttörés (Prielom Hornádu), a Szlovák Paradicsom 12 km-es szurdoktúrája, ami Podlesoktól indul. A láncokkal, függőhidakkal és fémtálcákkal felszerelt ösvény a 150 méter mély kanyonban vezet. A folyómeder feletti haladás lépésbiztonságot igényel",
+    "route": null,
+    "character": null,
+    "highlights": [],
+    "equipment": [],
+    "gpx": "gpx/tp-hernad-attores.gpx",
+    "sourceUrl": "https://turaprogramok.hu/tura/hernad-attores/",
+    "coverImage": "images/tp-hernad-attores/cover.jpg",
+    "images": [
+      "images/tp-hernad-attores/0.jpg",
+      "images/tp-hernad-attores/1.jpg"
+    ]
+  },
+  {
+    "id": "tp-hradova-sziklagerinc",
+    "region": "turaprogramok-szlovakia",
+    "type": "hike",
+    "viaFerrata": false,
+    "title": "Hradová-sziklagerinc",
+    "subtitle": "látványos gerinctúra a Murányi-fennsíknál",
+    "difficulty": "Közepes-nehéz",
+    "stats": {
+      "distKm": 8,
+      "ascM": 482,
+      "descM": 482,
+      "elevMin": 409,
+      "elevMax": 880
+    },
+    "parking": {
+      "name": "Kiindulópont",
+      "note": "Tájegység: Murányi-fennsík"
+    },
+    "description": "A Hradová sziklagerincen egymást követik a hatalmas sziklatömbök, keskeny átjárók és kitett átkelések. Az út több helyen közvetlenül a meredek letörések mellett vezet, így minden méter izgalmas, a mélység látványa pedig végig fokozza az élményt és a feszültséget .",
+    "route": null,
+    "character": null,
+    "highlights": [],
+    "equipment": [],
+    "gpx": "gpx/tp-hradova-sziklagerinc.gpx",
+    "sourceUrl": "https://turaprogramok.hu/tura/hradova-sziklagerinc/",
+    "coverImage": "images/tp-hradova-sziklagerinc/cover.jpg",
+    "images": [
+      "images/tp-hradova-sziklagerinc/0.jpg",
+      "images/tp-hradova-sziklagerinc/1.jpg"
+    ]
+  },
+  {
+    "id": "tp-hrebienok",
+    "region": "turaprogramok-szlovakia",
+    "type": "hike",
+    "viaFerrata": false,
+    "title": "Hrebienok",
+    "subtitle": "Tarpataki-vízesések és Zamkovského chata",
+    "difficulty": "Könnyű",
+    "stats": {
+      "distKm": 10.5,
+      "ascM": 473,
+      "descM": 733,
+      "elevMin": 1019,
+      "elevMax": 1464
+    },
+    "parking": {
+      "name": "Kiindulópont",
+      "note": "Tájegység: Magas-Tátra"
+    },
+    "description": "A Hrebienok túra siklóval indul, majd gyalog ereszkedik le a Tarpataki-vízeséseken át. Útközben érintjük a Zamkovského menedékházat is, ahol meg lehet pihenni, enni, inni. Könnyű, de hosszabb túra, 10,5 km és kb. 3 óra 50 perc alatt teljesíthető.",
+    "route": null,
+    "character": null,
+    "highlights": [],
+    "equipment": [],
+    "gpx": "gpx/tp-hrebienok.gpx",
+    "sourceUrl": "https://turaprogramok.hu/tura/hrebienok/",
+    "coverImage": "images/tp-hrebienok/cover.jpg",
+    "images": [
+      "images/tp-hrebienok/0.jpg",
+      "images/tp-hrebienok/1.jpg"
+    ]
+  },
+  {
+    "id": "tp-kocs-havas-csucstura",
+    "region": "turaprogramok-szlovakia",
+    "type": "hike",
+    "viaFerrata": false,
+    "title": "Kócs-havas csúcstúra",
+    "subtitle": "🇸🇰 Kócs-hegység",
+    "difficulty": "Nehéz",
+    "stats": {
+      "distKm": 9.8,
+      "ascM": 970,
+      "descM": 971,
+      "elevMin": 645,
+      "elevMax": 1610
+    },
+    "parking": {
+      "name": "Kiindulópont",
+      "note": "Tájegység: Kócs-hegység"
+    },
+    "description": "A 9,8 km-es, 970 m szintemelkedésű körtúra a Kócs-hegység legmagasabb pontjára, az 1611 m magas Kócs-havasra vezet a szlovákiai Liptóban. Technikai nehézség nincs, csak folyamatos, helyenként meredek emelkedő. A csúcsról körpanoráma látszik a Tátrától a Fátrákig .",
+    "route": null,
+    "character": null,
+    "highlights": [],
+    "equipment": [],
+    "gpx": "gpx/tp-kocs-havas-csucstura.gpx",
+    "sourceUrl": "https://turaprogramok.hu/tura/kocs-havas-csucstura/",
+    "coverImage": "images/tp-kocs-havas-csucstura/cover.jpg",
+    "images": [
+      "images/tp-kocs-havas-csucstura/0.jpg",
+      "images/tp-kocs-havas-csucstura/1.jpg"
+    ]
+  },
+  {
+    "id": "tp-kocs-hegyseg-harom-volgye-proszeki-es-kvacsanyi-szurdok-kortura",
+    "region": "turaprogramok-szlovakia",
+    "type": "hike",
+    "viaFerrata": false,
+    "title": "Kócs-hegység három völgye",
+    "subtitle": "Prószéki- és Kvacsányi-szurdok körtúra",
+    "difficulty": "Közepes-nehéz",
+    "stats": {
+      "distKm": 16.4,
+      "ascM": 606,
+      "descM": 606,
+      "elevMin": 616,
+      "elevMax": 940
+    },
+    "parking": {
+      "name": "Kiindulópont",
+      "note": "Tájegység: Kócs-hegység"
+    },
+    "description": "A Kócs-hegység három völgyét bejáró körtúra a szlovákiai Liptóban a Prószéki-szurdokon, Veľké Borovén, a Ráztocký-vízesésen, az Oblazy vízimalmain és a Kvacsányi-szurdokon vezet át. Létrák, láncos szakaszok, sziklafalak és vadregényű patakvölgyek váltják egymást .",
+    "route": null,
+    "character": null,
+    "highlights": [],
+    "equipment": [],
+    "gpx": "gpx/tp-kocs-hegyseg-harom-volgye-proszeki-es-kvacsanyi-szurdok-kortura.gpx",
+    "sourceUrl": "https://turaprogramok.hu/tura/kocs-hegyseg-harom-volgye-proszeki-es-kvacsanyi-szurdok-kortura/",
+    "coverImage": "images/tp-kocs-hegyseg-harom-volgye-proszeki-es-kvacsanyi-szurdok-kortura/cover.jpg",
+    "images": [
+      "images/tp-kocs-hegyseg-harom-volgye-proszeki-es-kvacsanyi-szurdok-kortura/0.jpg",
+      "images/tp-kocs-hegyseg-harom-volgye-proszeki-es-kvacsanyi-szurdok-kortura/1.jpg"
+    ]
+  },
+  {
+    "id": "tp-kysel-via-ferrata",
+    "region": "turaprogramok-szlovakia",
+    "type": "hike",
+    "viaFerrata": true,
+    "title": "Kyseľ",
+    "subtitle": "Via ferrata",
+    "difficulty": "Közepes-nehéz",
+    "stats": {
+      "distKm": 16.9,
+      "ascM": 1119,
+      "descM": 1119,
+      "elevMin": 519,
+      "elevMax": 952
+    },
+    "parking": {
+      "name": "Kiindulópont",
+      "note": "Tájegység: Szlovák Paradicsom"
+    },
+    "description": "A Kysel Ferrata egy könnyű, A/B nehézségű via ferrata a Szlovák Paradicsomban , ahol gyerekeknek ajánlott a felszerelés. A teljes túra viszont hosszú és nehéz: 17 km, 750 m szint, 7–8 óra, vízesésekkel, létrákkal és szurdokokkal tarkítva. Kihagyhatatlan kaland!",
+    "route": null,
+    "character": null,
+    "highlights": [],
+    "equipment": [],
+    "gpx": "gpx/tp-kysel-via-ferrata.gpx",
+    "sourceUrl": "https://turaprogramok.hu/tura/kysel-via-ferrata/",
+    "coverImage": "images/tp-kysel-via-ferrata/cover.jpg",
+    "images": [
+      "images/tp-kysel-via-ferrata/0.jpg",
+      "images/tp-kysel-via-ferrata/1.jpg"
+    ]
+  },
+  {
+    "id": "tp-nagy-morgas-zold-tavi-menedekhaz",
+    "region": "turaprogramok-szlovakia",
+    "type": "hike",
+    "viaFerrata": false,
+    "title": "Nagy-Morgás",
+    "subtitle": "Zöld-tavi menedékház",
+    "difficulty": "Nehéz",
+    "stats": {
+      "distKm": 16.3,
+      "ascM": 1170,
+      "descM": 316,
+      "elevMin": 882,
+      "elevMax": 2010
+    },
+    "parking": {
+      "name": "Kiindulópont",
+      "note": "Tájegység: Magas-Tátra"
+    },
+    "description": "A túra a Fehér-víz parkolótól vezet a Zöld-tavi menedékházhoz, majd a Késmárki-csúcs sziklafalai alatt kapaszkodik fel a Nagy-Morgás-hágóba. Meredek, törmelékes ösvény és láncos szakasz után a Kő-pataki-tóhoz érkezünk, ahonnan felvonóval ereszkedhetünk vissza.",
+    "route": null,
+    "character": null,
+    "highlights": [],
+    "equipment": [],
+    "gpx": "gpx/tp-nagy-morgas-zold-tavi-menedekhaz.gpx",
+    "sourceUrl": "https://turaprogramok.hu/tura/nagy-morgas-zold-tavi-menedekhaz/",
+    "coverImage": "images/tp-nagy-morgas-zold-tavi-menedekhaz/cover.jpg",
+    "images": [
+      "images/tp-nagy-morgas-zold-tavi-menedekhaz/0.jpg",
+      "images/tp-nagy-morgas-zold-tavi-menedekhaz/1.jpg"
+    ]
+  },
+  {
+    "id": "tp-ordog-szakadek-certova-roklina",
+    "region": "turaprogramok-szlovakia",
+    "type": "hike",
+    "viaFerrata": false,
+    "title": "Ördög-szakadék",
+    "subtitle": "Čertova roklina",
+    "difficulty": "Könnyű",
+    "stats": {
+      "distKm": 4.4,
+      "ascM": 193,
+      "descM": 193,
+      "elevMin": 620,
+      "elevMax": 774
+    },
+    "parking": {
+      "name": "Kiindulópont",
+      "note": "Tájegység: Murányi-fennsík"
+    },
+    "description": "Az Ördög-szakadékban fémlépések, acélsodronyok, keskeny sziklaátjárók és egy látványos acélhíd segíti a haladást. Az út közvetlenül a patakmederben, meredek sziklafalak között vezet, így minden átkelés izgalmas, a víz közelsége pedig végig fokozza az élményt .",
+    "route": null,
+    "character": null,
+    "highlights": [],
+    "equipment": [],
+    "gpx": "gpx/tp-ordog-szakadek-certova-roklina.gpx",
+    "sourceUrl": "https://turaprogramok.hu/tura/ordog-szakadek-certova-roklina/",
+    "coverImage": "images/tp-ordog-szakadek-certova-roklina/cover.jpg",
+    "images": [
+      "images/tp-ordog-szakadek-certova-roklina/0.jpg",
+      "images/tp-ordog-szakadek-certova-roklina/1.jpg"
+    ]
+  },
+  {
+    "id": "tp-piecky-szurdok",
+    "region": "turaprogramok-szlovakia",
+    "type": "hike",
+    "viaFerrata": false,
+    "title": "Piecky-szurdok",
+    "subtitle": "a Szlovák Paradicsom leghosszabb létrájával",
+    "difficulty": "Közepes-nehéz",
+    "stats": {
+      "distKm": 11.2,
+      "ascM": 570,
+      "descM": 569,
+      "elevMin": 588,
+      "elevMax": 996
+    },
+    "parking": {
+      "name": "Kiindulópont",
+      "note": "Tájegység: Szlovák Paradicsom"
+    },
+    "description": "A Piecky-szurdok a Szlovák Paradicsom egyik látványos, kevésbé ismert szurdoka A Biela voda patak mentén vezet, kiépített lépcsők, falétrák és egy 13 méteres magas létra segíti a haladást. Közepes nehézségű, 11,2 km-es túra, kb. 4 óra alatt járható .",
+    "route": null,
+    "character": null,
+    "highlights": [],
+    "equipment": [],
+    "gpx": "gpx/tp-piecky-szurdok.gpx",
+    "sourceUrl": "https://turaprogramok.hu/tura/piecky-szurdok/",
+    "coverImage": "images/tp-piecky-szurdok/cover.jpg",
+    "images": [
+      "images/tp-piecky-szurdok/0.jpg",
+      "images/tp-piecky-szurdok/1.jpg"
+    ]
+  },
+  {
+    "id": "tp-popradi-to",
+    "region": "turaprogramok-szlovakia",
+    "type": "hike",
+    "viaFerrata": false,
+    "title": "Poprádi-tó körtúra a Magas-Tátrában",
+    "subtitle": "🇸🇰 Magas-Tátra",
+    "difficulty": "Könnyű",
+    "stats": {
+      "distKm": 9.6,
+      "ascM": 404,
+      "descM": 404,
+      "elevMin": 1351,
+      "elevMax": 1540
+    },
+    "parking": {
+      "name": "Kiindulópont",
+      "note": "Tájegység: Magas-Tátra"
+    },
+    "description": "A Poprádi-tó a Magas-Tátra egyik legszebb alpesi tava, amely kényelmes erdei ösvényeken és a Tatranská magistrála szakaszán közelíthető meg, miközben fenyvesek és sziklás csúcsok panorámája kíséri az utat. A tó mellett éttermek várják a túrázókat.",
+    "route": null,
+    "character": null,
+    "highlights": [],
+    "equipment": [],
+    "gpx": "gpx/tp-popradi-to.gpx",
+    "sourceUrl": "https://turaprogramok.hu/tura/popradi-to/",
+    "coverImage": "images/tp-popradi-to/cover.jpg",
+    "images": [
+      "images/tp-popradi-to/0.jpg",
+      "images/tp-popradi-to/1.jpg"
+    ]
+  },
+  {
+    "id": "tp-skalka-komin-via-ferrata",
+    "region": "turaprogramok-szlovakia",
+    "type": "hike",
+    "viaFerrata": true,
+    "title": "Skalka",
+    "subtitle": "Komín - Via ferrata",
+    "difficulty": "Közepes-nehéz",
+    "stats": {
+      "distKm": 2.4,
+      "ascM": 311,
+      "descM": 311,
+      "elevMin": 1108,
+      "elevMax": 1220
+    },
+    "parking": {
+      "name": "Kiindulópont",
+      "note": "Tájegység: Kis-Fátra"
+    },
+    "description": "A Skalka Komín fala két látványos ferrata-útvonalat kínál: a középhaladóknak szánt C pályát és a meredekebb, technikásabb D szakaszt. A két út között húzódik a híres, 78 méter hosszú kötélhíd, amely a teljes élmény csúcspontja.",
+    "route": null,
+    "character": null,
+    "highlights": [],
+    "equipment": [],
+    "gpx": "gpx/tp-skalka-komin-via-ferrata.gpx",
+    "sourceUrl": "https://turaprogramok.hu/tura/skalka-komin-via-ferrata/",
+    "coverImage": "images/tp-skalka-komin-via-ferrata/cover.jpg",
+    "images": [
+      "images/tp-skalka-komin-via-ferrata/0.jpg",
+      "images/tp-skalka-komin-via-ferrata/1.jpg"
+    ]
+  },
+  {
+    "id": "tp-sokolia-dolina-solyom-volgy-szurdok",
+    "region": "turaprogramok-szlovakia",
+    "type": "hike",
+    "viaFerrata": false,
+    "title": "Sokolia dolina (Sólyom-völgy) szurdok",
+    "subtitle": "🇸🇰 Szlovák Paradicsom",
+    "difficulty": "Nehéz",
+    "stats": {
+      "distKm": 18.3,
+      "ascM": 790,
+      "descM": 790,
+      "elevMin": 521,
+      "elevMax": 1009
+    },
+    "parking": {
+      "name": "Kiindulópont",
+      "note": "Tájegység: Szlovák Paradicsom"
+    },
+    "description": "A Sokolia dolina a Szlovák Paradicsom egyik legvadabb szurdoka, ahol a 70 méteres Závojový-vízesés mellett mintegy 80 méter hosszú létra-, híd- és fellépőrendszeren kell feljutni a sziklafalon. Útközben a Skalný és a Vyšný vízesés is látványos megálló.",
+    "route": null,
+    "character": null,
+    "highlights": [],
+    "equipment": [],
+    "gpx": "gpx/tp-sokolia-dolina-solyom-volgy-szurdok.gpx",
+    "sourceUrl": "https://turaprogramok.hu/tura/sokolia-dolina-solyom-volgy-szurdok/",
+    "coverImage": null,
+    "images": []
+  },
+  {
+    "id": "tp-sucha-bela",
+    "region": "turaprogramok-szlovakia",
+    "type": "hike",
+    "viaFerrata": false,
+    "title": "Suchá Belá szurdoktúra",
+    "subtitle": "Szlovák Paradicsom",
+    "difficulty": "Nehéz",
+    "stats": {
+      "distKm": 9.4,
+      "ascM": 414,
+      "descM": 414,
+      "elevMin": 550,
+      "elevMax": 954
+    },
+    "parking": {
+      "name": "Kiindulópont",
+      "note": "Tájegység: Szlovák Paradicsom"
+    },
+    "description": "A Suchá Belá (Száraz-Fehér-völgy) Szlovák Paradicsom legnépszerűbb és egyik leglátványosabb szurdoktúrája Podlesoktól indul, létrákkal, láncokkal és fahidakkal felszerelve. A felfelé egyirányú útvonal vadromantikus vízesések, mint az Ablakos-vízesés, mentén vezet",
+    "route": null,
+    "character": null,
+    "highlights": [],
+    "equipment": [],
+    "gpx": "gpx/tp-sucha-bela.gpx",
+    "sourceUrl": "https://turaprogramok.hu/tura/sucha-bela/",
+    "coverImage": "images/tp-sucha-bela/cover.jpg",
+    "images": [
+      "images/tp-sucha-bela/0.jpg",
+      "images/tp-sucha-bela/1.jpg"
+    ]
+  },
+  {
+    "id": "tp-sucha-bela-teli",
+    "region": "turaprogramok-szlovakia",
+    "type": "hike",
+    "viaFerrata": false,
+    "title": "Suchá Belá téli szurdoktúra",
+    "subtitle": "Szlovák Paradicsom",
+    "difficulty": "Nehéz",
+    "stats": {
+      "distKm": 10.5,
+      "ascM": 414,
+      "descM": 414,
+      "elevMin": 550,
+      "elevMax": 954
+    },
+    "parking": {
+      "name": "Kiindulópont",
+      "note": "Tájegység: Szlovák Paradicsom"
+    },
+    "description": "A téli Suchá Belá (Száraz-Fehér-völgy) a Szlovák Paradicsom leglátványosabb szurdoktúrája Podlesokból, fagyott vízesésekkel és jeges létrákkal felszerelve. A felfelé egyirányú útvonal hómacskát igényel, és kristálytiszta jégalakzatok, zúgók mentén halad",
+    "route": null,
+    "character": null,
+    "highlights": [],
+    "equipment": [],
+    "gpx": "gpx/tp-sucha-bela-teli.gpx",
+    "sourceUrl": "https://turaprogramok.hu/tura/sucha-bela-teli/",
+    "coverImage": "images/tp-sucha-bela-teli/cover.jpg",
+    "images": [
+      "images/tp-sucha-bela-teli/0.jpg",
+      "images/tp-sucha-bela-teli/1.jpg"
+    ]
+  },
+  {
+    "id": "tp-szoliszko",
+    "region": "turaprogramok-szlovakia",
+    "type": "hike",
+    "viaFerrata": false,
+    "title": "Szoliszkó",
+    "subtitle": "Lorenz-hágó",
+    "difficulty": "Nehéz",
+    "stats": {
+      "distKm": 9.8,
+      "ascM": 1085,
+      "descM": 650,
+      "elevMin": 1380,
+      "elevMax": 2317
+    },
+    "parking": {
+      "name": "Kiindulópont",
+      "note": "Tájegység: Magas-Tátra"
+    },
+    "description": "A Magas-Tátra egyik legszebb, de legfárasztóbb körtúrája Štrbské Plesóból indul, a Mlynická-völgy vízesései és tengerszemei mellett vezet fel a 2317 m magas Bystré-nyeregbe, majd a vadregényes Furkotská-völgyön tér vissza. 9,8 km, 981 m szint és 6 óra menetidő",
+    "route": null,
+    "character": null,
+    "highlights": [],
+    "equipment": [],
+    "gpx": "gpx/tp-szoliszko.gpx",
+    "sourceUrl": "https://turaprogramok.hu/tura/szoliszko/",
+    "coverImage": "images/tp-szoliszko/cover.jpg",
+    "images": [
+      "images/tp-szoliszko/0.jpg",
+      "images/tp-szoliszko/1.jpg"
+    ]
+  },
+  {
+    "id": "tp-velky-krivan",
+    "region": "turaprogramok-szlovakia",
+    "type": "hike",
+    "viaFerrata": false,
+    "title": "Velky Krivan",
+    "subtitle": "🇸🇰 Kis-Fátra",
+    "difficulty": "Közepes-nehéz",
+    "stats": {
+      "distKm": 9.4,
+      "ascM": 637,
+      "descM": 637,
+      "elevMin": 1410,
+      "elevMax": 1646
+    },
+    "parking": {
+      "name": "Kiindulópont",
+      "note": "Tájegység: Kis-Fátra"
+    },
+    "description": "A Velký Kriváň (1709 m) a Kis-Fátra legmagasabb pontja, amely a Snilovské-nyereg felől kényelmes, jól jelzett gerincösvényen érhető el, a Chleb (1646 m) mellett haladva. A Vrátna–Chleb kabinos felvonóval rövidíthető a kaptató, pihenőt és ellátást a Chata pod Chlebom kínál.",
+    "route": null,
+    "character": null,
+    "highlights": [],
+    "equipment": [],
+    "gpx": "gpx/tp-velky-krivan.gpx",
+    "sourceUrl": "https://turaprogramok.hu/tura/velky-krivan/",
+    "coverImage": "images/tp-velky-krivan/cover.jpg",
+    "images": [
+      "images/tp-velky-krivan/0.jpg",
+      "images/tp-velky-krivan/1.jpg"
+    ]
+  },
+  {
+    "id": "tp-velky-sokol-nagy-solyom-volgy-szurdok",
+    "region": "turaprogramok-szlovakia",
+    "type": "hike",
+    "viaFerrata": false,
+    "title": "Velky Sokol (Nagy-Sólyom-völgy) szurdok",
+    "subtitle": "🇸🇰 Szlovák Paradicsom",
+    "difficulty": "Nehéz",
+    "stats": {
+      "distKm": 16.5,
+      "ascM": 473,
+      "descM": 473,
+      "elevMin": 592,
+      "elevMax": 1020
+    },
+    "parking": {
+      "name": "Kiindulópont",
+      "note": "Tájegység: Szlovák Paradicsom"
+    },
+    "description": "A Veľký Sokol a Szlovák Paradicsom egyik leghosszabb és legvadregényesebb szurdoka. A túra létrákon, láncokon és vízesések mellett vezet a szűk kanyonban. A magas sziklafalak és a sűrű erdő látványos kalandot ígérnek a szurdok mélyén",
+    "route": null,
+    "character": null,
+    "highlights": [],
+    "equipment": [],
+    "gpx": "gpx/tp-velky-sokol-nagy-solyom-volgy-szurdok.gpx",
+    "sourceUrl": "https://turaprogramok.hu/tura/velky-sokol-nagy-solyom-volgy-szurdok/",
+    "coverImage": "images/tp-velky-sokol-nagy-solyom-volgy-szurdok/cover.jpg",
+    "images": [
+      "images/tp-velky-sokol-nagy-solyom-volgy-szurdok/0.jpg",
+      "images/tp-velky-sokol-nagy-solyom-volgy-szurdok/1.jpg"
+    ]
+  },
+  {
+    "id": "tp-vorostorony-hago-magas-tatra",
+    "region": "turaprogramok-szlovakia",
+    "type": "hike",
+    "viaFerrata": false,
+    "title": "Vöröstorony-hágó",
+    "subtitle": "Magas-Tátra",
+    "difficulty": "Nehéz",
+    "stats": {
+      "distKm": 18.3,
+      "ascM": 1207,
+      "descM": 1209,
+      "elevMin": 1220,
+      "elevMax": 2310
+    },
+    "parking": {
+      "name": "Kiindulópont",
+      "note": "Tájegység: Magas-Tátra"
+    },
+    "description": "A Vöröstorony-hágó túra Hrebienokról indul, a Kis-Tarpataki-völgyön át vezet a Téryho menedékházig. Innen láncokkal biztosított szakaszon kelünk át a hágón, majd a Zbojnícka chata érintésével ereszkedünk vissza. Nehéz, 18,3 km-es magashegyi túra.",
+    "route": null,
+    "character": null,
+    "highlights": [],
+    "equipment": [],
+    "gpx": "gpx/tp-vorostorony-hago-magas-tatra.gpx",
+    "sourceUrl": "https://turaprogramok.hu/tura/vorostorony-hago-magas-tatra/",
+    "coverImage": "images/tp-vorostorony-hago-magas-tatra/cover.jpg",
+    "images": [
+      "images/tp-vorostorony-hago-magas-tatra/0.jpg",
+      "images/tp-vorostorony-hago-magas-tatra/1.jpg"
+    ]
+  },
+  {
+    "id": "tp-zejmar-szakadek-teli",
+    "region": "turaprogramok-szlovakia",
+    "type": "hike",
+    "viaFerrata": false,
+    "title": "Zejmár-szakadék télen",
+    "subtitle": "jeges szurdoktúra a Szlovák Paradicsomban",
+    "difficulty": "Könnyű",
+    "stats": {
+      "distKm": 7.8,
+      "ascM": 386,
+      "descM": 386,
+      "elevMin": 789,
+      "elevMax": 1090
+    },
+    "parking": {
+      "name": "Kiindulópont",
+      "note": "Tájegység: Szlovák Paradicsom"
+    },
+    "description": "A téli Zejmár-szakadék a Szlovák Paradicsom egyik legrövidebb, mégis látványos szurdoktúrája, befagyott vízesésekkel és meredek, jeges létrákkal tarkítva. A szurdok egyirányú, láncokkal és fellépőkkel biztosított szakaszain hómacska erősen ajánlott",
+    "route": null,
+    "character": null,
+    "highlights": [],
+    "equipment": [],
+    "gpx": "gpx/tp-zejmar-szakadek-teli.gpx",
+    "sourceUrl": "https://turaprogramok.hu/tura/zejmar-szakadek-teli/",
+    "coverImage": "images/tp-zejmar-szakadek-teli/cover.jpg",
+    "images": [
+      "images/tp-zejmar-szakadek-teli/0.jpg",
+      "images/tp-zejmar-szakadek-teli/1.jpg"
+    ]
+  }
+]
